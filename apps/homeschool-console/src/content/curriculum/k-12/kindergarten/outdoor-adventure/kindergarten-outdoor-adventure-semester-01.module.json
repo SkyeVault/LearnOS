@@ -1,0 +1,460 @@
+{
+  "id": "kindergarten-outdoor-adventure-semester-01",
+  "name": "Kindergarten Outdoor Adventure — Semester 1",
+  "description": "An 18-week, play-based Kindergarten pathway for outdoor rules, weather clothing, senses, and nature walks. Lessons are brief, hands-on, flexible, and designed for adult-guided learning.",
+  "version": "1.0.0",
+  "subjectNames": [
+    "Outdoor Adventure"
+  ],
+  "learningGoals": [
+    "Build confidence and curiosity with outdoor rules, weather clothing, senses, and nature walks.",
+    "Communicate learning through talk, drawing, movement, play, or a simple creation.",
+    "Practice safe, kind, and responsible participation."
+  ],
+  "lessons": [
+    {
+      "title": "Notice and talk: outdoor rules, weather clothing, senses, and nature walks",
+      "objective": "I can notice details and share a question about outdoor rules, weather clothing, senses, and nature walks through a close look at outdoor rules, weather clothing, senses, and nature walks.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: outdoor rules, weather clothing, senses, and nature walks",
+      "objective": "I can notice details and share a question about outdoor rules, weather clothing, senses, and nature walks through a guided practice with outdoor rules, weather clothing, senses, and nature walks.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: outdoor rules, weather clothing, senses, and nature walks",
+      "objective": "I can notice details and share a question about outdoor rules, weather clothing, senses, and nature walks through a small creation or demonstration about outdoor rules, weather clothing, senses, and nature walks.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: outdoor rules, weather clothing, senses, and nature walks",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about outdoor rules, weather clothing, senses, and nature walks through a close look at outdoor rules, weather clothing, senses, and nature walks.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: outdoor rules, weather clothing, senses, and nature walks",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about outdoor rules, weather clothing, senses, and nature walks through a guided practice with outdoor rules, weather clothing, senses, and nature walks.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: outdoor rules, weather clothing, senses, and nature walks",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about outdoor rules, weather clothing, senses, and nature walks through a small creation or demonstration about outdoor rules, weather clothing, senses, and nature walks.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: outdoor rules, weather clothing, senses, and nature walks",
+      "objective": "I can use what I know to make, solve, move, or help with outdoor rules, weather clothing, senses, and nature walks through a close look at outdoor rules, weather clothing, senses, and nature walks.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: outdoor rules, weather clothing, senses, and nature walks",
+      "objective": "I can use what I know to make, solve, move, or help with outdoor rules, weather clothing, senses, and nature walks through a guided practice with outdoor rules, weather clothing, senses, and nature walks.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: outdoor rules, weather clothing, senses, and nature walks",
+      "objective": "I can use what I know to make, solve, move, or help with outdoor rules, weather clothing, senses, and nature walks through a small creation or demonstration about outdoor rules, weather clothing, senses, and nature walks.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: outdoor rules, weather clothing, senses, and nature walks",
+      "objective": "I can show my learning, listen to feedback, and name a next step for outdoor rules, weather clothing, senses, and nature walks through a close look at outdoor rules, weather clothing, senses, and nature walks.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: outdoor rules, weather clothing, senses, and nature walks",
+      "objective": "I can show my learning, listen to feedback, and name a next step for outdoor rules, weather clothing, senses, and nature walks through a guided practice with outdoor rules, weather clothing, senses, and nature walks.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: outdoor rules, weather clothing, senses, and nature walks",
+      "objective": "I can show my learning, listen to feedback, and name a next step for outdoor rules, weather clothing, senses, and nature walks through a small creation or demonstration about outdoor rules, weather clothing, senses, and nature walks.",
+      "minutes": 25
+    }
+  ],
+  "resources": [
+    {
+      "title": "Leave No Trace and outdoor safety guidance",
+      "url": "https://lnt.org/why/7-principles/",
+      "description": "Planning reference for this Kindergarten Outdoor Adventure pathway."
+    }
+  ],
+  "curriculum": {
+    "gradeId": "kindergarten",
+    "subjectId": "outdoor-adventure",
+    "semester": 1,
+    "pacing": {
+      "intendedWeeks": 18,
+      "flexible": true
+    },
+    "units": [
+      {
+        "id": "u01",
+        "title": "Wonder and notice: outdoor rules, weather clothing, senses, and nature walks",
+        "essentialQuestion": "What can we notice and wonder about outdoor rules, weather clothing, senses, and nature walks?",
+        "outcomes": [
+          "I can notice details and share a question about outdoor rules, weather clothing, senses, and nature walks.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "Leave No Trace: Respect Wildlife"
+        ],
+        "lessons": [
+          {
+            "id": "u01-l01",
+            "title": "Notice and talk: outdoor rules, weather clothing, senses, and nature walks",
+            "objective": "I can notice details and share a question about outdoor rules, weather clothing, senses, and nature walks through a close look at outdoor rules, weather clothing, senses, and nature walks.",
+            "estimatedMinutes": 25,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l01-a01",
+                "title": "A close look at outdoor rules, weather clothing, senses, and nature walks",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at outdoor rules, weather clothing, senses, and nature walks, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in outdoor rules, weather clothing, senses, and nature walks.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u01-l02",
+            "title": "Try it together: outdoor rules, weather clothing, senses, and nature walks",
+            "objective": "I can notice details and share a question about outdoor rules, weather clothing, senses, and nature walks through a guided practice with outdoor rules, weather clothing, senses, and nature walks.",
+            "estimatedMinutes": 25,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l02-a01",
+                "title": "A guided practice with outdoor rules, weather clothing, senses, and nature walks",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with outdoor rules, weather clothing, senses, and nature walks, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in outdoor rules, weather clothing, senses, and nature walks.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u01-l03",
+            "title": "Make or show: outdoor rules, weather clothing, senses, and nature walks",
+            "objective": "I can notice details and share a question about outdoor rules, weather clothing, senses, and nature walks through a small creation or demonstration about outdoor rules, weather clothing, senses, and nature walks.",
+            "estimatedMinutes": 25,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l03-a01",
+                "title": "A small creation or demonstration about outdoor rules, weather clothing, senses, and nature walks",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about outdoor rules, weather clothing, senses, and nature walks, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in outdoor rules, weather clothing, senses, and nature walks.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u02",
+        "title": "Explore and practice: outdoor rules, weather clothing, senses, and nature walks",
+        "essentialQuestion": "How can we learn and practice outdoor rules, weather clothing, senses, and nature walks safely?",
+        "outcomes": [
+          "I can try a skill, use materials safely, and explain something I learned about outdoor rules, weather clothing, senses, and nature walks.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "Leave No Trace: Respect Wildlife"
+        ],
+        "lessons": [
+          {
+            "id": "u02-l01",
+            "title": "Notice and talk: outdoor rules, weather clothing, senses, and nature walks",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about outdoor rules, weather clothing, senses, and nature walks through a close look at outdoor rules, weather clothing, senses, and nature walks.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l01-a01",
+                "title": "A close look at outdoor rules, weather clothing, senses, and nature walks",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at outdoor rules, weather clothing, senses, and nature walks, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in outdoor rules, weather clothing, senses, and nature walks.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u02-l02",
+            "title": "Try it together: outdoor rules, weather clothing, senses, and nature walks",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about outdoor rules, weather clothing, senses, and nature walks through a guided practice with outdoor rules, weather clothing, senses, and nature walks.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l02-a01",
+                "title": "A guided practice with outdoor rules, weather clothing, senses, and nature walks",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with outdoor rules, weather clothing, senses, and nature walks, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in outdoor rules, weather clothing, senses, and nature walks.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u02-l03",
+            "title": "Make or show: outdoor rules, weather clothing, senses, and nature walks",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about outdoor rules, weather clothing, senses, and nature walks through a small creation or demonstration about outdoor rules, weather clothing, senses, and nature walks.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l03-a01",
+                "title": "A small creation or demonstration about outdoor rules, weather clothing, senses, and nature walks",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about outdoor rules, weather clothing, senses, and nature walks, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in outdoor rules, weather clothing, senses, and nature walks.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u03",
+        "title": "Make and apply: outdoor rules, weather clothing, senses, and nature walks",
+        "essentialQuestion": "How can we use outdoor rules, weather clothing, senses, and nature walks to make, solve, move, or help?",
+        "outcomes": [
+          "I can use what I know to make, solve, move, or help with outdoor rules, weather clothing, senses, and nature walks.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "Leave No Trace: Respect Wildlife"
+        ],
+        "lessons": [
+          {
+            "id": "u03-l01",
+            "title": "Notice and talk: outdoor rules, weather clothing, senses, and nature walks",
+            "objective": "I can use what I know to make, solve, move, or help with outdoor rules, weather clothing, senses, and nature walks through a close look at outdoor rules, weather clothing, senses, and nature walks.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l01-a01",
+                "title": "A close look at outdoor rules, weather clothing, senses, and nature walks",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at outdoor rules, weather clothing, senses, and nature walks, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in outdoor rules, weather clothing, senses, and nature walks.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u03-l02",
+            "title": "Try it together: outdoor rules, weather clothing, senses, and nature walks",
+            "objective": "I can use what I know to make, solve, move, or help with outdoor rules, weather clothing, senses, and nature walks through a guided practice with outdoor rules, weather clothing, senses, and nature walks.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l02-a01",
+                "title": "A guided practice with outdoor rules, weather clothing, senses, and nature walks",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with outdoor rules, weather clothing, senses, and nature walks, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in outdoor rules, weather clothing, senses, and nature walks.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u03-l03",
+            "title": "Make or show: outdoor rules, weather clothing, senses, and nature walks",
+            "objective": "I can use what I know to make, solve, move, or help with outdoor rules, weather clothing, senses, and nature walks through a small creation or demonstration about outdoor rules, weather clothing, senses, and nature walks.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l03-a01",
+                "title": "A small creation or demonstration about outdoor rules, weather clothing, senses, and nature walks",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about outdoor rules, weather clothing, senses, and nature walks, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in outdoor rules, weather clothing, senses, and nature walks.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u04",
+        "title": "Reflect and share: outdoor rules, weather clothing, senses, and nature walks",
+        "essentialQuestion": "How can we share what we learned about outdoor rules, weather clothing, senses, and nature walks?",
+        "outcomes": [
+          "I can show my learning, listen to feedback, and name a next step for outdoor rules, weather clothing, senses, and nature walks.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "Leave No Trace: Respect Wildlife"
+        ],
+        "lessons": [
+          {
+            "id": "u04-l01",
+            "title": "Notice and talk: outdoor rules, weather clothing, senses, and nature walks",
+            "objective": "I can show my learning, listen to feedback, and name a next step for outdoor rules, weather clothing, senses, and nature walks through a close look at outdoor rules, weather clothing, senses, and nature walks.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l01-a01",
+                "title": "A close look at outdoor rules, weather clothing, senses, and nature walks",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at outdoor rules, weather clothing, senses, and nature walks, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in outdoor rules, weather clothing, senses, and nature walks.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u04-l02",
+            "title": "Try it together: outdoor rules, weather clothing, senses, and nature walks",
+            "objective": "I can show my learning, listen to feedback, and name a next step for outdoor rules, weather clothing, senses, and nature walks through a guided practice with outdoor rules, weather clothing, senses, and nature walks.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l02-a01",
+                "title": "A guided practice with outdoor rules, weather clothing, senses, and nature walks",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with outdoor rules, weather clothing, senses, and nature walks, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in outdoor rules, weather clothing, senses, and nature walks.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u04-l03",
+            "title": "Make or show: outdoor rules, weather clothing, senses, and nature walks",
+            "objective": "I can show my learning, listen to feedback, and name a next step for outdoor rules, weather clothing, senses, and nature walks through a small creation or demonstration about outdoor rules, weather clothing, senses, and nature walks.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l03-a01",
+                "title": "A small creation or demonstration about outdoor rules, weather clothing, senses, and nature walks",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about outdoor rules, weather clothing, senses, and nature walks, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in outdoor rules, weather clothing, senses, and nature walks.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

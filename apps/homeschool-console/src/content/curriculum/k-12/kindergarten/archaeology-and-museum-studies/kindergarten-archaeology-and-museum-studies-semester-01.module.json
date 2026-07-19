@@ -1,0 +1,460 @@
+{
+  "id": "kindergarten-archaeology-and-museum-studies-semester-01",
+  "name": "Kindergarten Archaeology & Museum Studies — Semester 1",
+  "description": "An 18-week, play-based Kindergarten pathway for artifacts, clues, careful looking, and protecting objects. Lessons are brief, hands-on, flexible, and designed for adult-guided learning.",
+  "version": "1.0.0",
+  "subjectNames": [
+    "Archaeology & Museum Studies"
+  ],
+  "learningGoals": [
+    "Build confidence and curiosity with artifacts, clues, careful looking, and protecting objects.",
+    "Communicate learning through talk, drawing, movement, play, or a simple creation.",
+    "Practice safe, kind, and responsible participation."
+  ],
+  "lessons": [
+    {
+      "title": "Notice and talk: artifacts, clues, careful looking, and protecting objects",
+      "objective": "I can notice details and share a question about artifacts, clues, careful looking, and protecting objects through a close look at artifacts, clues, careful looking, and protecting objects.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: artifacts, clues, careful looking, and protecting objects",
+      "objective": "I can notice details and share a question about artifacts, clues, careful looking, and protecting objects through a guided practice with artifacts, clues, careful looking, and protecting objects.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: artifacts, clues, careful looking, and protecting objects",
+      "objective": "I can notice details and share a question about artifacts, clues, careful looking, and protecting objects through a small creation or demonstration about artifacts, clues, careful looking, and protecting objects.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: artifacts, clues, careful looking, and protecting objects",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about artifacts, clues, careful looking, and protecting objects through a close look at artifacts, clues, careful looking, and protecting objects.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: artifacts, clues, careful looking, and protecting objects",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about artifacts, clues, careful looking, and protecting objects through a guided practice with artifacts, clues, careful looking, and protecting objects.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: artifacts, clues, careful looking, and protecting objects",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about artifacts, clues, careful looking, and protecting objects through a small creation or demonstration about artifacts, clues, careful looking, and protecting objects.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: artifacts, clues, careful looking, and protecting objects",
+      "objective": "I can use what I know to make, solve, move, or help with artifacts, clues, careful looking, and protecting objects through a close look at artifacts, clues, careful looking, and protecting objects.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: artifacts, clues, careful looking, and protecting objects",
+      "objective": "I can use what I know to make, solve, move, or help with artifacts, clues, careful looking, and protecting objects through a guided practice with artifacts, clues, careful looking, and protecting objects.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: artifacts, clues, careful looking, and protecting objects",
+      "objective": "I can use what I know to make, solve, move, or help with artifacts, clues, careful looking, and protecting objects through a small creation or demonstration about artifacts, clues, careful looking, and protecting objects.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: artifacts, clues, careful looking, and protecting objects",
+      "objective": "I can show my learning, listen to feedback, and name a next step for artifacts, clues, careful looking, and protecting objects through a close look at artifacts, clues, careful looking, and protecting objects.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: artifacts, clues, careful looking, and protecting objects",
+      "objective": "I can show my learning, listen to feedback, and name a next step for artifacts, clues, careful looking, and protecting objects through a guided practice with artifacts, clues, careful looking, and protecting objects.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: artifacts, clues, careful looking, and protecting objects",
+      "objective": "I can show my learning, listen to feedback, and name a next step for artifacts, clues, careful looking, and protecting objects through a small creation or demonstration about artifacts, clues, careful looking, and protecting objects.",
+      "minutes": 25
+    }
+  ],
+  "resources": [
+    {
+      "title": "C3 historical inquiry pathway",
+      "url": "https://www.socialstudies.org/standards/c3",
+      "description": "Planning reference for this Kindergarten Archaeology & Museum Studies pathway."
+    }
+  ],
+  "curriculum": {
+    "gradeId": "kindergarten",
+    "subjectId": "archaeology-and-museum-studies",
+    "semester": 1,
+    "pacing": {
+      "intendedWeeks": 18,
+      "flexible": true
+    },
+    "units": [
+      {
+        "id": "u01",
+        "title": "Wonder and notice: artifacts, clues, careful looking, and protecting objects",
+        "essentialQuestion": "What can we notice and wonder about artifacts, clues, careful looking, and protecting objects?",
+        "outcomes": [
+          "I can notice details and share a question about artifacts, clues, careful looking, and protecting objects.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "C3: D2.His.14.K-2"
+        ],
+        "lessons": [
+          {
+            "id": "u01-l01",
+            "title": "Notice and talk: artifacts, clues, careful looking, and protecting objects",
+            "objective": "I can notice details and share a question about artifacts, clues, careful looking, and protecting objects through a close look at artifacts, clues, careful looking, and protecting objects.",
+            "estimatedMinutes": 25,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l01-a01",
+                "title": "A close look at artifacts, clues, careful looking, and protecting objects",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at artifacts, clues, careful looking, and protecting objects, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in artifacts, clues, careful looking, and protecting objects.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u01-l02",
+            "title": "Try it together: artifacts, clues, careful looking, and protecting objects",
+            "objective": "I can notice details and share a question about artifacts, clues, careful looking, and protecting objects through a guided practice with artifacts, clues, careful looking, and protecting objects.",
+            "estimatedMinutes": 25,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l02-a01",
+                "title": "A guided practice with artifacts, clues, careful looking, and protecting objects",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with artifacts, clues, careful looking, and protecting objects, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in artifacts, clues, careful looking, and protecting objects.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u01-l03",
+            "title": "Make or show: artifacts, clues, careful looking, and protecting objects",
+            "objective": "I can notice details and share a question about artifacts, clues, careful looking, and protecting objects through a small creation or demonstration about artifacts, clues, careful looking, and protecting objects.",
+            "estimatedMinutes": 25,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l03-a01",
+                "title": "A small creation or demonstration about artifacts, clues, careful looking, and protecting objects",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about artifacts, clues, careful looking, and protecting objects, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in artifacts, clues, careful looking, and protecting objects.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u02",
+        "title": "Explore and practice: artifacts, clues, careful looking, and protecting objects",
+        "essentialQuestion": "How can we learn and practice artifacts, clues, careful looking, and protecting objects safely?",
+        "outcomes": [
+          "I can try a skill, use materials safely, and explain something I learned about artifacts, clues, careful looking, and protecting objects.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "C3: D2.His.14.K-2"
+        ],
+        "lessons": [
+          {
+            "id": "u02-l01",
+            "title": "Notice and talk: artifacts, clues, careful looking, and protecting objects",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about artifacts, clues, careful looking, and protecting objects through a close look at artifacts, clues, careful looking, and protecting objects.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l01-a01",
+                "title": "A close look at artifacts, clues, careful looking, and protecting objects",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at artifacts, clues, careful looking, and protecting objects, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in artifacts, clues, careful looking, and protecting objects.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u02-l02",
+            "title": "Try it together: artifacts, clues, careful looking, and protecting objects",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about artifacts, clues, careful looking, and protecting objects through a guided practice with artifacts, clues, careful looking, and protecting objects.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l02-a01",
+                "title": "A guided practice with artifacts, clues, careful looking, and protecting objects",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with artifacts, clues, careful looking, and protecting objects, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in artifacts, clues, careful looking, and protecting objects.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u02-l03",
+            "title": "Make or show: artifacts, clues, careful looking, and protecting objects",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about artifacts, clues, careful looking, and protecting objects through a small creation or demonstration about artifacts, clues, careful looking, and protecting objects.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l03-a01",
+                "title": "A small creation or demonstration about artifacts, clues, careful looking, and protecting objects",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about artifacts, clues, careful looking, and protecting objects, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in artifacts, clues, careful looking, and protecting objects.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u03",
+        "title": "Make and apply: artifacts, clues, careful looking, and protecting objects",
+        "essentialQuestion": "How can we use artifacts, clues, careful looking, and protecting objects to make, solve, move, or help?",
+        "outcomes": [
+          "I can use what I know to make, solve, move, or help with artifacts, clues, careful looking, and protecting objects.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "C3: D2.His.14.K-2"
+        ],
+        "lessons": [
+          {
+            "id": "u03-l01",
+            "title": "Notice and talk: artifacts, clues, careful looking, and protecting objects",
+            "objective": "I can use what I know to make, solve, move, or help with artifacts, clues, careful looking, and protecting objects through a close look at artifacts, clues, careful looking, and protecting objects.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l01-a01",
+                "title": "A close look at artifacts, clues, careful looking, and protecting objects",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at artifacts, clues, careful looking, and protecting objects, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in artifacts, clues, careful looking, and protecting objects.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u03-l02",
+            "title": "Try it together: artifacts, clues, careful looking, and protecting objects",
+            "objective": "I can use what I know to make, solve, move, or help with artifacts, clues, careful looking, and protecting objects through a guided practice with artifacts, clues, careful looking, and protecting objects.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l02-a01",
+                "title": "A guided practice with artifacts, clues, careful looking, and protecting objects",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with artifacts, clues, careful looking, and protecting objects, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in artifacts, clues, careful looking, and protecting objects.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u03-l03",
+            "title": "Make or show: artifacts, clues, careful looking, and protecting objects",
+            "objective": "I can use what I know to make, solve, move, or help with artifacts, clues, careful looking, and protecting objects through a small creation or demonstration about artifacts, clues, careful looking, and protecting objects.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l03-a01",
+                "title": "A small creation or demonstration about artifacts, clues, careful looking, and protecting objects",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about artifacts, clues, careful looking, and protecting objects, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in artifacts, clues, careful looking, and protecting objects.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u04",
+        "title": "Reflect and share: artifacts, clues, careful looking, and protecting objects",
+        "essentialQuestion": "How can we share what we learned about artifacts, clues, careful looking, and protecting objects?",
+        "outcomes": [
+          "I can show my learning, listen to feedback, and name a next step for artifacts, clues, careful looking, and protecting objects.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "C3: D2.His.14.K-2"
+        ],
+        "lessons": [
+          {
+            "id": "u04-l01",
+            "title": "Notice and talk: artifacts, clues, careful looking, and protecting objects",
+            "objective": "I can show my learning, listen to feedback, and name a next step for artifacts, clues, careful looking, and protecting objects through a close look at artifacts, clues, careful looking, and protecting objects.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l01-a01",
+                "title": "A close look at artifacts, clues, careful looking, and protecting objects",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at artifacts, clues, careful looking, and protecting objects, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in artifacts, clues, careful looking, and protecting objects.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u04-l02",
+            "title": "Try it together: artifacts, clues, careful looking, and protecting objects",
+            "objective": "I can show my learning, listen to feedback, and name a next step for artifacts, clues, careful looking, and protecting objects through a guided practice with artifacts, clues, careful looking, and protecting objects.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l02-a01",
+                "title": "A guided practice with artifacts, clues, careful looking, and protecting objects",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with artifacts, clues, careful looking, and protecting objects, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in artifacts, clues, careful looking, and protecting objects.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u04-l03",
+            "title": "Make or show: artifacts, clues, careful looking, and protecting objects",
+            "objective": "I can show my learning, listen to feedback, and name a next step for artifacts, clues, careful looking, and protecting objects through a small creation or demonstration about artifacts, clues, careful looking, and protecting objects.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l03-a01",
+                "title": "A small creation or demonstration about artifacts, clues, careful looking, and protecting objects",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about artifacts, clues, careful looking, and protecting objects, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in artifacts, clues, careful looking, and protecting objects.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

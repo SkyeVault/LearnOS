@@ -1,0 +1,480 @@
+{
+  "id": "grade-01-chess-and-strategy-games-semester-02",
+  "name": "Grade 1 Chess & Strategy Games — Semester 2",
+  "description": "An 18-week Grade 1 pathway for first-grade application, project work, reflection, and sharing in Chess & Strategy Games. Learning builds independence through investigation, guided practice, application, and reflection.",
+  "version": "1.0.0",
+  "subjectNames": [
+    "Chess & Strategy Games"
+  ],
+  "learningGoals": [
+    "Develop first-grade knowledge and skills in first-grade application, project work, reflection, and sharing in Chess & Strategy Games.",
+    "Use speaking, drawing, writing, numbers, models, or movement to explain thinking.",
+    "Work independently when ready and ask for help, feedback, or clarification when needed."
+  ],
+  "lessons": [
+    {
+      "title": "Explore first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+      "objective": "I can observe, discuss, and record first-grade application, project work, reflection, and sharing in Chess & Strategy Games by completing a first-grade task and explaining one observation, choice, or strategy.",
+      "minutes": 30
+    },
+    {
+      "title": "Practice first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+      "objective": "I can observe, discuss, and record first-grade application, project work, reflection, and sharing in Chess & Strategy Games by completing a first-grade task and explaining one observation, choice, or strategy.",
+      "minutes": 30
+    },
+    {
+      "title": "Show what I know about first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+      "objective": "I can observe, discuss, and record first-grade application, project work, reflection, and sharing in Chess & Strategy Games by completing a first-grade task and explaining one observation, choice, or strategy.",
+      "minutes": 30
+    },
+    {
+      "title": "Explore first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+      "objective": "I can practice with support and explain first-grade application, project work, reflection, and sharing in Chess & Strategy Games by completing a first-grade task and explaining one observation, choice, or strategy.",
+      "minutes": 30
+    },
+    {
+      "title": "Practice first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+      "objective": "I can practice with support and explain first-grade application, project work, reflection, and sharing in Chess & Strategy Games by completing a first-grade task and explaining one observation, choice, or strategy.",
+      "minutes": 30
+    },
+    {
+      "title": "Show what I know about first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+      "objective": "I can practice with support and explain first-grade application, project work, reflection, and sharing in Chess & Strategy Games by completing a first-grade task and explaining one observation, choice, or strategy.",
+      "minutes": 30
+    },
+    {
+      "title": "Explore first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+      "objective": "I can create, solve, move, or demonstrate first-grade application, project work, reflection, and sharing in Chess & Strategy Games by completing a first-grade task and explaining one observation, choice, or strategy.",
+      "minutes": 30
+    },
+    {
+      "title": "Practice first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+      "objective": "I can create, solve, move, or demonstrate first-grade application, project work, reflection, and sharing in Chess & Strategy Games by completing a first-grade task and explaining one observation, choice, or strategy.",
+      "minutes": 30
+    },
+    {
+      "title": "Show what I know about first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+      "objective": "I can create, solve, move, or demonstrate first-grade application, project work, reflection, and sharing in Chess & Strategy Games by completing a first-grade task and explaining one observation, choice, or strategy.",
+      "minutes": 30
+    },
+    {
+      "title": "Explore first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+      "objective": "I can present, reflect, and set a next step first-grade application, project work, reflection, and sharing in Chess & Strategy Games by completing a first-grade task and explaining one observation, choice, or strategy.",
+      "minutes": 30
+    },
+    {
+      "title": "Practice first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+      "objective": "I can present, reflect, and set a next step first-grade application, project work, reflection, and sharing in Chess & Strategy Games by completing a first-grade task and explaining one observation, choice, or strategy.",
+      "minutes": 30
+    },
+    {
+      "title": "Show what I know about first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+      "objective": "I can present, reflect, and set a next step first-grade application, project work, reflection, and sharing in Chess & Strategy Games by completing a first-grade task and explaining one observation, choice, or strategy.",
+      "minutes": 30
+    }
+  ],
+  "resources": [
+    {
+      "title": "Game-based reasoning pathway",
+      "url": "https://www.uschess.org/",
+      "description": "Planning reference for this Grade 1 Chess & Strategy Games pathway."
+    }
+  ],
+  "curriculum": {
+    "gradeId": "grade-01",
+    "subjectId": "chess-and-strategy-games",
+    "semester": 2,
+    "pacing": {
+      "intendedWeeks": 18,
+      "flexible": true
+    },
+    "units": [
+      {
+        "id": "u01",
+        "title": "Investigate: first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+        "essentialQuestion": "What evidence can we gather about first-grade application, project work, reflection, and sharing in Chess & Strategy Games?",
+        "outcomes": [
+          "I can observe, discuss, and record first-grade application, project work, reflection, and sharing in Chess & Strategy Games.",
+          "I can use accurate words, pictures, numbers, models, writing, or movement to communicate my thinking."
+        ],
+        "standardIds": [
+          "Teacher-designed strategy pathway"
+        ],
+        "lessons": [
+          {
+            "id": "u01-l01",
+            "title": "Explore first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+            "objective": "I can observe, discuss, and record first-grade application, project work, reflection, and sharing in Chess & Strategy Games by completing a first-grade task and explaining one observation, choice, or strategy.",
+            "estimatedMinutes": 30,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l01-a01",
+                "title": "Notice and investigate",
+                "kind": "learn",
+                "learnerAction": "The learner uses age-appropriate materials and first-grade vocabulary to observe, discuss, and record first-grade application, project work, reflection, and sharing in Chess & Strategy Games. Adult supervision is provided whenever the subject involves tools, heat, animals, water, traffic, or online media.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 22
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a first-grade task connected to first-grade application, project work, reflection, and sharing in Chess & Strategy Games.",
+              "The learner explains an observation, choice, or strategy with appropriate support.",
+              "The learner follows safety, care, and collaboration expectations."
+            ]
+          },
+          {
+            "id": "u01-l02",
+            "title": "Practice first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+            "objective": "I can observe, discuss, and record first-grade application, project work, reflection, and sharing in Chess & Strategy Games by completing a first-grade task and explaining one observation, choice, or strategy.",
+            "estimatedMinutes": 30,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l02-a01",
+                "title": "Guided skill practice",
+                "kind": "practice",
+                "learnerAction": "The learner uses age-appropriate materials and first-grade vocabulary to observe, discuss, and record first-grade application, project work, reflection, and sharing in Chess & Strategy Games. Adult supervision is provided whenever the subject involves tools, heat, animals, water, traffic, or online media.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 22
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a first-grade task connected to first-grade application, project work, reflection, and sharing in Chess & Strategy Games.",
+              "The learner explains an observation, choice, or strategy with appropriate support.",
+              "The learner follows safety, care, and collaboration expectations."
+            ]
+          },
+          {
+            "id": "u01-l03",
+            "title": "Show what I know about first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+            "objective": "I can observe, discuss, and record first-grade application, project work, reflection, and sharing in Chess & Strategy Games by completing a first-grade task and explaining one observation, choice, or strategy.",
+            "estimatedMinutes": 30,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l03-a01",
+                "title": "Independent or collaborative application",
+                "kind": "create",
+                "learnerAction": "The learner uses age-appropriate materials and first-grade vocabulary to observe, discuss, and record first-grade application, project work, reflection, and sharing in Chess & Strategy Games. Adult supervision is provided whenever the subject involves tools, heat, animals, water, traffic, or online media.",
+                "evidenceOptions": [
+                  "photo",
+                  "written-response",
+                  "observation"
+                ],
+                "estimatedMinutes": 22
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a first-grade task connected to first-grade application, project work, reflection, and sharing in Chess & Strategy Games.",
+              "The learner explains an observation, choice, or strategy with appropriate support.",
+              "The learner follows safety, care, and collaboration expectations."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u02",
+        "title": "Build skill: first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+        "essentialQuestion": "How can we practice and explain first-grade application, project work, reflection, and sharing in Chess & Strategy Games?",
+        "outcomes": [
+          "I can practice with support and explain first-grade application, project work, reflection, and sharing in Chess & Strategy Games.",
+          "I can use accurate words, pictures, numbers, models, writing, or movement to communicate my thinking."
+        ],
+        "standardIds": [
+          "Teacher-designed strategy pathway"
+        ],
+        "lessons": [
+          {
+            "id": "u02-l01",
+            "title": "Explore first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+            "objective": "I can practice with support and explain first-grade application, project work, reflection, and sharing in Chess & Strategy Games by completing a first-grade task and explaining one observation, choice, or strategy.",
+            "estimatedMinutes": 30,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l01-a01",
+                "title": "Notice and investigate",
+                "kind": "learn",
+                "learnerAction": "The learner uses age-appropriate materials and first-grade vocabulary to practice with support and explain first-grade application, project work, reflection, and sharing in Chess & Strategy Games. Adult supervision is provided whenever the subject involves tools, heat, animals, water, traffic, or online media.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 22
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a first-grade task connected to first-grade application, project work, reflection, and sharing in Chess & Strategy Games.",
+              "The learner explains an observation, choice, or strategy with appropriate support.",
+              "The learner follows safety, care, and collaboration expectations."
+            ]
+          },
+          {
+            "id": "u02-l02",
+            "title": "Practice first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+            "objective": "I can practice with support and explain first-grade application, project work, reflection, and sharing in Chess & Strategy Games by completing a first-grade task and explaining one observation, choice, or strategy.",
+            "estimatedMinutes": 30,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l02-a01",
+                "title": "Guided skill practice",
+                "kind": "practice",
+                "learnerAction": "The learner uses age-appropriate materials and first-grade vocabulary to practice with support and explain first-grade application, project work, reflection, and sharing in Chess & Strategy Games. Adult supervision is provided whenever the subject involves tools, heat, animals, water, traffic, or online media.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 22
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a first-grade task connected to first-grade application, project work, reflection, and sharing in Chess & Strategy Games.",
+              "The learner explains an observation, choice, or strategy with appropriate support.",
+              "The learner follows safety, care, and collaboration expectations."
+            ]
+          },
+          {
+            "id": "u02-l03",
+            "title": "Show what I know about first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+            "objective": "I can practice with support and explain first-grade application, project work, reflection, and sharing in Chess & Strategy Games by completing a first-grade task and explaining one observation, choice, or strategy.",
+            "estimatedMinutes": 30,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l03-a01",
+                "title": "Independent or collaborative application",
+                "kind": "create",
+                "learnerAction": "The learner uses age-appropriate materials and first-grade vocabulary to practice with support and explain first-grade application, project work, reflection, and sharing in Chess & Strategy Games. Adult supervision is provided whenever the subject involves tools, heat, animals, water, traffic, or online media.",
+                "evidenceOptions": [
+                  "photo",
+                  "written-response",
+                  "observation"
+                ],
+                "estimatedMinutes": 22
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a first-grade task connected to first-grade application, project work, reflection, and sharing in Chess & Strategy Games.",
+              "The learner explains an observation, choice, or strategy with appropriate support.",
+              "The learner follows safety, care, and collaboration expectations."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u03",
+        "title": "Apply learning: first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+        "essentialQuestion": "How can we apply first-grade application, project work, reflection, and sharing in Chess & Strategy Games to a meaningful task?",
+        "outcomes": [
+          "I can create, solve, move, or demonstrate first-grade application, project work, reflection, and sharing in Chess & Strategy Games.",
+          "I can use accurate words, pictures, numbers, models, writing, or movement to communicate my thinking."
+        ],
+        "standardIds": [
+          "Teacher-designed strategy pathway"
+        ],
+        "lessons": [
+          {
+            "id": "u03-l01",
+            "title": "Explore first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+            "objective": "I can create, solve, move, or demonstrate first-grade application, project work, reflection, and sharing in Chess & Strategy Games by completing a first-grade task and explaining one observation, choice, or strategy.",
+            "estimatedMinutes": 30,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l01-a01",
+                "title": "Notice and investigate",
+                "kind": "learn",
+                "learnerAction": "The learner uses age-appropriate materials and first-grade vocabulary to create, solve, move, or demonstrate first-grade application, project work, reflection, and sharing in Chess & Strategy Games. Adult supervision is provided whenever the subject involves tools, heat, animals, water, traffic, or online media.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 22
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a first-grade task connected to first-grade application, project work, reflection, and sharing in Chess & Strategy Games.",
+              "The learner explains an observation, choice, or strategy with appropriate support.",
+              "The learner follows safety, care, and collaboration expectations."
+            ]
+          },
+          {
+            "id": "u03-l02",
+            "title": "Practice first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+            "objective": "I can create, solve, move, or demonstrate first-grade application, project work, reflection, and sharing in Chess & Strategy Games by completing a first-grade task and explaining one observation, choice, or strategy.",
+            "estimatedMinutes": 30,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l02-a01",
+                "title": "Guided skill practice",
+                "kind": "practice",
+                "learnerAction": "The learner uses age-appropriate materials and first-grade vocabulary to create, solve, move, or demonstrate first-grade application, project work, reflection, and sharing in Chess & Strategy Games. Adult supervision is provided whenever the subject involves tools, heat, animals, water, traffic, or online media.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 22
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a first-grade task connected to first-grade application, project work, reflection, and sharing in Chess & Strategy Games.",
+              "The learner explains an observation, choice, or strategy with appropriate support.",
+              "The learner follows safety, care, and collaboration expectations."
+            ]
+          },
+          {
+            "id": "u03-l03",
+            "title": "Show what I know about first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+            "objective": "I can create, solve, move, or demonstrate first-grade application, project work, reflection, and sharing in Chess & Strategy Games by completing a first-grade task and explaining one observation, choice, or strategy.",
+            "estimatedMinutes": 30,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l03-a01",
+                "title": "Independent or collaborative application",
+                "kind": "create",
+                "learnerAction": "The learner uses age-appropriate materials and first-grade vocabulary to create, solve, move, or demonstrate first-grade application, project work, reflection, and sharing in Chess & Strategy Games. Adult supervision is provided whenever the subject involves tools, heat, animals, water, traffic, or online media.",
+                "evidenceOptions": [
+                  "photo",
+                  "written-response",
+                  "observation"
+                ],
+                "estimatedMinutes": 22
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a first-grade task connected to first-grade application, project work, reflection, and sharing in Chess & Strategy Games.",
+              "The learner explains an observation, choice, or strategy with appropriate support.",
+              "The learner follows safety, care, and collaboration expectations."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u04",
+        "title": "Share growth: first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+        "essentialQuestion": "How can we share evidence of growth in first-grade application, project work, reflection, and sharing in Chess & Strategy Games?",
+        "outcomes": [
+          "I can present, reflect, and set a next step first-grade application, project work, reflection, and sharing in Chess & Strategy Games.",
+          "I can use accurate words, pictures, numbers, models, writing, or movement to communicate my thinking."
+        ],
+        "standardIds": [
+          "Teacher-designed strategy pathway"
+        ],
+        "lessons": [
+          {
+            "id": "u04-l01",
+            "title": "Explore first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+            "objective": "I can present, reflect, and set a next step first-grade application, project work, reflection, and sharing in Chess & Strategy Games by completing a first-grade task and explaining one observation, choice, or strategy.",
+            "estimatedMinutes": 30,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l01-a01",
+                "title": "Notice and investigate",
+                "kind": "learn",
+                "learnerAction": "The learner uses age-appropriate materials and first-grade vocabulary to present, reflect, and set a next step first-grade application, project work, reflection, and sharing in Chess & Strategy Games. Adult supervision is provided whenever the subject involves tools, heat, animals, water, traffic, or online media.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 22
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a first-grade task connected to first-grade application, project work, reflection, and sharing in Chess & Strategy Games.",
+              "The learner explains an observation, choice, or strategy with appropriate support.",
+              "The learner follows safety, care, and collaboration expectations."
+            ]
+          },
+          {
+            "id": "u04-l02",
+            "title": "Practice first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+            "objective": "I can present, reflect, and set a next step first-grade application, project work, reflection, and sharing in Chess & Strategy Games by completing a first-grade task and explaining one observation, choice, or strategy.",
+            "estimatedMinutes": 30,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l02-a01",
+                "title": "Guided skill practice",
+                "kind": "practice",
+                "learnerAction": "The learner uses age-appropriate materials and first-grade vocabulary to present, reflect, and set a next step first-grade application, project work, reflection, and sharing in Chess & Strategy Games. Adult supervision is provided whenever the subject involves tools, heat, animals, water, traffic, or online media.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 22
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a first-grade task connected to first-grade application, project work, reflection, and sharing in Chess & Strategy Games.",
+              "The learner explains an observation, choice, or strategy with appropriate support.",
+              "The learner follows safety, care, and collaboration expectations."
+            ]
+          },
+          {
+            "id": "u04-l03",
+            "title": "Show what I know about first-grade application, project work, reflection, and sharing in Chess & Strategy Games",
+            "objective": "I can present, reflect, and set a next step first-grade application, project work, reflection, and sharing in Chess & Strategy Games by completing a first-grade task and explaining one observation, choice, or strategy.",
+            "estimatedMinutes": 30,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l03-a01",
+                "title": "Independent or collaborative application",
+                "kind": "create",
+                "learnerAction": "The learner uses age-appropriate materials and first-grade vocabulary to present, reflect, and set a next step first-grade application, project work, reflection, and sharing in Chess & Strategy Games. Adult supervision is provided whenever the subject involves tools, heat, animals, water, traffic, or online media.",
+                "evidenceOptions": [
+                  "photo",
+                  "written-response",
+                  "observation"
+                ],
+                "estimatedMinutes": 22
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a first-grade task connected to first-grade application, project work, reflection, and sharing in Chess & Strategy Games.",
+              "The learner explains an observation, choice, or strategy with appropriate support.",
+              "The learner follows safety, care, and collaboration expectations."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

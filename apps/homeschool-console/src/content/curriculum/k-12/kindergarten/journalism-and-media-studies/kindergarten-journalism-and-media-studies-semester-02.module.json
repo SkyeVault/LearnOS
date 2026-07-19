@@ -1,0 +1,460 @@
+{
+  "id": "kindergarten-journalism-and-media-studies-semester-02",
+  "name": "Kindergarten Journalism & Media Studies — Semester 2",
+  "description": "An 18-week, play-based Kindergarten pathway for interviews, photo permission, fact versus pretend, and a class news share. Lessons are brief, hands-on, flexible, and designed for adult-guided learning.",
+  "version": "1.0.0",
+  "subjectNames": [
+    "Journalism & Media Studies"
+  ],
+  "learningGoals": [
+    "Build confidence and curiosity with interviews, photo permission, fact versus pretend, and a class news share.",
+    "Communicate learning through talk, drawing, movement, play, or a simple creation.",
+    "Practice safe, kind, and responsible participation."
+  ],
+  "lessons": [
+    {
+      "title": "Notice and talk: interviews, photo permission, fact versus pretend, and a class news share",
+      "objective": "I can notice details and share a question about interviews, photo permission, fact versus pretend, and a class news share through a close look at interviews, photo permission, fact versus pretend, and a class news share.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: interviews, photo permission, fact versus pretend, and a class news share",
+      "objective": "I can notice details and share a question about interviews, photo permission, fact versus pretend, and a class news share through a guided practice with interviews, photo permission, fact versus pretend, and a class news share.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: interviews, photo permission, fact versus pretend, and a class news share",
+      "objective": "I can notice details and share a question about interviews, photo permission, fact versus pretend, and a class news share through a small creation or demonstration about interviews, photo permission, fact versus pretend, and a class news share.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: interviews, photo permission, fact versus pretend, and a class news share",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about interviews, photo permission, fact versus pretend, and a class news share through a close look at interviews, photo permission, fact versus pretend, and a class news share.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: interviews, photo permission, fact versus pretend, and a class news share",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about interviews, photo permission, fact versus pretend, and a class news share through a guided practice with interviews, photo permission, fact versus pretend, and a class news share.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: interviews, photo permission, fact versus pretend, and a class news share",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about interviews, photo permission, fact versus pretend, and a class news share through a small creation or demonstration about interviews, photo permission, fact versus pretend, and a class news share.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: interviews, photo permission, fact versus pretend, and a class news share",
+      "objective": "I can use what I know to make, solve, move, or help with interviews, photo permission, fact versus pretend, and a class news share through a close look at interviews, photo permission, fact versus pretend, and a class news share.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: interviews, photo permission, fact versus pretend, and a class news share",
+      "objective": "I can use what I know to make, solve, move, or help with interviews, photo permission, fact versus pretend, and a class news share through a guided practice with interviews, photo permission, fact versus pretend, and a class news share.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: interviews, photo permission, fact versus pretend, and a class news share",
+      "objective": "I can use what I know to make, solve, move, or help with interviews, photo permission, fact versus pretend, and a class news share through a small creation or demonstration about interviews, photo permission, fact versus pretend, and a class news share.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: interviews, photo permission, fact versus pretend, and a class news share",
+      "objective": "I can show my learning, listen to feedback, and name a next step for interviews, photo permission, fact versus pretend, and a class news share through a close look at interviews, photo permission, fact versus pretend, and a class news share.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: interviews, photo permission, fact versus pretend, and a class news share",
+      "objective": "I can show my learning, listen to feedback, and name a next step for interviews, photo permission, fact versus pretend, and a class news share through a guided practice with interviews, photo permission, fact versus pretend, and a class news share.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: interviews, photo permission, fact versus pretend, and a class news share",
+      "objective": "I can show my learning, listen to feedback, and name a next step for interviews, photo permission, fact versus pretend, and a class news share through a small creation or demonstration about interviews, photo permission, fact versus pretend, and a class news share.",
+      "minutes": 25
+    }
+  ],
+  "resources": [
+    {
+      "title": "Media-literacy and ELA pathway",
+      "url": "https://corestandards.org/ela-literacy/",
+      "description": "Planning reference for this Kindergarten Journalism & Media Studies pathway."
+    }
+  ],
+  "curriculum": {
+    "gradeId": "kindergarten",
+    "subjectId": "journalism-and-media-studies",
+    "semester": 2,
+    "pacing": {
+      "intendedWeeks": 18,
+      "flexible": true
+    },
+    "units": [
+      {
+        "id": "u01",
+        "title": "Wonder and notice: interviews, photo permission, fact versus pretend, and a class news share",
+        "essentialQuestion": "What can we notice and wonder about interviews, photo permission, fact versus pretend, and a class news share?",
+        "outcomes": [
+          "I can notice details and share a question about interviews, photo permission, fact versus pretend, and a class news share.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "CCSS.ELA-LITERACY.SL.K.1"
+        ],
+        "lessons": [
+          {
+            "id": "u01-l01",
+            "title": "Notice and talk: interviews, photo permission, fact versus pretend, and a class news share",
+            "objective": "I can notice details and share a question about interviews, photo permission, fact versus pretend, and a class news share through a close look at interviews, photo permission, fact versus pretend, and a class news share.",
+            "estimatedMinutes": 25,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l01-a01",
+                "title": "A close look at interviews, photo permission, fact versus pretend, and a class news share",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at interviews, photo permission, fact versus pretend, and a class news share, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in interviews, photo permission, fact versus pretend, and a class news share.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u01-l02",
+            "title": "Try it together: interviews, photo permission, fact versus pretend, and a class news share",
+            "objective": "I can notice details and share a question about interviews, photo permission, fact versus pretend, and a class news share through a guided practice with interviews, photo permission, fact versus pretend, and a class news share.",
+            "estimatedMinutes": 25,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l02-a01",
+                "title": "A guided practice with interviews, photo permission, fact versus pretend, and a class news share",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with interviews, photo permission, fact versus pretend, and a class news share, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in interviews, photo permission, fact versus pretend, and a class news share.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u01-l03",
+            "title": "Make or show: interviews, photo permission, fact versus pretend, and a class news share",
+            "objective": "I can notice details and share a question about interviews, photo permission, fact versus pretend, and a class news share through a small creation or demonstration about interviews, photo permission, fact versus pretend, and a class news share.",
+            "estimatedMinutes": 25,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l03-a01",
+                "title": "A small creation or demonstration about interviews, photo permission, fact versus pretend, and a class news share",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about interviews, photo permission, fact versus pretend, and a class news share, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in interviews, photo permission, fact versus pretend, and a class news share.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u02",
+        "title": "Explore and practice: interviews, photo permission, fact versus pretend, and a class news share",
+        "essentialQuestion": "How can we learn and practice interviews, photo permission, fact versus pretend, and a class news share safely?",
+        "outcomes": [
+          "I can try a skill, use materials safely, and explain something I learned about interviews, photo permission, fact versus pretend, and a class news share.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "CCSS.ELA-LITERACY.SL.K.1"
+        ],
+        "lessons": [
+          {
+            "id": "u02-l01",
+            "title": "Notice and talk: interviews, photo permission, fact versus pretend, and a class news share",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about interviews, photo permission, fact versus pretend, and a class news share through a close look at interviews, photo permission, fact versus pretend, and a class news share.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l01-a01",
+                "title": "A close look at interviews, photo permission, fact versus pretend, and a class news share",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at interviews, photo permission, fact versus pretend, and a class news share, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in interviews, photo permission, fact versus pretend, and a class news share.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u02-l02",
+            "title": "Try it together: interviews, photo permission, fact versus pretend, and a class news share",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about interviews, photo permission, fact versus pretend, and a class news share through a guided practice with interviews, photo permission, fact versus pretend, and a class news share.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l02-a01",
+                "title": "A guided practice with interviews, photo permission, fact versus pretend, and a class news share",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with interviews, photo permission, fact versus pretend, and a class news share, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in interviews, photo permission, fact versus pretend, and a class news share.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u02-l03",
+            "title": "Make or show: interviews, photo permission, fact versus pretend, and a class news share",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about interviews, photo permission, fact versus pretend, and a class news share through a small creation or demonstration about interviews, photo permission, fact versus pretend, and a class news share.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l03-a01",
+                "title": "A small creation or demonstration about interviews, photo permission, fact versus pretend, and a class news share",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about interviews, photo permission, fact versus pretend, and a class news share, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in interviews, photo permission, fact versus pretend, and a class news share.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u03",
+        "title": "Make and apply: interviews, photo permission, fact versus pretend, and a class news share",
+        "essentialQuestion": "How can we use interviews, photo permission, fact versus pretend, and a class news share to make, solve, move, or help?",
+        "outcomes": [
+          "I can use what I know to make, solve, move, or help with interviews, photo permission, fact versus pretend, and a class news share.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "CCSS.ELA-LITERACY.SL.K.1"
+        ],
+        "lessons": [
+          {
+            "id": "u03-l01",
+            "title": "Notice and talk: interviews, photo permission, fact versus pretend, and a class news share",
+            "objective": "I can use what I know to make, solve, move, or help with interviews, photo permission, fact versus pretend, and a class news share through a close look at interviews, photo permission, fact versus pretend, and a class news share.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l01-a01",
+                "title": "A close look at interviews, photo permission, fact versus pretend, and a class news share",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at interviews, photo permission, fact versus pretend, and a class news share, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in interviews, photo permission, fact versus pretend, and a class news share.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u03-l02",
+            "title": "Try it together: interviews, photo permission, fact versus pretend, and a class news share",
+            "objective": "I can use what I know to make, solve, move, or help with interviews, photo permission, fact versus pretend, and a class news share through a guided practice with interviews, photo permission, fact versus pretend, and a class news share.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l02-a01",
+                "title": "A guided practice with interviews, photo permission, fact versus pretend, and a class news share",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with interviews, photo permission, fact versus pretend, and a class news share, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in interviews, photo permission, fact versus pretend, and a class news share.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u03-l03",
+            "title": "Make or show: interviews, photo permission, fact versus pretend, and a class news share",
+            "objective": "I can use what I know to make, solve, move, or help with interviews, photo permission, fact versus pretend, and a class news share through a small creation or demonstration about interviews, photo permission, fact versus pretend, and a class news share.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l03-a01",
+                "title": "A small creation or demonstration about interviews, photo permission, fact versus pretend, and a class news share",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about interviews, photo permission, fact versus pretend, and a class news share, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in interviews, photo permission, fact versus pretend, and a class news share.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u04",
+        "title": "Reflect and share: interviews, photo permission, fact versus pretend, and a class news share",
+        "essentialQuestion": "How can we share what we learned about interviews, photo permission, fact versus pretend, and a class news share?",
+        "outcomes": [
+          "I can show my learning, listen to feedback, and name a next step for interviews, photo permission, fact versus pretend, and a class news share.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "CCSS.ELA-LITERACY.SL.K.1"
+        ],
+        "lessons": [
+          {
+            "id": "u04-l01",
+            "title": "Notice and talk: interviews, photo permission, fact versus pretend, and a class news share",
+            "objective": "I can show my learning, listen to feedback, and name a next step for interviews, photo permission, fact versus pretend, and a class news share through a close look at interviews, photo permission, fact versus pretend, and a class news share.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l01-a01",
+                "title": "A close look at interviews, photo permission, fact versus pretend, and a class news share",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at interviews, photo permission, fact versus pretend, and a class news share, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in interviews, photo permission, fact versus pretend, and a class news share.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u04-l02",
+            "title": "Try it together: interviews, photo permission, fact versus pretend, and a class news share",
+            "objective": "I can show my learning, listen to feedback, and name a next step for interviews, photo permission, fact versus pretend, and a class news share through a guided practice with interviews, photo permission, fact versus pretend, and a class news share.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l02-a01",
+                "title": "A guided practice with interviews, photo permission, fact versus pretend, and a class news share",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with interviews, photo permission, fact versus pretend, and a class news share, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in interviews, photo permission, fact versus pretend, and a class news share.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u04-l03",
+            "title": "Make or show: interviews, photo permission, fact versus pretend, and a class news share",
+            "objective": "I can show my learning, listen to feedback, and name a next step for interviews, photo permission, fact versus pretend, and a class news share through a small creation or demonstration about interviews, photo permission, fact versus pretend, and a class news share.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l03-a01",
+                "title": "A small creation or demonstration about interviews, photo permission, fact versus pretend, and a class news share",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about interviews, photo permission, fact versus pretend, and a class news share, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in interviews, photo permission, fact versus pretend, and a class news share.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

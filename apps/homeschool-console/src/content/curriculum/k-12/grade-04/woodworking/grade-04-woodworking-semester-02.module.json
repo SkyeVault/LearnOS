@@ -1,0 +1,484 @@
+{
+  "id": "grade-04-woodworking-semester-02",
+  "name": "Grade 4 Woodworking — Semester 2",
+  "description": "An 18-week Grade 4 pathway for using evidence, multi-step processes, and clear explanations through Woodworking. Learning advances through inquiry, practice, authentic application, revision, and communication.",
+  "version": "1.0.0",
+  "subjectNames": [
+    "Woodworking"
+  ],
+  "learningGoals": [
+    "Develop grade 4 knowledge and transferable skills in using evidence, multi-step processes, and clear explanations through Woodworking.",
+    "Use appropriate evidence, vocabulary, tools, and methods to explain reasoning.",
+    "Plan, revise, collaborate responsibly, and communicate a well-supported conclusion."
+  ],
+  "lessons": [
+    {
+      "title": "Launch inquiry: using evidence, multi-step processes, and clear explanations through Woodworking",
+      "objective": "I can develop a focused question and gather relevant evidence about using evidence, multi-step processes, and clear explanations through Woodworking and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Skill studio: using evidence, multi-step processes, and clear explanations through Woodworking",
+      "objective": "I can develop a focused question and gather relevant evidence about using evidence, multi-step processes, and clear explanations through Woodworking and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Application lab: using evidence, multi-step processes, and clear explanations through Woodworking",
+      "objective": "I can develop a focused question and gather relevant evidence about using evidence, multi-step processes, and clear explanations through Woodworking and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Launch inquiry: using evidence, multi-step processes, and clear explanations through Woodworking",
+      "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about using evidence, multi-step processes, and clear explanations through Woodworking and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Skill studio: using evidence, multi-step processes, and clear explanations through Woodworking",
+      "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about using evidence, multi-step processes, and clear explanations through Woodworking and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Application lab: using evidence, multi-step processes, and clear explanations through Woodworking",
+      "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about using evidence, multi-step processes, and clear explanations through Woodworking and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Launch inquiry: using evidence, multi-step processes, and clear explanations through Woodworking",
+      "objective": "I can apply learning to a meaningful product, model, performance, or solution about using evidence, multi-step processes, and clear explanations through Woodworking and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Skill studio: using evidence, multi-step processes, and clear explanations through Woodworking",
+      "objective": "I can apply learning to a meaningful product, model, performance, or solution about using evidence, multi-step processes, and clear explanations through Woodworking and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Application lab: using evidence, multi-step processes, and clear explanations through Woodworking",
+      "objective": "I can apply learning to a meaningful product, model, performance, or solution about using evidence, multi-step processes, and clear explanations through Woodworking and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Launch inquiry: using evidence, multi-step processes, and clear explanations through Woodworking",
+      "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about using evidence, multi-step processes, and clear explanations through Woodworking and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Skill studio: using evidence, multi-step processes, and clear explanations through Woodworking",
+      "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about using evidence, multi-step processes, and clear explanations through Woodworking and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Application lab: using evidence, multi-step processes, and clear explanations through Woodworking",
+      "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about using evidence, multi-step processes, and clear explanations through Woodworking and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    }
+  ],
+  "resources": [
+    {
+      "title": "Safety-first maker pathway",
+      "url": "https://www.cpsc.gov/safety-education/safety-guides",
+      "description": "Planning reference for this Grade 4 Woodworking pathway."
+    }
+  ],
+  "curriculum": {
+    "gradeId": "grade-04",
+    "subjectId": "woodworking",
+    "semester": 2,
+    "pacing": {
+      "intendedWeeks": 18,
+      "flexible": true
+    },
+    "units": [
+      {
+        "id": "u01",
+        "title": "Investigate: using evidence, multi-step processes, and clear explanations through Woodworking",
+        "essentialQuestion": "What question and evidence can guide our study of using evidence, multi-step processes, and clear explanations through Woodworking?",
+        "outcomes": [
+          "I can develop a focused question and gather relevant evidence about using evidence, multi-step processes, and clear explanations through Woodworking.",
+          "I can use appropriate disciplinary vocabulary, evidence, and tools to communicate my reasoning."
+        ],
+        "standardIds": [
+          "Grades 3-5 framework progression"
+        ],
+        "lessons": [
+          {
+            "id": "u01-l01",
+            "title": "Launch inquiry: using evidence, multi-step processes, and clear explanations through Woodworking",
+            "objective": "I can develop a focused question and gather relevant evidence about using evidence, multi-step processes, and clear explanations through Woodworking and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l01-a01",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "The learner develop a focused question and gather relevant evidence about using evidence, multi-step processes, and clear explanations through Woodworking, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 28
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 4 task connected to using evidence, multi-step processes, and clear explanations through Woodworking.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          },
+          {
+            "id": "u01-l02",
+            "title": "Skill studio: using evidence, multi-step processes, and clear explanations through Woodworking",
+            "objective": "I can develop a focused question and gather relevant evidence about using evidence, multi-step processes, and clear explanations through Woodworking and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l02-a01",
+                "title": "Guided analysis and practice",
+                "kind": "practice",
+                "learnerAction": "The learner develop a focused question and gather relevant evidence about using evidence, multi-step processes, and clear explanations through Woodworking, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 28
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 4 task connected to using evidence, multi-step processes, and clear explanations through Woodworking.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          },
+          {
+            "id": "u01-l03",
+            "title": "Application lab: using evidence, multi-step processes, and clear explanations through Woodworking",
+            "objective": "I can develop a focused question and gather relevant evidence about using evidence, multi-step processes, and clear explanations through Woodworking and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l03-a01",
+                "title": "Independent or collaborative application",
+                "kind": "create",
+                "learnerAction": "The learner develop a focused question and gather relevant evidence about using evidence, multi-step processes, and clear explanations through Woodworking, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "project-link",
+                  "photo",
+                  "observation"
+                ],
+                "estimatedMinutes": 28
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 4 task connected to using evidence, multi-step processes, and clear explanations through Woodworking.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u02",
+        "title": "Practice and analyze: using evidence, multi-step processes, and clear explanations through Woodworking",
+        "essentialQuestion": "How can we analyze and improve our understanding of using evidence, multi-step processes, and clear explanations through Woodworking?",
+        "outcomes": [
+          "I can practice disciplinary skills and analyze patterns, sources, or feedback about using evidence, multi-step processes, and clear explanations through Woodworking.",
+          "I can use appropriate disciplinary vocabulary, evidence, and tools to communicate my reasoning."
+        ],
+        "standardIds": [
+          "Grades 3-5 framework progression"
+        ],
+        "lessons": [
+          {
+            "id": "u02-l01",
+            "title": "Launch inquiry: using evidence, multi-step processes, and clear explanations through Woodworking",
+            "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about using evidence, multi-step processes, and clear explanations through Woodworking and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l01-a01",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "The learner practice disciplinary skills and analyze patterns, sources, or feedback about using evidence, multi-step processes, and clear explanations through Woodworking, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 28
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 4 task connected to using evidence, multi-step processes, and clear explanations through Woodworking.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          },
+          {
+            "id": "u02-l02",
+            "title": "Skill studio: using evidence, multi-step processes, and clear explanations through Woodworking",
+            "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about using evidence, multi-step processes, and clear explanations through Woodworking and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l02-a01",
+                "title": "Guided analysis and practice",
+                "kind": "practice",
+                "learnerAction": "The learner practice disciplinary skills and analyze patterns, sources, or feedback about using evidence, multi-step processes, and clear explanations through Woodworking, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 28
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 4 task connected to using evidence, multi-step processes, and clear explanations through Woodworking.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          },
+          {
+            "id": "u02-l03",
+            "title": "Application lab: using evidence, multi-step processes, and clear explanations through Woodworking",
+            "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about using evidence, multi-step processes, and clear explanations through Woodworking and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l03-a01",
+                "title": "Independent or collaborative application",
+                "kind": "create",
+                "learnerAction": "The learner practice disciplinary skills and analyze patterns, sources, or feedback about using evidence, multi-step processes, and clear explanations through Woodworking, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "project-link",
+                  "photo",
+                  "observation"
+                ],
+                "estimatedMinutes": 28
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 4 task connected to using evidence, multi-step processes, and clear explanations through Woodworking.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u03",
+        "title": "Apply and create: using evidence, multi-step processes, and clear explanations through Woodworking",
+        "essentialQuestion": "How can we apply using evidence, multi-step processes, and clear explanations through Woodworking to an authentic task?",
+        "outcomes": [
+          "I can apply learning to a meaningful product, model, performance, or solution about using evidence, multi-step processes, and clear explanations through Woodworking.",
+          "I can use appropriate disciplinary vocabulary, evidence, and tools to communicate my reasoning."
+        ],
+        "standardIds": [
+          "Grades 3-5 framework progression"
+        ],
+        "lessons": [
+          {
+            "id": "u03-l01",
+            "title": "Launch inquiry: using evidence, multi-step processes, and clear explanations through Woodworking",
+            "objective": "I can apply learning to a meaningful product, model, performance, or solution about using evidence, multi-step processes, and clear explanations through Woodworking and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l01-a01",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "The learner apply learning to a meaningful product, model, performance, or solution about using evidence, multi-step processes, and clear explanations through Woodworking, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 28
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 4 task connected to using evidence, multi-step processes, and clear explanations through Woodworking.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          },
+          {
+            "id": "u03-l02",
+            "title": "Skill studio: using evidence, multi-step processes, and clear explanations through Woodworking",
+            "objective": "I can apply learning to a meaningful product, model, performance, or solution about using evidence, multi-step processes, and clear explanations through Woodworking and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l02-a01",
+                "title": "Guided analysis and practice",
+                "kind": "practice",
+                "learnerAction": "The learner apply learning to a meaningful product, model, performance, or solution about using evidence, multi-step processes, and clear explanations through Woodworking, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 28
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 4 task connected to using evidence, multi-step processes, and clear explanations through Woodworking.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          },
+          {
+            "id": "u03-l03",
+            "title": "Application lab: using evidence, multi-step processes, and clear explanations through Woodworking",
+            "objective": "I can apply learning to a meaningful product, model, performance, or solution about using evidence, multi-step processes, and clear explanations through Woodworking and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l03-a01",
+                "title": "Independent or collaborative application",
+                "kind": "create",
+                "learnerAction": "The learner apply learning to a meaningful product, model, performance, or solution about using evidence, multi-step processes, and clear explanations through Woodworking, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "project-link",
+                  "photo",
+                  "observation"
+                ],
+                "estimatedMinutes": 28
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 4 task connected to using evidence, multi-step processes, and clear explanations through Woodworking.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u04",
+        "title": "Reflect and communicate: using evidence, multi-step processes, and clear explanations through Woodworking",
+        "essentialQuestion": "How can we justify, revise, and communicate what we learned about using evidence, multi-step processes, and clear explanations through Woodworking?",
+        "outcomes": [
+          "I can evaluate evidence, revise work, and communicate a justified conclusion about using evidence, multi-step processes, and clear explanations through Woodworking.",
+          "I can use appropriate disciplinary vocabulary, evidence, and tools to communicate my reasoning."
+        ],
+        "standardIds": [
+          "Grades 3-5 framework progression"
+        ],
+        "lessons": [
+          {
+            "id": "u04-l01",
+            "title": "Launch inquiry: using evidence, multi-step processes, and clear explanations through Woodworking",
+            "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about using evidence, multi-step processes, and clear explanations through Woodworking and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l01-a01",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "The learner evaluate evidence, revise work, and communicate a justified conclusion about using evidence, multi-step processes, and clear explanations through Woodworking, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 28
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 4 task connected to using evidence, multi-step processes, and clear explanations through Woodworking.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          },
+          {
+            "id": "u04-l02",
+            "title": "Skill studio: using evidence, multi-step processes, and clear explanations through Woodworking",
+            "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about using evidence, multi-step processes, and clear explanations through Woodworking and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l02-a01",
+                "title": "Guided analysis and practice",
+                "kind": "practice",
+                "learnerAction": "The learner evaluate evidence, revise work, and communicate a justified conclusion about using evidence, multi-step processes, and clear explanations through Woodworking, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 28
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 4 task connected to using evidence, multi-step processes, and clear explanations through Woodworking.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          },
+          {
+            "id": "u04-l03",
+            "title": "Application lab: using evidence, multi-step processes, and clear explanations through Woodworking",
+            "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about using evidence, multi-step processes, and clear explanations through Woodworking and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l03-a01",
+                "title": "Independent or collaborative application",
+                "kind": "create",
+                "learnerAction": "The learner evaluate evidence, revise work, and communicate a justified conclusion about using evidence, multi-step processes, and clear explanations through Woodworking, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "project-link",
+                  "photo",
+                  "observation"
+                ],
+                "estimatedMinutes": 28
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 4 task connected to using evidence, multi-step processes, and clear explanations through Woodworking.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

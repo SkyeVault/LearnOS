@@ -1,0 +1,460 @@
+{
+  "id": "kindergarten-robotics-and-electronics-semester-02",
+  "name": "Kindergarten Robotics & Electronics — Semester 2",
+  "description": "An 18-week, play-based Kindergarten pathway for sensors through pretend play, simple circuits with adult support, and testing. Lessons are brief, hands-on, flexible, and designed for adult-guided learning.",
+  "version": "1.0.0",
+  "subjectNames": [
+    "Robotics & Electronics"
+  ],
+  "learningGoals": [
+    "Build confidence and curiosity with sensors through pretend play, simple circuits with adult support, and testing.",
+    "Communicate learning through talk, drawing, movement, play, or a simple creation.",
+    "Practice safe, kind, and responsible participation."
+  ],
+  "lessons": [
+    {
+      "title": "Notice and talk: sensors through pretend play, simple circuits with adult support, and testing",
+      "objective": "I can notice details and share a question about sensors through pretend play, simple circuits with adult support, and testing through a close look at sensors through pretend play, simple circuits with adult support, and testing.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: sensors through pretend play, simple circuits with adult support, and testing",
+      "objective": "I can notice details and share a question about sensors through pretend play, simple circuits with adult support, and testing through a guided practice with sensors through pretend play, simple circuits with adult support, and testing.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: sensors through pretend play, simple circuits with adult support, and testing",
+      "objective": "I can notice details and share a question about sensors through pretend play, simple circuits with adult support, and testing through a small creation or demonstration about sensors through pretend play, simple circuits with adult support, and testing.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: sensors through pretend play, simple circuits with adult support, and testing",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about sensors through pretend play, simple circuits with adult support, and testing through a close look at sensors through pretend play, simple circuits with adult support, and testing.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: sensors through pretend play, simple circuits with adult support, and testing",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about sensors through pretend play, simple circuits with adult support, and testing through a guided practice with sensors through pretend play, simple circuits with adult support, and testing.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: sensors through pretend play, simple circuits with adult support, and testing",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about sensors through pretend play, simple circuits with adult support, and testing through a small creation or demonstration about sensors through pretend play, simple circuits with adult support, and testing.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: sensors through pretend play, simple circuits with adult support, and testing",
+      "objective": "I can use what I know to make, solve, move, or help with sensors through pretend play, simple circuits with adult support, and testing through a close look at sensors through pretend play, simple circuits with adult support, and testing.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: sensors through pretend play, simple circuits with adult support, and testing",
+      "objective": "I can use what I know to make, solve, move, or help with sensors through pretend play, simple circuits with adult support, and testing through a guided practice with sensors through pretend play, simple circuits with adult support, and testing.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: sensors through pretend play, simple circuits with adult support, and testing",
+      "objective": "I can use what I know to make, solve, move, or help with sensors through pretend play, simple circuits with adult support, and testing through a small creation or demonstration about sensors through pretend play, simple circuits with adult support, and testing.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: sensors through pretend play, simple circuits with adult support, and testing",
+      "objective": "I can show my learning, listen to feedback, and name a next step for sensors through pretend play, simple circuits with adult support, and testing through a close look at sensors through pretend play, simple circuits with adult support, and testing.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: sensors through pretend play, simple circuits with adult support, and testing",
+      "objective": "I can show my learning, listen to feedback, and name a next step for sensors through pretend play, simple circuits with adult support, and testing through a guided practice with sensors through pretend play, simple circuits with adult support, and testing.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: sensors through pretend play, simple circuits with adult support, and testing",
+      "objective": "I can show my learning, listen to feedback, and name a next step for sensors through pretend play, simple circuits with adult support, and testing through a small creation or demonstration about sensors through pretend play, simple circuits with adult support, and testing.",
+      "minutes": 25
+    }
+  ],
+  "resources": [
+    {
+      "title": "CSTA K–12 Computer Science Standards",
+      "url": "https://csteachers.org/k12standards/",
+      "description": "Planning reference for this Kindergarten Robotics & Electronics pathway."
+    }
+  ],
+  "curriculum": {
+    "gradeId": "kindergarten",
+    "subjectId": "robotics-and-electronics",
+    "semester": 2,
+    "pacing": {
+      "intendedWeeks": 18,
+      "flexible": true
+    },
+    "units": [
+      {
+        "id": "u01",
+        "title": "Wonder and notice: sensors through pretend play, simple circuits with adult support, and testing",
+        "essentialQuestion": "What can we notice and wonder about sensors through pretend play, simple circuits with adult support, and testing?",
+        "outcomes": [
+          "I can notice details and share a question about sensors through pretend play, simple circuits with adult support, and testing.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "CSTA: 1A-AP-10"
+        ],
+        "lessons": [
+          {
+            "id": "u01-l01",
+            "title": "Notice and talk: sensors through pretend play, simple circuits with adult support, and testing",
+            "objective": "I can notice details and share a question about sensors through pretend play, simple circuits with adult support, and testing through a close look at sensors through pretend play, simple circuits with adult support, and testing.",
+            "estimatedMinutes": 25,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l01-a01",
+                "title": "A close look at sensors through pretend play, simple circuits with adult support, and testing",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at sensors through pretend play, simple circuits with adult support, and testing, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in sensors through pretend play, simple circuits with adult support, and testing.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u01-l02",
+            "title": "Try it together: sensors through pretend play, simple circuits with adult support, and testing",
+            "objective": "I can notice details and share a question about sensors through pretend play, simple circuits with adult support, and testing through a guided practice with sensors through pretend play, simple circuits with adult support, and testing.",
+            "estimatedMinutes": 25,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l02-a01",
+                "title": "A guided practice with sensors through pretend play, simple circuits with adult support, and testing",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with sensors through pretend play, simple circuits with adult support, and testing, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in sensors through pretend play, simple circuits with adult support, and testing.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u01-l03",
+            "title": "Make or show: sensors through pretend play, simple circuits with adult support, and testing",
+            "objective": "I can notice details and share a question about sensors through pretend play, simple circuits with adult support, and testing through a small creation or demonstration about sensors through pretend play, simple circuits with adult support, and testing.",
+            "estimatedMinutes": 25,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l03-a01",
+                "title": "A small creation or demonstration about sensors through pretend play, simple circuits with adult support, and testing",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about sensors through pretend play, simple circuits with adult support, and testing, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in sensors through pretend play, simple circuits with adult support, and testing.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u02",
+        "title": "Explore and practice: sensors through pretend play, simple circuits with adult support, and testing",
+        "essentialQuestion": "How can we learn and practice sensors through pretend play, simple circuits with adult support, and testing safely?",
+        "outcomes": [
+          "I can try a skill, use materials safely, and explain something I learned about sensors through pretend play, simple circuits with adult support, and testing.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "CSTA: 1A-AP-10"
+        ],
+        "lessons": [
+          {
+            "id": "u02-l01",
+            "title": "Notice and talk: sensors through pretend play, simple circuits with adult support, and testing",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about sensors through pretend play, simple circuits with adult support, and testing through a close look at sensors through pretend play, simple circuits with adult support, and testing.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l01-a01",
+                "title": "A close look at sensors through pretend play, simple circuits with adult support, and testing",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at sensors through pretend play, simple circuits with adult support, and testing, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in sensors through pretend play, simple circuits with adult support, and testing.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u02-l02",
+            "title": "Try it together: sensors through pretend play, simple circuits with adult support, and testing",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about sensors through pretend play, simple circuits with adult support, and testing through a guided practice with sensors through pretend play, simple circuits with adult support, and testing.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l02-a01",
+                "title": "A guided practice with sensors through pretend play, simple circuits with adult support, and testing",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with sensors through pretend play, simple circuits with adult support, and testing, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in sensors through pretend play, simple circuits with adult support, and testing.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u02-l03",
+            "title": "Make or show: sensors through pretend play, simple circuits with adult support, and testing",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about sensors through pretend play, simple circuits with adult support, and testing through a small creation or demonstration about sensors through pretend play, simple circuits with adult support, and testing.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l03-a01",
+                "title": "A small creation or demonstration about sensors through pretend play, simple circuits with adult support, and testing",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about sensors through pretend play, simple circuits with adult support, and testing, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in sensors through pretend play, simple circuits with adult support, and testing.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u03",
+        "title": "Make and apply: sensors through pretend play, simple circuits with adult support, and testing",
+        "essentialQuestion": "How can we use sensors through pretend play, simple circuits with adult support, and testing to make, solve, move, or help?",
+        "outcomes": [
+          "I can use what I know to make, solve, move, or help with sensors through pretend play, simple circuits with adult support, and testing.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "CSTA: 1A-AP-10"
+        ],
+        "lessons": [
+          {
+            "id": "u03-l01",
+            "title": "Notice and talk: sensors through pretend play, simple circuits with adult support, and testing",
+            "objective": "I can use what I know to make, solve, move, or help with sensors through pretend play, simple circuits with adult support, and testing through a close look at sensors through pretend play, simple circuits with adult support, and testing.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l01-a01",
+                "title": "A close look at sensors through pretend play, simple circuits with adult support, and testing",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at sensors through pretend play, simple circuits with adult support, and testing, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in sensors through pretend play, simple circuits with adult support, and testing.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u03-l02",
+            "title": "Try it together: sensors through pretend play, simple circuits with adult support, and testing",
+            "objective": "I can use what I know to make, solve, move, or help with sensors through pretend play, simple circuits with adult support, and testing through a guided practice with sensors through pretend play, simple circuits with adult support, and testing.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l02-a01",
+                "title": "A guided practice with sensors through pretend play, simple circuits with adult support, and testing",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with sensors through pretend play, simple circuits with adult support, and testing, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in sensors through pretend play, simple circuits with adult support, and testing.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u03-l03",
+            "title": "Make or show: sensors through pretend play, simple circuits with adult support, and testing",
+            "objective": "I can use what I know to make, solve, move, or help with sensors through pretend play, simple circuits with adult support, and testing through a small creation or demonstration about sensors through pretend play, simple circuits with adult support, and testing.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l03-a01",
+                "title": "A small creation or demonstration about sensors through pretend play, simple circuits with adult support, and testing",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about sensors through pretend play, simple circuits with adult support, and testing, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in sensors through pretend play, simple circuits with adult support, and testing.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u04",
+        "title": "Reflect and share: sensors through pretend play, simple circuits with adult support, and testing",
+        "essentialQuestion": "How can we share what we learned about sensors through pretend play, simple circuits with adult support, and testing?",
+        "outcomes": [
+          "I can show my learning, listen to feedback, and name a next step for sensors through pretend play, simple circuits with adult support, and testing.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "CSTA: 1A-AP-10"
+        ],
+        "lessons": [
+          {
+            "id": "u04-l01",
+            "title": "Notice and talk: sensors through pretend play, simple circuits with adult support, and testing",
+            "objective": "I can show my learning, listen to feedback, and name a next step for sensors through pretend play, simple circuits with adult support, and testing through a close look at sensors through pretend play, simple circuits with adult support, and testing.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l01-a01",
+                "title": "A close look at sensors through pretend play, simple circuits with adult support, and testing",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at sensors through pretend play, simple circuits with adult support, and testing, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in sensors through pretend play, simple circuits with adult support, and testing.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u04-l02",
+            "title": "Try it together: sensors through pretend play, simple circuits with adult support, and testing",
+            "objective": "I can show my learning, listen to feedback, and name a next step for sensors through pretend play, simple circuits with adult support, and testing through a guided practice with sensors through pretend play, simple circuits with adult support, and testing.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l02-a01",
+                "title": "A guided practice with sensors through pretend play, simple circuits with adult support, and testing",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with sensors through pretend play, simple circuits with adult support, and testing, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in sensors through pretend play, simple circuits with adult support, and testing.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u04-l03",
+            "title": "Make or show: sensors through pretend play, simple circuits with adult support, and testing",
+            "objective": "I can show my learning, listen to feedback, and name a next step for sensors through pretend play, simple circuits with adult support, and testing through a small creation or demonstration about sensors through pretend play, simple circuits with adult support, and testing.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l03-a01",
+                "title": "A small creation or demonstration about sensors through pretend play, simple circuits with adult support, and testing",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about sensors through pretend play, simple circuits with adult support, and testing, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in sensors through pretend play, simple circuits with adult support, and testing.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

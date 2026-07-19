@@ -1,23 +1,85 @@
 {
   "id": "grade-08-living-library-semester-02",
   "name": "Grade 8 Living Library — Semester 2",
-  "description": "Planning template for Grade 8 Living Library, Semester 2. Replace the placeholder goals and lessons before assigning this module.",
-  "version": "0.1.0",
+  "description": "An 18-week Grade 8 pathway for synthesizing sources, designing solutions, and defending conclusions through Living Library. Learning advances through inquiry, practice, authentic application, revision, and communication.",
+  "version": "1.0.0",
   "subjectNames": [
     "Living Library"
   ],
   "learningGoals": [
-    "TODO: Define the first Living Library outcome for Grade 8.",
-    "TODO: Define the evidence of learning for Semester 2."
+    "Develop grade 8 knowledge and transferable skills in synthesizing sources, designing solutions, and defending conclusions through Living Library.",
+    "Use appropriate evidence, vocabulary, tools, and methods to explain reasoning.",
+    "Plan, revise, collaborate responsibly, and communicate a well-supported conclusion."
   ],
   "lessons": [
     {
-      "title": "TODO: Name the opening lesson",
-      "objective": "TODO: Write a measurable Living Library objective for grade 8.",
+      "title": "Launch inquiry: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+      "objective": "I can develop a focused question and gather relevant evidence about synthesizing sources, designing solutions, and defending conclusions through Living Library and explain my reasoning with appropriate evidence.",
+      "minutes": 45
+    },
+    {
+      "title": "Skill studio: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+      "objective": "I can develop a focused question and gather relevant evidence about synthesizing sources, designing solutions, and defending conclusions through Living Library and explain my reasoning with appropriate evidence.",
+      "minutes": 45
+    },
+    {
+      "title": "Application lab: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+      "objective": "I can develop a focused question and gather relevant evidence about synthesizing sources, designing solutions, and defending conclusions through Living Library and explain my reasoning with appropriate evidence.",
+      "minutes": 45
+    },
+    {
+      "title": "Launch inquiry: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+      "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about synthesizing sources, designing solutions, and defending conclusions through Living Library and explain my reasoning with appropriate evidence.",
+      "minutes": 45
+    },
+    {
+      "title": "Skill studio: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+      "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about synthesizing sources, designing solutions, and defending conclusions through Living Library and explain my reasoning with appropriate evidence.",
+      "minutes": 45
+    },
+    {
+      "title": "Application lab: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+      "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about synthesizing sources, designing solutions, and defending conclusions through Living Library and explain my reasoning with appropriate evidence.",
+      "minutes": 45
+    },
+    {
+      "title": "Launch inquiry: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+      "objective": "I can apply learning to a meaningful product, model, performance, or solution about synthesizing sources, designing solutions, and defending conclusions through Living Library and explain my reasoning with appropriate evidence.",
+      "minutes": 45
+    },
+    {
+      "title": "Skill studio: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+      "objective": "I can apply learning to a meaningful product, model, performance, or solution about synthesizing sources, designing solutions, and defending conclusions through Living Library and explain my reasoning with appropriate evidence.",
+      "minutes": 45
+    },
+    {
+      "title": "Application lab: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+      "objective": "I can apply learning to a meaningful product, model, performance, or solution about synthesizing sources, designing solutions, and defending conclusions through Living Library and explain my reasoning with appropriate evidence.",
+      "minutes": 45
+    },
+    {
+      "title": "Launch inquiry: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+      "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about synthesizing sources, designing solutions, and defending conclusions through Living Library and explain my reasoning with appropriate evidence.",
+      "minutes": 45
+    },
+    {
+      "title": "Skill studio: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+      "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about synthesizing sources, designing solutions, and defending conclusions through Living Library and explain my reasoning with appropriate evidence.",
+      "minutes": 45
+    },
+    {
+      "title": "Application lab: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+      "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about synthesizing sources, designing solutions, and defending conclusions through Living Library and explain my reasoning with appropriate evidence.",
       "minutes": 45
     }
   ],
-  "resources": [],
+  "resources": [
+    {
+      "title": "AASL National School Library Standards",
+      "url": "https://standards.aasl.org/",
+      "description": "Planning reference for this Grade 8 Living Library pathway."
+    }
+  ],
   "curriculum": {
     "gradeId": "grade-08",
     "subjectId": "living-library",
@@ -29,328 +91,390 @@
     "units": [
       {
         "id": "u01",
-        "title": "Launch: Semester 2",
-        "essentialQuestion": "How can Grade 8 learners use Living Library to notice, understand, and contribute?",
+        "title": "Investigate: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+        "essentialQuestion": "What question and evidence can guide our study of synthesizing sources, designing solutions, and defending conclusions through Living Library?",
         "outcomes": [
-          "Notice, name prior knowledge, and set a meaningful question."
+          "I can develop a focused question and gather relevant evidence about synthesizing sources, designing solutions, and defending conclusions through Living Library.",
+          "I can use appropriate disciplinary vocabulary, evidence, and tools to communicate my reasoning."
         ],
         "standardIds": [
-          "TODO: Add state and national standard IDs."
+          "Middle school framework progression"
         ],
         "lessons": [
           {
             "id": "u01-l01",
-            "title": "Notice, name prior knowledge, and set a meaningful question.",
-            "objective": "TODO: Write a measurable Living Library objective for this lesson.",
+            "title": "Launch inquiry: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+            "objective": "I can develop a focused question and gather relevant evidence about synthesizing sources, designing solutions, and defending conclusions through Living Library and explain my reasoning with appropriate evidence.",
             "estimatedMinutes": 45,
             "prerequisites": [],
             "activities": [
               {
                 "id": "u01-l01-a01",
-                "title": "Learner action",
-                "kind": "practice",
-                "learnerAction": "Notice, name prior knowledge, and set a meaningful question.",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "The learner develop a focused question and gather relevant evidence about synthesizing sources, designing solutions, and defending conclusions through Living Library, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 33
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 8 task connected to synthesizing sources, designing solutions, and defending conclusions through Living Library.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           },
           {
             "id": "u01-l02",
-            "title": "Notice, name prior knowledge, and set a meaningful question.",
-            "objective": "TODO: Write a measurable Living Library objective for this lesson.",
+            "title": "Skill studio: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+            "objective": "I can develop a focused question and gather relevant evidence about synthesizing sources, designing solutions, and defending conclusions through Living Library and explain my reasoning with appropriate evidence.",
             "estimatedMinutes": 45,
             "prerequisites": [],
             "activities": [
               {
                 "id": "u01-l02-a01",
-                "title": "Learner action",
+                "title": "Guided analysis and practice",
                 "kind": "practice",
-                "learnerAction": "Notice, name prior knowledge, and set a meaningful question.",
+                "learnerAction": "The learner develop a focused question and gather relevant evidence about synthesizing sources, designing solutions, and defending conclusions through Living Library, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 33
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 8 task connected to synthesizing sources, designing solutions, and defending conclusions through Living Library.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           },
           {
             "id": "u01-l03",
-            "title": "Notice, name prior knowledge, and set a meaningful question.",
-            "objective": "TODO: Write a measurable Living Library objective for this lesson.",
+            "title": "Application lab: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+            "objective": "I can develop a focused question and gather relevant evidence about synthesizing sources, designing solutions, and defending conclusions through Living Library and explain my reasoning with appropriate evidence.",
             "estimatedMinutes": 45,
             "prerequisites": [],
             "activities": [
               {
                 "id": "u01-l03-a01",
-                "title": "Learner action",
+                "title": "Independent or collaborative application",
                 "kind": "create",
-                "learnerAction": "Notice, name prior knowledge, and set a meaningful question.",
+                "learnerAction": "The learner develop a focused question and gather relevant evidence about synthesizing sources, designing solutions, and defending conclusions through Living Library, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "project-link",
+                  "photo",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 33
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 8 task connected to synthesizing sources, designing solutions, and defending conclusions through Living Library.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           }
         ]
       },
       {
         "id": "u02",
-        "title": "Explore & practice",
-        "essentialQuestion": "How can Grade 8 learners use Living Library to notice, understand, and contribute?",
+        "title": "Practice and analyze: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+        "essentialQuestion": "How can we analyze and improve our understanding of synthesizing sources, designing solutions, and defending conclusions through Living Library?",
         "outcomes": [
-          "Learn through models, guided practice, and feedback."
+          "I can practice disciplinary skills and analyze patterns, sources, or feedback about synthesizing sources, designing solutions, and defending conclusions through Living Library.",
+          "I can use appropriate disciplinary vocabulary, evidence, and tools to communicate my reasoning."
         ],
         "standardIds": [
-          "TODO: Add state and national standard IDs."
+          "Middle school framework progression"
         ],
         "lessons": [
           {
             "id": "u02-l01",
-            "title": "Learn through models, guided practice, and feedback.",
-            "objective": "TODO: Write a measurable Living Library objective for this lesson.",
+            "title": "Launch inquiry: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+            "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about synthesizing sources, designing solutions, and defending conclusions through Living Library and explain my reasoning with appropriate evidence.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u01-l03"
+            ],
             "activities": [
               {
                 "id": "u02-l01-a01",
-                "title": "Learner action",
-                "kind": "practice",
-                "learnerAction": "Learn through models, guided practice, and feedback.",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "The learner practice disciplinary skills and analyze patterns, sources, or feedback about synthesizing sources, designing solutions, and defending conclusions through Living Library, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 33
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 8 task connected to synthesizing sources, designing solutions, and defending conclusions through Living Library.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           },
           {
             "id": "u02-l02",
-            "title": "Learn through models, guided practice, and feedback.",
-            "objective": "TODO: Write a measurable Living Library objective for this lesson.",
+            "title": "Skill studio: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+            "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about synthesizing sources, designing solutions, and defending conclusions through Living Library and explain my reasoning with appropriate evidence.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u01-l03"
+            ],
             "activities": [
               {
                 "id": "u02-l02-a01",
-                "title": "Learner action",
+                "title": "Guided analysis and practice",
                 "kind": "practice",
-                "learnerAction": "Learn through models, guided practice, and feedback.",
+                "learnerAction": "The learner practice disciplinary skills and analyze patterns, sources, or feedback about synthesizing sources, designing solutions, and defending conclusions through Living Library, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 33
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 8 task connected to synthesizing sources, designing solutions, and defending conclusions through Living Library.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           },
           {
             "id": "u02-l03",
-            "title": "Learn through models, guided practice, and feedback.",
-            "objective": "TODO: Write a measurable Living Library objective for this lesson.",
+            "title": "Application lab: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+            "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about synthesizing sources, designing solutions, and defending conclusions through Living Library and explain my reasoning with appropriate evidence.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u01-l03"
+            ],
             "activities": [
               {
                 "id": "u02-l03-a01",
-                "title": "Learner action",
+                "title": "Independent or collaborative application",
                 "kind": "create",
-                "learnerAction": "Learn through models, guided practice, and feedback.",
+                "learnerAction": "The learner practice disciplinary skills and analyze patterns, sources, or feedback about synthesizing sources, designing solutions, and defending conclusions through Living Library, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "project-link",
+                  "photo",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 33
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 8 task connected to synthesizing sources, designing solutions, and defending conclusions through Living Library.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           }
         ]
       },
       {
         "id": "u03",
-        "title": "Create & apply",
-        "essentialQuestion": "How can Grade 8 learners use Living Library to notice, understand, and contribute?",
+        "title": "Apply and create: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+        "essentialQuestion": "How can we apply synthesizing sources, designing solutions, and defending conclusions through Living Library to an authentic task?",
         "outcomes": [
-          "Apply learning in a STEM, fine-art, or real-world creation."
+          "I can apply learning to a meaningful product, model, performance, or solution about synthesizing sources, designing solutions, and defending conclusions through Living Library.",
+          "I can use appropriate disciplinary vocabulary, evidence, and tools to communicate my reasoning."
         ],
         "standardIds": [
-          "TODO: Add state and national standard IDs."
+          "Middle school framework progression"
         ],
         "lessons": [
           {
             "id": "u03-l01",
-            "title": "Apply learning in a STEM, fine-art, or real-world creation.",
-            "objective": "TODO: Write a measurable Living Library objective for this lesson.",
+            "title": "Launch inquiry: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+            "objective": "I can apply learning to a meaningful product, model, performance, or solution about synthesizing sources, designing solutions, and defending conclusions through Living Library and explain my reasoning with appropriate evidence.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u02-l03"
+            ],
             "activities": [
               {
                 "id": "u03-l01-a01",
-                "title": "Learner action",
-                "kind": "practice",
-                "learnerAction": "Apply learning in a STEM, fine-art, or real-world creation.",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "The learner apply learning to a meaningful product, model, performance, or solution about synthesizing sources, designing solutions, and defending conclusions through Living Library, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 33
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 8 task connected to synthesizing sources, designing solutions, and defending conclusions through Living Library.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           },
           {
             "id": "u03-l02",
-            "title": "Apply learning in a STEM, fine-art, or real-world creation.",
-            "objective": "TODO: Write a measurable Living Library objective for this lesson.",
+            "title": "Skill studio: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+            "objective": "I can apply learning to a meaningful product, model, performance, or solution about synthesizing sources, designing solutions, and defending conclusions through Living Library and explain my reasoning with appropriate evidence.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u02-l03"
+            ],
             "activities": [
               {
                 "id": "u03-l02-a01",
-                "title": "Learner action",
+                "title": "Guided analysis and practice",
                 "kind": "practice",
-                "learnerAction": "Apply learning in a STEM, fine-art, or real-world creation.",
+                "learnerAction": "The learner apply learning to a meaningful product, model, performance, or solution about synthesizing sources, designing solutions, and defending conclusions through Living Library, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 33
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 8 task connected to synthesizing sources, designing solutions, and defending conclusions through Living Library.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           },
           {
             "id": "u03-l03",
-            "title": "Apply learning in a STEM, fine-art, or real-world creation.",
-            "objective": "TODO: Write a measurable Living Library objective for this lesson.",
+            "title": "Application lab: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+            "objective": "I can apply learning to a meaningful product, model, performance, or solution about synthesizing sources, designing solutions, and defending conclusions through Living Library and explain my reasoning with appropriate evidence.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u02-l03"
+            ],
             "activities": [
               {
                 "id": "u03-l03-a01",
-                "title": "Learner action",
+                "title": "Independent or collaborative application",
                 "kind": "create",
-                "learnerAction": "Apply learning in a STEM, fine-art, or real-world creation.",
+                "learnerAction": "The learner apply learning to a meaningful product, model, performance, or solution about synthesizing sources, designing solutions, and defending conclusions through Living Library, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "project-link",
+                  "photo",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 33
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 8 task connected to synthesizing sources, designing solutions, and defending conclusions through Living Library.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           }
         ]
       },
       {
         "id": "u04",
-        "title": "Reflect & share",
-        "essentialQuestion": "How can Grade 8 learners use Living Library to notice, understand, and contribute?",
+        "title": "Reflect and communicate: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+        "essentialQuestion": "How can we justify, revise, and communicate what we learned about synthesizing sources, designing solutions, and defending conclusions through Living Library?",
         "outcomes": [
-          "Share evidence, reflect, request help when needed, and set a next step."
+          "I can evaluate evidence, revise work, and communicate a justified conclusion about synthesizing sources, designing solutions, and defending conclusions through Living Library.",
+          "I can use appropriate disciplinary vocabulary, evidence, and tools to communicate my reasoning."
         ],
         "standardIds": [
-          "TODO: Add state and national standard IDs."
+          "Middle school framework progression"
         ],
         "lessons": [
           {
             "id": "u04-l01",
-            "title": "Share evidence, reflect, request help when needed, and set a next step.",
-            "objective": "TODO: Write a measurable Living Library objective for this lesson.",
+            "title": "Launch inquiry: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+            "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about synthesizing sources, designing solutions, and defending conclusions through Living Library and explain my reasoning with appropriate evidence.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u03-l03"
+            ],
             "activities": [
               {
                 "id": "u04-l01-a01",
-                "title": "Learner action",
-                "kind": "practice",
-                "learnerAction": "Share evidence, reflect, request help when needed, and set a next step.",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "The learner evaluate evidence, revise work, and communicate a justified conclusion about synthesizing sources, designing solutions, and defending conclusions through Living Library, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 33
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 8 task connected to synthesizing sources, designing solutions, and defending conclusions through Living Library.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           },
           {
             "id": "u04-l02",
-            "title": "Share evidence, reflect, request help when needed, and set a next step.",
-            "objective": "TODO: Write a measurable Living Library objective for this lesson.",
+            "title": "Skill studio: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+            "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about synthesizing sources, designing solutions, and defending conclusions through Living Library and explain my reasoning with appropriate evidence.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u03-l03"
+            ],
             "activities": [
               {
                 "id": "u04-l02-a01",
-                "title": "Learner action",
+                "title": "Guided analysis and practice",
                 "kind": "practice",
-                "learnerAction": "Share evidence, reflect, request help when needed, and set a next step.",
+                "learnerAction": "The learner evaluate evidence, revise work, and communicate a justified conclusion about synthesizing sources, designing solutions, and defending conclusions through Living Library, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 33
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 8 task connected to synthesizing sources, designing solutions, and defending conclusions through Living Library.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           },
           {
             "id": "u04-l03",
-            "title": "Share evidence, reflect, request help when needed, and set a next step.",
-            "objective": "TODO: Write a measurable Living Library objective for this lesson.",
+            "title": "Application lab: synthesizing sources, designing solutions, and defending conclusions through Living Library",
+            "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about synthesizing sources, designing solutions, and defending conclusions through Living Library and explain my reasoning with appropriate evidence.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u03-l03"
+            ],
             "activities": [
               {
                 "id": "u04-l03-a01",
-                "title": "Learner action",
+                "title": "Independent or collaborative application",
                 "kind": "create",
-                "learnerAction": "Share evidence, reflect, request help when needed, and set a next step.",
+                "learnerAction": "The learner evaluate evidence, revise work, and communicate a justified conclusion about synthesizing sources, designing solutions, and defending conclusions through Living Library, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "project-link",
+                  "photo",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 33
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 8 task connected to synthesizing sources, designing solutions, and defending conclusions through Living Library.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           }
         ]

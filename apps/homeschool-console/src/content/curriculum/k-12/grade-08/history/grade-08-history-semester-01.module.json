@@ -1,23 +1,101 @@
 {
   "id": "grade-08-history-semester-01",
-  "name": "Grade 8 History — Semester 1",
-  "description": "Planning template for Grade 8 History, Semester 1. Replace the placeholder goals and lessons before assigning this module.",
-  "version": "0.1.0",
+  "name": "Grade 8 History: Preserving the Past — Semester 1",
+  "description": "A rich Grade 8 history pathway centered on Source criticism, archaeology, archives, and ethical preservation. Learners investigate primary sources and historic places, consider whose stories are preserved, practice ethical care, and create a preservation product.",
+  "version": "1.1.0",
   "subjectNames": [
     "History"
   ],
   "learningGoals": [
-    "TODO: Define the first History outcome for Grade 8.",
-    "TODO: Define the evidence of learning for Semester 1."
+    "Use sources and historic places as evidence to investigate Source criticism, archaeology, archives, and ethical preservation.",
+    "Explain how context, perspective, and provenance shape historical interpretation.",
+    "Practice ethical preservation through care, consent, citation, and responsible sharing.",
+    "Create and revise a preservation product for an authentic audience."
   ],
   "lessons": [
     {
-      "title": "TODO: Name the opening lesson",
-      "objective": "TODO: Write a measurable History objective for grade 8.",
+      "title": "Source investigation: Notice evidence",
+      "objective": "I can closely examine a selected source or place and record observations, questions, and inferences while studying Source criticism, archaeology, archives, and ethical preservation.",
+      "minutes": 45
+    },
+    {
+      "title": "Evidence workshop: Test an interpretation",
+      "objective": "I can compare evidence and use context to support or revise a historical claim while studying Source criticism, archaeology, archives, and ethical preservation.",
+      "minutes": 45
+    },
+    {
+      "title": "Preservation studio: Make and share",
+      "objective": "I can create a careful preservation product that credits sources and respects people and communities while studying Source criticism, archaeology, archives, and ethical preservation.",
+      "minutes": 45
+    },
+    {
+      "title": "Source investigation: Notice evidence",
+      "objective": "I can closely examine a selected source or place and record observations, questions, and inferences while studying Source criticism, archaeology, archives, and ethical preservation.",
+      "minutes": 45
+    },
+    {
+      "title": "Evidence workshop: Test an interpretation",
+      "objective": "I can compare evidence and use context to support or revise a historical claim while studying Source criticism, archaeology, archives, and ethical preservation.",
+      "minutes": 45
+    },
+    {
+      "title": "Preservation studio: Make and share",
+      "objective": "I can create a careful preservation product that credits sources and respects people and communities while studying Source criticism, archaeology, archives, and ethical preservation.",
+      "minutes": 45
+    },
+    {
+      "title": "Source investigation: Notice evidence",
+      "objective": "I can closely examine a selected source or place and record observations, questions, and inferences while studying Source criticism, archaeology, archives, and ethical preservation.",
+      "minutes": 45
+    },
+    {
+      "title": "Evidence workshop: Test an interpretation",
+      "objective": "I can compare evidence and use context to support or revise a historical claim while studying Source criticism, archaeology, archives, and ethical preservation.",
+      "minutes": 45
+    },
+    {
+      "title": "Preservation studio: Make and share",
+      "objective": "I can create a careful preservation product that credits sources and respects people and communities while studying Source criticism, archaeology, archives, and ethical preservation.",
+      "minutes": 45
+    },
+    {
+      "title": "Source investigation: Notice evidence",
+      "objective": "I can closely examine a selected source or place and record observations, questions, and inferences while studying Source criticism, archaeology, archives, and ethical preservation.",
+      "minutes": 45
+    },
+    {
+      "title": "Evidence workshop: Test an interpretation",
+      "objective": "I can compare evidence and use context to support or revise a historical claim while studying Source criticism, archaeology, archives, and ethical preservation.",
+      "minutes": 45
+    },
+    {
+      "title": "Preservation studio: Make and share",
+      "objective": "I can create a careful preservation product that credits sources and respects people and communities while studying Source criticism, archaeology, archives, and ethical preservation.",
       "minutes": 45
     }
   ],
-  "resources": [],
+  "resources": [
+    {
+      "title": "Library of Congress: Primary Source Analysis",
+      "url": "https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/guides/",
+      "description": "Guides for observing, reflecting, questioning, and investigating sources."
+    },
+    {
+      "title": "National Archives: Primary Source Research",
+      "url": "https://www.archives.gov/education/research",
+      "description": "Research, analysis, and citation support for archival records."
+    },
+    {
+      "title": "National Park Service: Teaching with Historic Places",
+      "url": "https://www.nps.gov/subjects/teachingwithhistoricplaces/index.htm",
+      "description": "Place-based inquiry using historic sites as evidence."
+    },
+    {
+      "title": "C3 Framework: Inquiry Arc",
+      "url": "https://www.socialstudies.org/sites/default/files/c3/c3-framework-for-social-studies-rev0617.pdf",
+      "description": "Questions, evidence, arguments, and informed action."
+    }
+  ],
   "curriculum": {
     "gradeId": "grade-08",
     "subjectId": "history",
@@ -29,328 +107,402 @@
     "units": [
       {
         "id": "u01",
-        "title": "Launch: Semester 1",
-        "essentialQuestion": "How can Grade 8 learners use History to notice, understand, and contribute?",
+        "title": "Read the clues: Source criticism, archaeology, archives, and ethical preservation",
+        "essentialQuestion": "What can an object, image, document, map, or place tell us about the past?",
         "outcomes": [
-          "Notice, name prior knowledge, and set a meaningful question."
+          "Observe, describe, and ask questions before making a claim.",
+          "Use evidence responsibly and recognize that accounts of the past can be incomplete or shaped by perspective."
         ],
         "standardIds": [
-          "TODO: Add state and national standard IDs."
+          "C3 Inquiry Arc: Grades 6-8",
+          "NPS Teaching with Historic Places: place as primary source"
         ],
         "lessons": [
           {
             "id": "u01-l01",
-            "title": "Notice, name prior knowledge, and set a meaningful question.",
-            "objective": "TODO: Write a measurable History objective for this lesson.",
+            "title": "Source investigation: Notice evidence",
+            "objective": "I can closely examine a selected source or place and record observations, questions, and inferences while studying Source criticism, archaeology, archives, and ethical preservation.",
             "estimatedMinutes": 45,
             "prerequisites": [],
             "activities": [
               {
                 "id": "u01-l01-a01",
-                "title": "Learner action",
-                "kind": "practice",
-                "learnerAction": "Notice, name prior knowledge, and set a meaningful question.",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "the learner will closely examine a selected source or place and record observations, questions, and inferences. Use only materials that may be shared; protect private details and seek consent before recording or publishing an oral history.",
                 "evidenceOptions": [
                   "written-response",
+                  "project-link",
+                  "photo",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 37
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "I identify a detail in the source, artifact, map, image, oral account, or historic place.",
+              "I distinguish evidence from a question or interpretation.",
+              "I credit a source or contributor in an age-appropriate way and follow consent and care expectations."
             ]
           },
           {
             "id": "u01-l02",
-            "title": "Notice, name prior knowledge, and set a meaningful question.",
-            "objective": "TODO: Write a measurable History objective for this lesson.",
+            "title": "Evidence workshop: Test an interpretation",
+            "objective": "I can compare evidence and use context to support or revise a historical claim while studying Source criticism, archaeology, archives, and ethical preservation.",
             "estimatedMinutes": 45,
             "prerequisites": [],
             "activities": [
               {
                 "id": "u01-l02-a01",
-                "title": "Learner action",
+                "title": "Context and comparison",
                 "kind": "practice",
-                "learnerAction": "Notice, name prior knowledge, and set a meaningful question.",
+                "learnerAction": "the learner will compare evidence and use context to support or revise a historical claim. Use only materials that may be shared; protect private details and seek consent before recording or publishing an oral history.",
                 "evidenceOptions": [
                   "written-response",
+                  "project-link",
+                  "photo",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 37
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "I identify a detail in the source, artifact, map, image, oral account, or historic place.",
+              "I distinguish evidence from a question or interpretation.",
+              "I credit a source or contributor in an age-appropriate way and follow consent and care expectations."
             ]
           },
           {
             "id": "u01-l03",
-            "title": "Notice, name prior knowledge, and set a meaningful question.",
-            "objective": "TODO: Write a measurable History objective for this lesson.",
+            "title": "Preservation studio: Make and share",
+            "objective": "I can create a careful preservation product that credits sources and respects people and communities while studying Source criticism, archaeology, archives, and ethical preservation.",
             "estimatedMinutes": 45,
             "prerequisites": [],
             "activities": [
               {
                 "id": "u01-l03-a01",
-                "title": "Learner action",
+                "title": "Preservation product",
                 "kind": "create",
-                "learnerAction": "Notice, name prior knowledge, and set a meaningful question.",
+                "learnerAction": "the learner will create a careful preservation product that credits sources and respects people and communities. Use only materials that may be shared; protect private details and seek consent before recording or publishing an oral history.",
                 "evidenceOptions": [
                   "written-response",
+                  "project-link",
+                  "photo",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 37
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "I identify a detail in the source, artifact, map, image, oral account, or historic place.",
+              "I distinguish evidence from a question or interpretation.",
+              "I credit a source or contributor in an age-appropriate way and follow consent and care expectations."
             ]
           }
         ]
       },
       {
         "id": "u02",
-        "title": "Explore & practice",
-        "essentialQuestion": "How can Grade 8 learners use History to notice, understand, and contribute?",
+        "title": "Build the story: Source criticism, archaeology, archives, and ethical preservation",
+        "essentialQuestion": "How do we connect evidence, context, and different voices to explain a past event or place?",
         "outcomes": [
-          "Learn through models, guided practice, and feedback."
+          "Compare sources, locate context, and distinguish observation from interpretation.",
+          "Use evidence responsibly and recognize that accounts of the past can be incomplete or shaped by perspective."
         ],
         "standardIds": [
-          "TODO: Add state and national standard IDs."
+          "C3 Inquiry Arc: Grades 6-8",
+          "NPS Teaching with Historic Places: place as primary source"
         ],
         "lessons": [
           {
             "id": "u02-l01",
-            "title": "Learn through models, guided practice, and feedback.",
-            "objective": "TODO: Write a measurable History objective for this lesson.",
+            "title": "Source investigation: Notice evidence",
+            "objective": "I can closely examine a selected source or place and record observations, questions, and inferences while studying Source criticism, archaeology, archives, and ethical preservation.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u01-l03"
+            ],
             "activities": [
               {
                 "id": "u02-l01-a01",
-                "title": "Learner action",
-                "kind": "practice",
-                "learnerAction": "Learn through models, guided practice, and feedback.",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "the learner will closely examine a selected source or place and record observations, questions, and inferences. Use only materials that may be shared; protect private details and seek consent before recording or publishing an oral history.",
                 "evidenceOptions": [
                   "written-response",
+                  "project-link",
+                  "photo",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 37
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "I identify a detail in the source, artifact, map, image, oral account, or historic place.",
+              "I distinguish evidence from a question or interpretation.",
+              "I credit a source or contributor in an age-appropriate way and follow consent and care expectations."
             ]
           },
           {
             "id": "u02-l02",
-            "title": "Learn through models, guided practice, and feedback.",
-            "objective": "TODO: Write a measurable History objective for this lesson.",
+            "title": "Evidence workshop: Test an interpretation",
+            "objective": "I can compare evidence and use context to support or revise a historical claim while studying Source criticism, archaeology, archives, and ethical preservation.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u01-l03"
+            ],
             "activities": [
               {
                 "id": "u02-l02-a01",
-                "title": "Learner action",
+                "title": "Context and comparison",
                 "kind": "practice",
-                "learnerAction": "Learn through models, guided practice, and feedback.",
+                "learnerAction": "the learner will compare evidence and use context to support or revise a historical claim. Use only materials that may be shared; protect private details and seek consent before recording or publishing an oral history.",
                 "evidenceOptions": [
                   "written-response",
+                  "project-link",
+                  "photo",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 37
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "I identify a detail in the source, artifact, map, image, oral account, or historic place.",
+              "I distinguish evidence from a question or interpretation.",
+              "I credit a source or contributor in an age-appropriate way and follow consent and care expectations."
             ]
           },
           {
             "id": "u02-l03",
-            "title": "Learn through models, guided practice, and feedback.",
-            "objective": "TODO: Write a measurable History objective for this lesson.",
+            "title": "Preservation studio: Make and share",
+            "objective": "I can create a careful preservation product that credits sources and respects people and communities while studying Source criticism, archaeology, archives, and ethical preservation.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u01-l03"
+            ],
             "activities": [
               {
                 "id": "u02-l03-a01",
-                "title": "Learner action",
+                "title": "Preservation product",
                 "kind": "create",
-                "learnerAction": "Learn through models, guided practice, and feedback.",
+                "learnerAction": "the learner will create a careful preservation product that credits sources and respects people and communities. Use only materials that may be shared; protect private details and seek consent before recording or publishing an oral history.",
                 "evidenceOptions": [
                   "written-response",
+                  "project-link",
+                  "photo",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 37
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "I identify a detail in the source, artifact, map, image, oral account, or historic place.",
+              "I distinguish evidence from a question or interpretation.",
+              "I credit a source or contributor in an age-appropriate way and follow consent and care expectations."
             ]
           }
         ]
       },
       {
         "id": "u03",
-        "title": "Create & apply",
-        "essentialQuestion": "How can Grade 8 learners use History to notice, understand, and contribute?",
+        "title": "Care and interpret: Source criticism, archaeology, archives, and ethical preservation",
+        "essentialQuestion": "Who decides what is saved, named, displayed, or remembered, and how can we act responsibly?",
         "outcomes": [
-          "Apply learning in a STEM, fine-art, or real-world creation."
+          "Practice ethical care, provenance, consent, respectful language, and multiple perspectives.",
+          "Use evidence responsibly and recognize that accounts of the past can be incomplete or shaped by perspective."
         ],
         "standardIds": [
-          "TODO: Add state and national standard IDs."
+          "C3 Inquiry Arc: Grades 6-8",
+          "NPS Teaching with Historic Places: place as primary source"
         ],
         "lessons": [
           {
             "id": "u03-l01",
-            "title": "Apply learning in a STEM, fine-art, or real-world creation.",
-            "objective": "TODO: Write a measurable History objective for this lesson.",
+            "title": "Source investigation: Notice evidence",
+            "objective": "I can closely examine a selected source or place and record observations, questions, and inferences while studying Source criticism, archaeology, archives, and ethical preservation.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u02-l03"
+            ],
             "activities": [
               {
                 "id": "u03-l01-a01",
-                "title": "Learner action",
-                "kind": "practice",
-                "learnerAction": "Apply learning in a STEM, fine-art, or real-world creation.",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "the learner will closely examine a selected source or place and record observations, questions, and inferences. Use only materials that may be shared; protect private details and seek consent before recording or publishing an oral history.",
                 "evidenceOptions": [
                   "written-response",
+                  "project-link",
+                  "photo",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 37
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "I identify a detail in the source, artifact, map, image, oral account, or historic place.",
+              "I distinguish evidence from a question or interpretation.",
+              "I credit a source or contributor in an age-appropriate way and follow consent and care expectations."
             ]
           },
           {
             "id": "u03-l02",
-            "title": "Apply learning in a STEM, fine-art, or real-world creation.",
-            "objective": "TODO: Write a measurable History objective for this lesson.",
+            "title": "Evidence workshop: Test an interpretation",
+            "objective": "I can compare evidence and use context to support or revise a historical claim while studying Source criticism, archaeology, archives, and ethical preservation.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u02-l03"
+            ],
             "activities": [
               {
                 "id": "u03-l02-a01",
-                "title": "Learner action",
+                "title": "Context and comparison",
                 "kind": "practice",
-                "learnerAction": "Apply learning in a STEM, fine-art, or real-world creation.",
+                "learnerAction": "the learner will compare evidence and use context to support or revise a historical claim. Use only materials that may be shared; protect private details and seek consent before recording or publishing an oral history.",
                 "evidenceOptions": [
                   "written-response",
+                  "project-link",
+                  "photo",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 37
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "I identify a detail in the source, artifact, map, image, oral account, or historic place.",
+              "I distinguish evidence from a question or interpretation.",
+              "I credit a source or contributor in an age-appropriate way and follow consent and care expectations."
             ]
           },
           {
             "id": "u03-l03",
-            "title": "Apply learning in a STEM, fine-art, or real-world creation.",
-            "objective": "TODO: Write a measurable History objective for this lesson.",
+            "title": "Preservation studio: Make and share",
+            "objective": "I can create a careful preservation product that credits sources and respects people and communities while studying Source criticism, archaeology, archives, and ethical preservation.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u02-l03"
+            ],
             "activities": [
               {
                 "id": "u03-l03-a01",
-                "title": "Learner action",
+                "title": "Preservation product",
                 "kind": "create",
-                "learnerAction": "Apply learning in a STEM, fine-art, or real-world creation.",
+                "learnerAction": "the learner will create a careful preservation product that credits sources and respects people and communities. Use only materials that may be shared; protect private details and seek consent before recording or publishing an oral history.",
                 "evidenceOptions": [
                   "written-response",
+                  "project-link",
+                  "photo",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 37
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "I identify a detail in the source, artifact, map, image, oral account, or historic place.",
+              "I distinguish evidence from a question or interpretation.",
+              "I credit a source or contributor in an age-appropriate way and follow consent and care expectations."
             ]
           }
         ]
       },
       {
         "id": "u04",
-        "title": "Reflect & share",
-        "essentialQuestion": "How can Grade 8 learners use History to notice, understand, and contribute?",
+        "title": "Preserve and share: Source criticism, archaeology, archives, and ethical preservation",
+        "essentialQuestion": "How can we preserve a well-supported story for others?",
         "outcomes": [
-          "Share evidence, reflect, request help when needed, and set a next step."
+          "Create a cited, age-appropriate preservation product and reflect on limits or next questions.",
+          "Use evidence responsibly and recognize that accounts of the past can be incomplete or shaped by perspective."
         ],
         "standardIds": [
-          "TODO: Add state and national standard IDs."
+          "C3 Inquiry Arc: Grades 6-8",
+          "NPS Teaching with Historic Places: place as primary source"
         ],
         "lessons": [
           {
             "id": "u04-l01",
-            "title": "Share evidence, reflect, request help when needed, and set a next step.",
-            "objective": "TODO: Write a measurable History objective for this lesson.",
+            "title": "Source investigation: Notice evidence",
+            "objective": "I can closely examine a selected source or place and record observations, questions, and inferences while studying Source criticism, archaeology, archives, and ethical preservation.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u03-l03"
+            ],
             "activities": [
               {
                 "id": "u04-l01-a01",
-                "title": "Learner action",
-                "kind": "practice",
-                "learnerAction": "Share evidence, reflect, request help when needed, and set a next step.",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "the learner will closely examine a selected source or place and record observations, questions, and inferences. Use only materials that may be shared; protect private details and seek consent before recording or publishing an oral history.",
                 "evidenceOptions": [
                   "written-response",
+                  "project-link",
+                  "photo",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 37
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "I identify a detail in the source, artifact, map, image, oral account, or historic place.",
+              "I distinguish evidence from a question or interpretation.",
+              "I credit a source or contributor in an age-appropriate way and follow consent and care expectations."
             ]
           },
           {
             "id": "u04-l02",
-            "title": "Share evidence, reflect, request help when needed, and set a next step.",
-            "objective": "TODO: Write a measurable History objective for this lesson.",
+            "title": "Evidence workshop: Test an interpretation",
+            "objective": "I can compare evidence and use context to support or revise a historical claim while studying Source criticism, archaeology, archives, and ethical preservation.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u03-l03"
+            ],
             "activities": [
               {
                 "id": "u04-l02-a01",
-                "title": "Learner action",
+                "title": "Context and comparison",
                 "kind": "practice",
-                "learnerAction": "Share evidence, reflect, request help when needed, and set a next step.",
+                "learnerAction": "the learner will compare evidence and use context to support or revise a historical claim. Use only materials that may be shared; protect private details and seek consent before recording or publishing an oral history.",
                 "evidenceOptions": [
                   "written-response",
+                  "project-link",
+                  "photo",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 37
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "I identify a detail in the source, artifact, map, image, oral account, or historic place.",
+              "I distinguish evidence from a question or interpretation.",
+              "I credit a source or contributor in an age-appropriate way and follow consent and care expectations."
             ]
           },
           {
             "id": "u04-l03",
-            "title": "Share evidence, reflect, request help when needed, and set a next step.",
-            "objective": "TODO: Write a measurable History objective for this lesson.",
+            "title": "Preservation studio: Make and share",
+            "objective": "I can create a careful preservation product that credits sources and respects people and communities while studying Source criticism, archaeology, archives, and ethical preservation.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u03-l03"
+            ],
             "activities": [
               {
                 "id": "u04-l03-a01",
-                "title": "Learner action",
+                "title": "Preservation product",
                 "kind": "create",
-                "learnerAction": "Share evidence, reflect, request help when needed, and set a next step.",
+                "learnerAction": "the learner will create a careful preservation product that credits sources and respects people and communities. Use only materials that may be shared; protect private details and seek consent before recording or publishing an oral history.",
                 "evidenceOptions": [
                   "written-response",
+                  "project-link",
+                  "photo",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 37
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "I identify a detail in the source, artifact, map, image, oral account, or historic place.",
+              "I distinguish evidence from a question or interpretation.",
+              "I credit a source or contributor in an age-appropriate way and follow consent and care expectations."
             ]
           }
         ]

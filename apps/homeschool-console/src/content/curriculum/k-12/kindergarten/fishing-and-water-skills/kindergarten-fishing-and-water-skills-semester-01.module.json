@@ -1,0 +1,460 @@
+{
+  "id": "kindergarten-fishing-and-water-skills-semester-01",
+  "name": "Kindergarten Fishing & Water Skills — Semester 1",
+  "description": "An 18-week, play-based Kindergarten pathway for water safety, fish observation, and shoreline stewardship. Lessons are brief, hands-on, flexible, and designed for adult-guided learning.",
+  "version": "1.0.0",
+  "subjectNames": [
+    "Fishing & Water Skills"
+  ],
+  "learningGoals": [
+    "Build confidence and curiosity with water safety, fish observation, and shoreline stewardship.",
+    "Communicate learning through talk, drawing, movement, play, or a simple creation.",
+    "Practice safe, kind, and responsible participation."
+  ],
+  "lessons": [
+    {
+      "title": "Notice and talk: water safety, fish observation, and shoreline stewardship",
+      "objective": "I can notice details and share a question about water safety, fish observation, and shoreline stewardship through a close look at water safety, fish observation, and shoreline stewardship.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: water safety, fish observation, and shoreline stewardship",
+      "objective": "I can notice details and share a question about water safety, fish observation, and shoreline stewardship through a guided practice with water safety, fish observation, and shoreline stewardship.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: water safety, fish observation, and shoreline stewardship",
+      "objective": "I can notice details and share a question about water safety, fish observation, and shoreline stewardship through a small creation or demonstration about water safety, fish observation, and shoreline stewardship.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: water safety, fish observation, and shoreline stewardship",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about water safety, fish observation, and shoreline stewardship through a close look at water safety, fish observation, and shoreline stewardship.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: water safety, fish observation, and shoreline stewardship",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about water safety, fish observation, and shoreline stewardship through a guided practice with water safety, fish observation, and shoreline stewardship.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: water safety, fish observation, and shoreline stewardship",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about water safety, fish observation, and shoreline stewardship through a small creation or demonstration about water safety, fish observation, and shoreline stewardship.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: water safety, fish observation, and shoreline stewardship",
+      "objective": "I can use what I know to make, solve, move, or help with water safety, fish observation, and shoreline stewardship through a close look at water safety, fish observation, and shoreline stewardship.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: water safety, fish observation, and shoreline stewardship",
+      "objective": "I can use what I know to make, solve, move, or help with water safety, fish observation, and shoreline stewardship through a guided practice with water safety, fish observation, and shoreline stewardship.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: water safety, fish observation, and shoreline stewardship",
+      "objective": "I can use what I know to make, solve, move, or help with water safety, fish observation, and shoreline stewardship through a small creation or demonstration about water safety, fish observation, and shoreline stewardship.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: water safety, fish observation, and shoreline stewardship",
+      "objective": "I can show my learning, listen to feedback, and name a next step for water safety, fish observation, and shoreline stewardship through a close look at water safety, fish observation, and shoreline stewardship.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: water safety, fish observation, and shoreline stewardship",
+      "objective": "I can show my learning, listen to feedback, and name a next step for water safety, fish observation, and shoreline stewardship through a guided practice with water safety, fish observation, and shoreline stewardship.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: water safety, fish observation, and shoreline stewardship",
+      "objective": "I can show my learning, listen to feedback, and name a next step for water safety, fish observation, and shoreline stewardship through a small creation or demonstration about water safety, fish observation, and shoreline stewardship.",
+      "minutes": 25
+    }
+  ],
+  "resources": [
+    {
+      "title": "Water safety and wildlife stewardship",
+      "url": "https://www.redcross.org/take-a-class/swimming",
+      "description": "Planning reference for this Kindergarten Fishing & Water Skills pathway."
+    }
+  ],
+  "curriculum": {
+    "gradeId": "kindergarten",
+    "subjectId": "fishing-and-water-skills",
+    "semester": 1,
+    "pacing": {
+      "intendedWeeks": 18,
+      "flexible": true
+    },
+    "units": [
+      {
+        "id": "u01",
+        "title": "Wonder and notice: water safety, fish observation, and shoreline stewardship",
+        "essentialQuestion": "What can we notice and wonder about water safety, fish observation, and shoreline stewardship?",
+        "outcomes": [
+          "I can notice details and share a question about water safety, fish observation, and shoreline stewardship.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "Adult-supervised water safety pathway"
+        ],
+        "lessons": [
+          {
+            "id": "u01-l01",
+            "title": "Notice and talk: water safety, fish observation, and shoreline stewardship",
+            "objective": "I can notice details and share a question about water safety, fish observation, and shoreline stewardship through a close look at water safety, fish observation, and shoreline stewardship.",
+            "estimatedMinutes": 25,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l01-a01",
+                "title": "A close look at water safety, fish observation, and shoreline stewardship",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at water safety, fish observation, and shoreline stewardship, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in water safety, fish observation, and shoreline stewardship.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u01-l02",
+            "title": "Try it together: water safety, fish observation, and shoreline stewardship",
+            "objective": "I can notice details and share a question about water safety, fish observation, and shoreline stewardship through a guided practice with water safety, fish observation, and shoreline stewardship.",
+            "estimatedMinutes": 25,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l02-a01",
+                "title": "A guided practice with water safety, fish observation, and shoreline stewardship",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with water safety, fish observation, and shoreline stewardship, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in water safety, fish observation, and shoreline stewardship.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u01-l03",
+            "title": "Make or show: water safety, fish observation, and shoreline stewardship",
+            "objective": "I can notice details and share a question about water safety, fish observation, and shoreline stewardship through a small creation or demonstration about water safety, fish observation, and shoreline stewardship.",
+            "estimatedMinutes": 25,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l03-a01",
+                "title": "A small creation or demonstration about water safety, fish observation, and shoreline stewardship",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about water safety, fish observation, and shoreline stewardship, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in water safety, fish observation, and shoreline stewardship.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u02",
+        "title": "Explore and practice: water safety, fish observation, and shoreline stewardship",
+        "essentialQuestion": "How can we learn and practice water safety, fish observation, and shoreline stewardship safely?",
+        "outcomes": [
+          "I can try a skill, use materials safely, and explain something I learned about water safety, fish observation, and shoreline stewardship.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "Adult-supervised water safety pathway"
+        ],
+        "lessons": [
+          {
+            "id": "u02-l01",
+            "title": "Notice and talk: water safety, fish observation, and shoreline stewardship",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about water safety, fish observation, and shoreline stewardship through a close look at water safety, fish observation, and shoreline stewardship.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l01-a01",
+                "title": "A close look at water safety, fish observation, and shoreline stewardship",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at water safety, fish observation, and shoreline stewardship, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in water safety, fish observation, and shoreline stewardship.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u02-l02",
+            "title": "Try it together: water safety, fish observation, and shoreline stewardship",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about water safety, fish observation, and shoreline stewardship through a guided practice with water safety, fish observation, and shoreline stewardship.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l02-a01",
+                "title": "A guided practice with water safety, fish observation, and shoreline stewardship",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with water safety, fish observation, and shoreline stewardship, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in water safety, fish observation, and shoreline stewardship.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u02-l03",
+            "title": "Make or show: water safety, fish observation, and shoreline stewardship",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about water safety, fish observation, and shoreline stewardship through a small creation or demonstration about water safety, fish observation, and shoreline stewardship.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l03-a01",
+                "title": "A small creation or demonstration about water safety, fish observation, and shoreline stewardship",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about water safety, fish observation, and shoreline stewardship, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in water safety, fish observation, and shoreline stewardship.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u03",
+        "title": "Make and apply: water safety, fish observation, and shoreline stewardship",
+        "essentialQuestion": "How can we use water safety, fish observation, and shoreline stewardship to make, solve, move, or help?",
+        "outcomes": [
+          "I can use what I know to make, solve, move, or help with water safety, fish observation, and shoreline stewardship.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "Adult-supervised water safety pathway"
+        ],
+        "lessons": [
+          {
+            "id": "u03-l01",
+            "title": "Notice and talk: water safety, fish observation, and shoreline stewardship",
+            "objective": "I can use what I know to make, solve, move, or help with water safety, fish observation, and shoreline stewardship through a close look at water safety, fish observation, and shoreline stewardship.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l01-a01",
+                "title": "A close look at water safety, fish observation, and shoreline stewardship",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at water safety, fish observation, and shoreline stewardship, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in water safety, fish observation, and shoreline stewardship.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u03-l02",
+            "title": "Try it together: water safety, fish observation, and shoreline stewardship",
+            "objective": "I can use what I know to make, solve, move, or help with water safety, fish observation, and shoreline stewardship through a guided practice with water safety, fish observation, and shoreline stewardship.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l02-a01",
+                "title": "A guided practice with water safety, fish observation, and shoreline stewardship",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with water safety, fish observation, and shoreline stewardship, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in water safety, fish observation, and shoreline stewardship.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u03-l03",
+            "title": "Make or show: water safety, fish observation, and shoreline stewardship",
+            "objective": "I can use what I know to make, solve, move, or help with water safety, fish observation, and shoreline stewardship through a small creation or demonstration about water safety, fish observation, and shoreline stewardship.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l03-a01",
+                "title": "A small creation or demonstration about water safety, fish observation, and shoreline stewardship",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about water safety, fish observation, and shoreline stewardship, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in water safety, fish observation, and shoreline stewardship.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u04",
+        "title": "Reflect and share: water safety, fish observation, and shoreline stewardship",
+        "essentialQuestion": "How can we share what we learned about water safety, fish observation, and shoreline stewardship?",
+        "outcomes": [
+          "I can show my learning, listen to feedback, and name a next step for water safety, fish observation, and shoreline stewardship.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "Adult-supervised water safety pathway"
+        ],
+        "lessons": [
+          {
+            "id": "u04-l01",
+            "title": "Notice and talk: water safety, fish observation, and shoreline stewardship",
+            "objective": "I can show my learning, listen to feedback, and name a next step for water safety, fish observation, and shoreline stewardship through a close look at water safety, fish observation, and shoreline stewardship.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l01-a01",
+                "title": "A close look at water safety, fish observation, and shoreline stewardship",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at water safety, fish observation, and shoreline stewardship, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in water safety, fish observation, and shoreline stewardship.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u04-l02",
+            "title": "Try it together: water safety, fish observation, and shoreline stewardship",
+            "objective": "I can show my learning, listen to feedback, and name a next step for water safety, fish observation, and shoreline stewardship through a guided practice with water safety, fish observation, and shoreline stewardship.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l02-a01",
+                "title": "A guided practice with water safety, fish observation, and shoreline stewardship",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with water safety, fish observation, and shoreline stewardship, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in water safety, fish observation, and shoreline stewardship.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u04-l03",
+            "title": "Make or show: water safety, fish observation, and shoreline stewardship",
+            "objective": "I can show my learning, listen to feedback, and name a next step for water safety, fish observation, and shoreline stewardship through a small creation or demonstration about water safety, fish observation, and shoreline stewardship.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l03-a01",
+                "title": "A small creation or demonstration about water safety, fish observation, and shoreline stewardship",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about water safety, fish observation, and shoreline stewardship, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in water safety, fish observation, and shoreline stewardship.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

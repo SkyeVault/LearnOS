@@ -1,6 +1,6 @@
 # K–12 semester module library
 
-This directory is the curriculum-planning scaffold for the LearnOS module manager. It contains one declarative module manifest for every enabled learner subject, grade, and semester:
+This directory is the curriculum library for the LearnOS module manager. It contains one declarative, grade-banded semester manifest for every core, hobby/enrichment, and world/society subject, grade, and semester. All 1,638 manifests (13 grades × 63 subjects × 2 semesters) have completed goals, four units, twelve lessons, evidence options, and learner-facing success criteria.
 
 ```text
 {grade-slug}/{subject-slug}/{grade-slug}-{subject-slug}-{semester-slug}.module.json
@@ -21,10 +21,10 @@ grade-12/engineering/grade-12-engineering-semester-02.module.json
 - **Subject folders:** lowercase kebab case, matching the existing module subject name.
 - **Semester files:** `{grade}-{subject}-semester-01.module.json` and `{grade}-{subject}-semester-02.module.json`.
 - **Module IDs:** match the filename without `.module.json`.
-- **Versions:** begin at `0.1.0` while a module is a draft; advance deliberately when its scope or content is released.
+- **Versions:** `1.0.0` identifies the current complete local curriculum pathway; advance deliberately when its scope or content changes.
 
-Each manifest is compatible with the existing module importer. Before assigning one to a learner, replace every `TODO` goal and lesson, add age-appropriate resources, and revise its description/version. Copy [the semester template](templates/semester-module.template.json) when introducing a new grade, subject, or term.
+Each manifest is compatible with the existing module importer. Review and adapt pacing, resources, accessibility supports, local/state requirements, safety requirements, and learner needs before assigning it. The pathways are framework-informed planning material, not a replacement for educator judgment or locally adopted curriculum. Copy [the semester template](templates/semester-module.template.json) when introducing a new grade, subject, or term.
 
 For a standards-first path to source, license, and map each unit, see [the course-material retrieval system](_system/COURSE_MATERIAL_RETRIEVAL.md). For the learner, evidence, review, and teacher-attention workflow, see [the module interaction scaffold](_system/MODULE_INTERACTION_SCAFFOLD.md).
 
-The scaffold is generated from `scripts/scaffold-k12-modules.mjs`.  Run it after intentionally changing the supported-subject list, then run `node scripts/scaffold-k12-modules.mjs --check` to confirm the expected coverage.
+Run `node scripts/scaffold-k12-modules.mjs --check` to confirm the expected 1,638-manifest coverage. See [the K–12 citation log](../../../../../../../docs/K12_LIBRARY_CITATION_LOG.md) for the framework sources used to shape grade-banded pathways.

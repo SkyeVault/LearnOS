@@ -1,0 +1,460 @@
+{
+  "id": "kindergarten-recipe-studio-and-food-culture-semester-01",
+  "name": "Kindergarten Recipe Studio & Food Culture — Semester 1",
+  "description": "An 18-week, play-based Kindergarten pathway for recipe pictures, family food stories, and kitchen safety. Lessons are brief, hands-on, flexible, and designed for adult-guided learning.",
+  "version": "1.0.0",
+  "subjectNames": [
+    "Recipe Studio & Food Culture"
+  ],
+  "learningGoals": [
+    "Build confidence and curiosity with recipe pictures, family food stories, and kitchen safety.",
+    "Communicate learning through talk, drawing, movement, play, or a simple creation.",
+    "Practice safe, kind, and responsible participation."
+  ],
+  "lessons": [
+    {
+      "title": "Notice and talk: recipe pictures, family food stories, and kitchen safety",
+      "objective": "I can notice details and share a question about recipe pictures, family food stories, and kitchen safety through a close look at recipe pictures, family food stories, and kitchen safety.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: recipe pictures, family food stories, and kitchen safety",
+      "objective": "I can notice details and share a question about recipe pictures, family food stories, and kitchen safety through a guided practice with recipe pictures, family food stories, and kitchen safety.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: recipe pictures, family food stories, and kitchen safety",
+      "objective": "I can notice details and share a question about recipe pictures, family food stories, and kitchen safety through a small creation or demonstration about recipe pictures, family food stories, and kitchen safety.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: recipe pictures, family food stories, and kitchen safety",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about recipe pictures, family food stories, and kitchen safety through a close look at recipe pictures, family food stories, and kitchen safety.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: recipe pictures, family food stories, and kitchen safety",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about recipe pictures, family food stories, and kitchen safety through a guided practice with recipe pictures, family food stories, and kitchen safety.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: recipe pictures, family food stories, and kitchen safety",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about recipe pictures, family food stories, and kitchen safety through a small creation or demonstration about recipe pictures, family food stories, and kitchen safety.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: recipe pictures, family food stories, and kitchen safety",
+      "objective": "I can use what I know to make, solve, move, or help with recipe pictures, family food stories, and kitchen safety through a close look at recipe pictures, family food stories, and kitchen safety.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: recipe pictures, family food stories, and kitchen safety",
+      "objective": "I can use what I know to make, solve, move, or help with recipe pictures, family food stories, and kitchen safety through a guided practice with recipe pictures, family food stories, and kitchen safety.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: recipe pictures, family food stories, and kitchen safety",
+      "objective": "I can use what I know to make, solve, move, or help with recipe pictures, family food stories, and kitchen safety through a small creation or demonstration about recipe pictures, family food stories, and kitchen safety.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: recipe pictures, family food stories, and kitchen safety",
+      "objective": "I can show my learning, listen to feedback, and name a next step for recipe pictures, family food stories, and kitchen safety through a close look at recipe pictures, family food stories, and kitchen safety.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: recipe pictures, family food stories, and kitchen safety",
+      "objective": "I can show my learning, listen to feedback, and name a next step for recipe pictures, family food stories, and kitchen safety through a guided practice with recipe pictures, family food stories, and kitchen safety.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: recipe pictures, family food stories, and kitchen safety",
+      "objective": "I can show my learning, listen to feedback, and name a next step for recipe pictures, family food stories, and kitchen safety through a small creation or demonstration about recipe pictures, family food stories, and kitchen safety.",
+      "minutes": 25
+    }
+  ],
+  "resources": [
+    {
+      "title": "USDA nutrition education and cultural responsiveness",
+      "url": "https://www.myplate.gov/",
+      "description": "Planning reference for this Kindergarten Recipe Studio & Food Culture pathway."
+    }
+  ],
+  "curriculum": {
+    "gradeId": "kindergarten",
+    "subjectId": "recipe-studio-and-food-culture",
+    "semester": 1,
+    "pacing": {
+      "intendedWeeks": 18,
+      "flexible": true
+    },
+    "units": [
+      {
+        "id": "u01",
+        "title": "Wonder and notice: recipe pictures, family food stories, and kitchen safety",
+        "essentialQuestion": "What can we notice and wonder about recipe pictures, family food stories, and kitchen safety?",
+        "outcomes": [
+          "I can notice details and share a question about recipe pictures, family food stories, and kitchen safety.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "Supervised food-preparation pathway"
+        ],
+        "lessons": [
+          {
+            "id": "u01-l01",
+            "title": "Notice and talk: recipe pictures, family food stories, and kitchen safety",
+            "objective": "I can notice details and share a question about recipe pictures, family food stories, and kitchen safety through a close look at recipe pictures, family food stories, and kitchen safety.",
+            "estimatedMinutes": 25,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l01-a01",
+                "title": "A close look at recipe pictures, family food stories, and kitchen safety",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at recipe pictures, family food stories, and kitchen safety, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in recipe pictures, family food stories, and kitchen safety.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u01-l02",
+            "title": "Try it together: recipe pictures, family food stories, and kitchen safety",
+            "objective": "I can notice details and share a question about recipe pictures, family food stories, and kitchen safety through a guided practice with recipe pictures, family food stories, and kitchen safety.",
+            "estimatedMinutes": 25,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l02-a01",
+                "title": "A guided practice with recipe pictures, family food stories, and kitchen safety",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with recipe pictures, family food stories, and kitchen safety, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in recipe pictures, family food stories, and kitchen safety.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u01-l03",
+            "title": "Make or show: recipe pictures, family food stories, and kitchen safety",
+            "objective": "I can notice details and share a question about recipe pictures, family food stories, and kitchen safety through a small creation or demonstration about recipe pictures, family food stories, and kitchen safety.",
+            "estimatedMinutes": 25,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l03-a01",
+                "title": "A small creation or demonstration about recipe pictures, family food stories, and kitchen safety",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about recipe pictures, family food stories, and kitchen safety, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in recipe pictures, family food stories, and kitchen safety.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u02",
+        "title": "Explore and practice: recipe pictures, family food stories, and kitchen safety",
+        "essentialQuestion": "How can we learn and practice recipe pictures, family food stories, and kitchen safety safely?",
+        "outcomes": [
+          "I can try a skill, use materials safely, and explain something I learned about recipe pictures, family food stories, and kitchen safety.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "Supervised food-preparation pathway"
+        ],
+        "lessons": [
+          {
+            "id": "u02-l01",
+            "title": "Notice and talk: recipe pictures, family food stories, and kitchen safety",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about recipe pictures, family food stories, and kitchen safety through a close look at recipe pictures, family food stories, and kitchen safety.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l01-a01",
+                "title": "A close look at recipe pictures, family food stories, and kitchen safety",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at recipe pictures, family food stories, and kitchen safety, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in recipe pictures, family food stories, and kitchen safety.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u02-l02",
+            "title": "Try it together: recipe pictures, family food stories, and kitchen safety",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about recipe pictures, family food stories, and kitchen safety through a guided practice with recipe pictures, family food stories, and kitchen safety.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l02-a01",
+                "title": "A guided practice with recipe pictures, family food stories, and kitchen safety",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with recipe pictures, family food stories, and kitchen safety, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in recipe pictures, family food stories, and kitchen safety.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u02-l03",
+            "title": "Make or show: recipe pictures, family food stories, and kitchen safety",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about recipe pictures, family food stories, and kitchen safety through a small creation or demonstration about recipe pictures, family food stories, and kitchen safety.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l03-a01",
+                "title": "A small creation or demonstration about recipe pictures, family food stories, and kitchen safety",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about recipe pictures, family food stories, and kitchen safety, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in recipe pictures, family food stories, and kitchen safety.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u03",
+        "title": "Make and apply: recipe pictures, family food stories, and kitchen safety",
+        "essentialQuestion": "How can we use recipe pictures, family food stories, and kitchen safety to make, solve, move, or help?",
+        "outcomes": [
+          "I can use what I know to make, solve, move, or help with recipe pictures, family food stories, and kitchen safety.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "Supervised food-preparation pathway"
+        ],
+        "lessons": [
+          {
+            "id": "u03-l01",
+            "title": "Notice and talk: recipe pictures, family food stories, and kitchen safety",
+            "objective": "I can use what I know to make, solve, move, or help with recipe pictures, family food stories, and kitchen safety through a close look at recipe pictures, family food stories, and kitchen safety.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l01-a01",
+                "title": "A close look at recipe pictures, family food stories, and kitchen safety",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at recipe pictures, family food stories, and kitchen safety, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in recipe pictures, family food stories, and kitchen safety.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u03-l02",
+            "title": "Try it together: recipe pictures, family food stories, and kitchen safety",
+            "objective": "I can use what I know to make, solve, move, or help with recipe pictures, family food stories, and kitchen safety through a guided practice with recipe pictures, family food stories, and kitchen safety.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l02-a01",
+                "title": "A guided practice with recipe pictures, family food stories, and kitchen safety",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with recipe pictures, family food stories, and kitchen safety, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in recipe pictures, family food stories, and kitchen safety.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u03-l03",
+            "title": "Make or show: recipe pictures, family food stories, and kitchen safety",
+            "objective": "I can use what I know to make, solve, move, or help with recipe pictures, family food stories, and kitchen safety through a small creation or demonstration about recipe pictures, family food stories, and kitchen safety.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l03-a01",
+                "title": "A small creation or demonstration about recipe pictures, family food stories, and kitchen safety",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about recipe pictures, family food stories, and kitchen safety, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in recipe pictures, family food stories, and kitchen safety.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u04",
+        "title": "Reflect and share: recipe pictures, family food stories, and kitchen safety",
+        "essentialQuestion": "How can we share what we learned about recipe pictures, family food stories, and kitchen safety?",
+        "outcomes": [
+          "I can show my learning, listen to feedback, and name a next step for recipe pictures, family food stories, and kitchen safety.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "Supervised food-preparation pathway"
+        ],
+        "lessons": [
+          {
+            "id": "u04-l01",
+            "title": "Notice and talk: recipe pictures, family food stories, and kitchen safety",
+            "objective": "I can show my learning, listen to feedback, and name a next step for recipe pictures, family food stories, and kitchen safety through a close look at recipe pictures, family food stories, and kitchen safety.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l01-a01",
+                "title": "A close look at recipe pictures, family food stories, and kitchen safety",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at recipe pictures, family food stories, and kitchen safety, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in recipe pictures, family food stories, and kitchen safety.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u04-l02",
+            "title": "Try it together: recipe pictures, family food stories, and kitchen safety",
+            "objective": "I can show my learning, listen to feedback, and name a next step for recipe pictures, family food stories, and kitchen safety through a guided practice with recipe pictures, family food stories, and kitchen safety.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l02-a01",
+                "title": "A guided practice with recipe pictures, family food stories, and kitchen safety",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with recipe pictures, family food stories, and kitchen safety, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in recipe pictures, family food stories, and kitchen safety.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u04-l03",
+            "title": "Make or show: recipe pictures, family food stories, and kitchen safety",
+            "objective": "I can show my learning, listen to feedback, and name a next step for recipe pictures, family food stories, and kitchen safety through a small creation or demonstration about recipe pictures, family food stories, and kitchen safety.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l03-a01",
+                "title": "A small creation or demonstration about recipe pictures, family food stories, and kitchen safety",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about recipe pictures, family food stories, and kitchen safety, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in recipe pictures, family food stories, and kitchen safety.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

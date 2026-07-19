@@ -1,23 +1,85 @@
 {
   "id": "grade-04-physical-education-semester-02",
   "name": "Grade 4 Physical Education — Semester 2",
-  "description": "Planning template for Grade 4 Physical Education, Semester 2. Replace the placeholder goals and lessons before assigning this module.",
-  "version": "0.1.0",
+  "description": "An 18-week Grade 4 pathway for using evidence, multi-step processes, and clear explanations through Physical Education. Learning advances through inquiry, practice, authentic application, revision, and communication.",
+  "version": "1.0.0",
   "subjectNames": [
     "Physical Education"
   ],
   "learningGoals": [
-    "TODO: Define the first Physical Education outcome for Grade 4.",
-    "TODO: Define the evidence of learning for Semester 2."
+    "Develop grade 4 knowledge and transferable skills in using evidence, multi-step processes, and clear explanations through Physical Education.",
+    "Use appropriate evidence, vocabulary, tools, and methods to explain reasoning.",
+    "Plan, revise, collaborate responsibly, and communicate a well-supported conclusion."
   ],
   "lessons": [
     {
-      "title": "TODO: Name the opening lesson",
-      "objective": "TODO: Write a measurable Physical Education objective for grade 4.",
-      "minutes": 45
+      "title": "Launch inquiry: using evidence, multi-step processes, and clear explanations through Physical Education",
+      "objective": "I can develop a focused question and gather relevant evidence about using evidence, multi-step processes, and clear explanations through Physical Education and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Skill studio: using evidence, multi-step processes, and clear explanations through Physical Education",
+      "objective": "I can develop a focused question and gather relevant evidence about using evidence, multi-step processes, and clear explanations through Physical Education and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Application lab: using evidence, multi-step processes, and clear explanations through Physical Education",
+      "objective": "I can develop a focused question and gather relevant evidence about using evidence, multi-step processes, and clear explanations through Physical Education and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Launch inquiry: using evidence, multi-step processes, and clear explanations through Physical Education",
+      "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about using evidence, multi-step processes, and clear explanations through Physical Education and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Skill studio: using evidence, multi-step processes, and clear explanations through Physical Education",
+      "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about using evidence, multi-step processes, and clear explanations through Physical Education and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Application lab: using evidence, multi-step processes, and clear explanations through Physical Education",
+      "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about using evidence, multi-step processes, and clear explanations through Physical Education and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Launch inquiry: using evidence, multi-step processes, and clear explanations through Physical Education",
+      "objective": "I can apply learning to a meaningful product, model, performance, or solution about using evidence, multi-step processes, and clear explanations through Physical Education and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Skill studio: using evidence, multi-step processes, and clear explanations through Physical Education",
+      "objective": "I can apply learning to a meaningful product, model, performance, or solution about using evidence, multi-step processes, and clear explanations through Physical Education and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Application lab: using evidence, multi-step processes, and clear explanations through Physical Education",
+      "objective": "I can apply learning to a meaningful product, model, performance, or solution about using evidence, multi-step processes, and clear explanations through Physical Education and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Launch inquiry: using evidence, multi-step processes, and clear explanations through Physical Education",
+      "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about using evidence, multi-step processes, and clear explanations through Physical Education and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Skill studio: using evidence, multi-step processes, and clear explanations through Physical Education",
+      "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about using evidence, multi-step processes, and clear explanations through Physical Education and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Application lab: using evidence, multi-step processes, and clear explanations through Physical Education",
+      "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about using evidence, multi-step processes, and clear explanations through Physical Education and explain my reasoning with appropriate evidence.",
+      "minutes": 40
     }
   ],
-  "resources": [],
+  "resources": [
+    {
+      "title": "SHAPE America National PE Standards",
+      "url": "https://www.shapeamerica.org/",
+      "description": "Planning reference for this Grade 4 Physical Education pathway."
+    }
+  ],
   "curriculum": {
     "gradeId": "grade-04",
     "subjectId": "physical-education",
@@ -29,328 +91,390 @@
     "units": [
       {
         "id": "u01",
-        "title": "Launch: Semester 2",
-        "essentialQuestion": "How can Grade 4 learners use Physical Education to notice, understand, and contribute?",
+        "title": "Investigate: using evidence, multi-step processes, and clear explanations through Physical Education",
+        "essentialQuestion": "What question and evidence can guide our study of using evidence, multi-step processes, and clear explanations through Physical Education?",
         "outcomes": [
-          "Notice, name prior knowledge, and set a meaningful question."
+          "I can develop a focused question and gather relevant evidence about using evidence, multi-step processes, and clear explanations through Physical Education.",
+          "I can use appropriate disciplinary vocabulary, evidence, and tools to communicate my reasoning."
         ],
         "standardIds": [
-          "TODO: Add state and national standard IDs."
+          "Grades 3-5 framework progression"
         ],
         "lessons": [
           {
             "id": "u01-l01",
-            "title": "Notice, name prior knowledge, and set a meaningful question.",
-            "objective": "TODO: Write a measurable Physical Education objective for this lesson.",
-            "estimatedMinutes": 45,
+            "title": "Launch inquiry: using evidence, multi-step processes, and clear explanations through Physical Education",
+            "objective": "I can develop a focused question and gather relevant evidence about using evidence, multi-step processes, and clear explanations through Physical Education and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
             "prerequisites": [],
             "activities": [
               {
                 "id": "u01-l01-a01",
-                "title": "Learner action",
-                "kind": "practice",
-                "learnerAction": "Notice, name prior knowledge, and set a meaningful question.",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "The learner develop a focused question and gather relevant evidence about using evidence, multi-step processes, and clear explanations through Physical Education, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 28
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 4 task connected to using evidence, multi-step processes, and clear explanations through Physical Education.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           },
           {
             "id": "u01-l02",
-            "title": "Notice, name prior knowledge, and set a meaningful question.",
-            "objective": "TODO: Write a measurable Physical Education objective for this lesson.",
-            "estimatedMinutes": 45,
+            "title": "Skill studio: using evidence, multi-step processes, and clear explanations through Physical Education",
+            "objective": "I can develop a focused question and gather relevant evidence about using evidence, multi-step processes, and clear explanations through Physical Education and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
             "prerequisites": [],
             "activities": [
               {
                 "id": "u01-l02-a01",
-                "title": "Learner action",
+                "title": "Guided analysis and practice",
                 "kind": "practice",
-                "learnerAction": "Notice, name prior knowledge, and set a meaningful question.",
+                "learnerAction": "The learner develop a focused question and gather relevant evidence about using evidence, multi-step processes, and clear explanations through Physical Education, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 28
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 4 task connected to using evidence, multi-step processes, and clear explanations through Physical Education.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           },
           {
             "id": "u01-l03",
-            "title": "Notice, name prior knowledge, and set a meaningful question.",
-            "objective": "TODO: Write a measurable Physical Education objective for this lesson.",
-            "estimatedMinutes": 45,
+            "title": "Application lab: using evidence, multi-step processes, and clear explanations through Physical Education",
+            "objective": "I can develop a focused question and gather relevant evidence about using evidence, multi-step processes, and clear explanations through Physical Education and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
             "prerequisites": [],
             "activities": [
               {
                 "id": "u01-l03-a01",
-                "title": "Learner action",
+                "title": "Independent or collaborative application",
                 "kind": "create",
-                "learnerAction": "Notice, name prior knowledge, and set a meaningful question.",
+                "learnerAction": "The learner develop a focused question and gather relevant evidence about using evidence, multi-step processes, and clear explanations through Physical Education, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "project-link",
+                  "photo",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 28
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 4 task connected to using evidence, multi-step processes, and clear explanations through Physical Education.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           }
         ]
       },
       {
         "id": "u02",
-        "title": "Explore & practice",
-        "essentialQuestion": "How can Grade 4 learners use Physical Education to notice, understand, and contribute?",
+        "title": "Practice and analyze: using evidence, multi-step processes, and clear explanations through Physical Education",
+        "essentialQuestion": "How can we analyze and improve our understanding of using evidence, multi-step processes, and clear explanations through Physical Education?",
         "outcomes": [
-          "Learn through models, guided practice, and feedback."
+          "I can practice disciplinary skills and analyze patterns, sources, or feedback about using evidence, multi-step processes, and clear explanations through Physical Education.",
+          "I can use appropriate disciplinary vocabulary, evidence, and tools to communicate my reasoning."
         ],
         "standardIds": [
-          "TODO: Add state and national standard IDs."
+          "Grades 3-5 framework progression"
         ],
         "lessons": [
           {
             "id": "u02-l01",
-            "title": "Learn through models, guided practice, and feedback.",
-            "objective": "TODO: Write a measurable Physical Education objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Launch inquiry: using evidence, multi-step processes, and clear explanations through Physical Education",
+            "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about using evidence, multi-step processes, and clear explanations through Physical Education and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u01-l03"
+            ],
             "activities": [
               {
                 "id": "u02-l01-a01",
-                "title": "Learner action",
-                "kind": "practice",
-                "learnerAction": "Learn through models, guided practice, and feedback.",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "The learner practice disciplinary skills and analyze patterns, sources, or feedback about using evidence, multi-step processes, and clear explanations through Physical Education, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 28
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 4 task connected to using evidence, multi-step processes, and clear explanations through Physical Education.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           },
           {
             "id": "u02-l02",
-            "title": "Learn through models, guided practice, and feedback.",
-            "objective": "TODO: Write a measurable Physical Education objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Skill studio: using evidence, multi-step processes, and clear explanations through Physical Education",
+            "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about using evidence, multi-step processes, and clear explanations through Physical Education and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u01-l03"
+            ],
             "activities": [
               {
                 "id": "u02-l02-a01",
-                "title": "Learner action",
+                "title": "Guided analysis and practice",
                 "kind": "practice",
-                "learnerAction": "Learn through models, guided practice, and feedback.",
+                "learnerAction": "The learner practice disciplinary skills and analyze patterns, sources, or feedback about using evidence, multi-step processes, and clear explanations through Physical Education, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 28
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 4 task connected to using evidence, multi-step processes, and clear explanations through Physical Education.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           },
           {
             "id": "u02-l03",
-            "title": "Learn through models, guided practice, and feedback.",
-            "objective": "TODO: Write a measurable Physical Education objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Application lab: using evidence, multi-step processes, and clear explanations through Physical Education",
+            "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about using evidence, multi-step processes, and clear explanations through Physical Education and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u01-l03"
+            ],
             "activities": [
               {
                 "id": "u02-l03-a01",
-                "title": "Learner action",
+                "title": "Independent or collaborative application",
                 "kind": "create",
-                "learnerAction": "Learn through models, guided practice, and feedback.",
+                "learnerAction": "The learner practice disciplinary skills and analyze patterns, sources, or feedback about using evidence, multi-step processes, and clear explanations through Physical Education, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "project-link",
+                  "photo",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 28
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 4 task connected to using evidence, multi-step processes, and clear explanations through Physical Education.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           }
         ]
       },
       {
         "id": "u03",
-        "title": "Create & apply",
-        "essentialQuestion": "How can Grade 4 learners use Physical Education to notice, understand, and contribute?",
+        "title": "Apply and create: using evidence, multi-step processes, and clear explanations through Physical Education",
+        "essentialQuestion": "How can we apply using evidence, multi-step processes, and clear explanations through Physical Education to an authentic task?",
         "outcomes": [
-          "Apply learning in a STEM, fine-art, or real-world creation."
+          "I can apply learning to a meaningful product, model, performance, or solution about using evidence, multi-step processes, and clear explanations through Physical Education.",
+          "I can use appropriate disciplinary vocabulary, evidence, and tools to communicate my reasoning."
         ],
         "standardIds": [
-          "TODO: Add state and national standard IDs."
+          "Grades 3-5 framework progression"
         ],
         "lessons": [
           {
             "id": "u03-l01",
-            "title": "Apply learning in a STEM, fine-art, or real-world creation.",
-            "objective": "TODO: Write a measurable Physical Education objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Launch inquiry: using evidence, multi-step processes, and clear explanations through Physical Education",
+            "objective": "I can apply learning to a meaningful product, model, performance, or solution about using evidence, multi-step processes, and clear explanations through Physical Education and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u02-l03"
+            ],
             "activities": [
               {
                 "id": "u03-l01-a01",
-                "title": "Learner action",
-                "kind": "practice",
-                "learnerAction": "Apply learning in a STEM, fine-art, or real-world creation.",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "The learner apply learning to a meaningful product, model, performance, or solution about using evidence, multi-step processes, and clear explanations through Physical Education, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 28
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 4 task connected to using evidence, multi-step processes, and clear explanations through Physical Education.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           },
           {
             "id": "u03-l02",
-            "title": "Apply learning in a STEM, fine-art, or real-world creation.",
-            "objective": "TODO: Write a measurable Physical Education objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Skill studio: using evidence, multi-step processes, and clear explanations through Physical Education",
+            "objective": "I can apply learning to a meaningful product, model, performance, or solution about using evidence, multi-step processes, and clear explanations through Physical Education and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u02-l03"
+            ],
             "activities": [
               {
                 "id": "u03-l02-a01",
-                "title": "Learner action",
+                "title": "Guided analysis and practice",
                 "kind": "practice",
-                "learnerAction": "Apply learning in a STEM, fine-art, or real-world creation.",
+                "learnerAction": "The learner apply learning to a meaningful product, model, performance, or solution about using evidence, multi-step processes, and clear explanations through Physical Education, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 28
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 4 task connected to using evidence, multi-step processes, and clear explanations through Physical Education.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           },
           {
             "id": "u03-l03",
-            "title": "Apply learning in a STEM, fine-art, or real-world creation.",
-            "objective": "TODO: Write a measurable Physical Education objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Application lab: using evidence, multi-step processes, and clear explanations through Physical Education",
+            "objective": "I can apply learning to a meaningful product, model, performance, or solution about using evidence, multi-step processes, and clear explanations through Physical Education and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u02-l03"
+            ],
             "activities": [
               {
                 "id": "u03-l03-a01",
-                "title": "Learner action",
+                "title": "Independent or collaborative application",
                 "kind": "create",
-                "learnerAction": "Apply learning in a STEM, fine-art, or real-world creation.",
+                "learnerAction": "The learner apply learning to a meaningful product, model, performance, or solution about using evidence, multi-step processes, and clear explanations through Physical Education, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "project-link",
+                  "photo",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 28
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 4 task connected to using evidence, multi-step processes, and clear explanations through Physical Education.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           }
         ]
       },
       {
         "id": "u04",
-        "title": "Reflect & share",
-        "essentialQuestion": "How can Grade 4 learners use Physical Education to notice, understand, and contribute?",
+        "title": "Reflect and communicate: using evidence, multi-step processes, and clear explanations through Physical Education",
+        "essentialQuestion": "How can we justify, revise, and communicate what we learned about using evidence, multi-step processes, and clear explanations through Physical Education?",
         "outcomes": [
-          "Share evidence, reflect, request help when needed, and set a next step."
+          "I can evaluate evidence, revise work, and communicate a justified conclusion about using evidence, multi-step processes, and clear explanations through Physical Education.",
+          "I can use appropriate disciplinary vocabulary, evidence, and tools to communicate my reasoning."
         ],
         "standardIds": [
-          "TODO: Add state and national standard IDs."
+          "Grades 3-5 framework progression"
         ],
         "lessons": [
           {
             "id": "u04-l01",
-            "title": "Share evidence, reflect, request help when needed, and set a next step.",
-            "objective": "TODO: Write a measurable Physical Education objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Launch inquiry: using evidence, multi-step processes, and clear explanations through Physical Education",
+            "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about using evidence, multi-step processes, and clear explanations through Physical Education and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u03-l03"
+            ],
             "activities": [
               {
                 "id": "u04-l01-a01",
-                "title": "Learner action",
-                "kind": "practice",
-                "learnerAction": "Share evidence, reflect, request help when needed, and set a next step.",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "The learner evaluate evidence, revise work, and communicate a justified conclusion about using evidence, multi-step processes, and clear explanations through Physical Education, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 28
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 4 task connected to using evidence, multi-step processes, and clear explanations through Physical Education.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           },
           {
             "id": "u04-l02",
-            "title": "Share evidence, reflect, request help when needed, and set a next step.",
-            "objective": "TODO: Write a measurable Physical Education objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Skill studio: using evidence, multi-step processes, and clear explanations through Physical Education",
+            "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about using evidence, multi-step processes, and clear explanations through Physical Education and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u03-l03"
+            ],
             "activities": [
               {
                 "id": "u04-l02-a01",
-                "title": "Learner action",
+                "title": "Guided analysis and practice",
                 "kind": "practice",
-                "learnerAction": "Share evidence, reflect, request help when needed, and set a next step.",
+                "learnerAction": "The learner evaluate evidence, revise work, and communicate a justified conclusion about using evidence, multi-step processes, and clear explanations through Physical Education, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 28
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 4 task connected to using evidence, multi-step processes, and clear explanations through Physical Education.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           },
           {
             "id": "u04-l03",
-            "title": "Share evidence, reflect, request help when needed, and set a next step.",
-            "objective": "TODO: Write a measurable Physical Education objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Application lab: using evidence, multi-step processes, and clear explanations through Physical Education",
+            "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about using evidence, multi-step processes, and clear explanations through Physical Education and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u03-l03"
+            ],
             "activities": [
               {
                 "id": "u04-l03-a01",
-                "title": "Learner action",
+                "title": "Independent or collaborative application",
                 "kind": "create",
-                "learnerAction": "Share evidence, reflect, request help when needed, and set a next step.",
+                "learnerAction": "The learner evaluate evidence, revise work, and communicate a justified conclusion about using evidence, multi-step processes, and clear explanations through Physical Education, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "project-link",
+                  "photo",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 28
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 4 task connected to using evidence, multi-step processes, and clear explanations through Physical Education.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           }
         ]

@@ -1,23 +1,85 @@
 {
   "id": "grade-01-living-library-semester-02",
   "name": "Grade 1 Living Library — Semester 2",
-  "description": "Planning template for Grade 1 Living Library, Semester 2. Replace the placeholder goals and lessons before assigning this module.",
-  "version": "0.1.0",
+  "description": "An 18-week Grade 1 pathway for research with books, diverse perspectives, source choices, and sharing discoveries. Learning builds independence through investigation, guided practice, application, and reflection.",
+  "version": "1.0.0",
   "subjectNames": [
     "Living Library"
   ],
   "learningGoals": [
-    "TODO: Define the first Living Library outcome for Grade 1.",
-    "TODO: Define the evidence of learning for Semester 2."
+    "Develop first-grade knowledge and skills in research with books, diverse perspectives, source choices, and sharing discoveries.",
+    "Use speaking, drawing, writing, numbers, models, or movement to explain thinking.",
+    "Work independently when ready and ask for help, feedback, or clarification when needed."
   ],
   "lessons": [
     {
-      "title": "TODO: Name the opening lesson",
-      "objective": "TODO: Write a measurable Living Library objective for grade 1.",
-      "minutes": 45
+      "title": "Explore research with books, diverse perspectives, source choices, and sharing discoveries",
+      "objective": "I can observe, discuss, and record research with books, diverse perspectives, source choices, and sharing discoveries by completing a first-grade task and explaining one observation, choice, or strategy.",
+      "minutes": 30
+    },
+    {
+      "title": "Practice research with books, diverse perspectives, source choices, and sharing discoveries",
+      "objective": "I can observe, discuss, and record research with books, diverse perspectives, source choices, and sharing discoveries by completing a first-grade task and explaining one observation, choice, or strategy.",
+      "minutes": 30
+    },
+    {
+      "title": "Show what I know about research with books, diverse perspectives, source choices, and sharing discoveries",
+      "objective": "I can observe, discuss, and record research with books, diverse perspectives, source choices, and sharing discoveries by completing a first-grade task and explaining one observation, choice, or strategy.",
+      "minutes": 30
+    },
+    {
+      "title": "Explore research with books, diverse perspectives, source choices, and sharing discoveries",
+      "objective": "I can practice with support and explain research with books, diverse perspectives, source choices, and sharing discoveries by completing a first-grade task and explaining one observation, choice, or strategy.",
+      "minutes": 30
+    },
+    {
+      "title": "Practice research with books, diverse perspectives, source choices, and sharing discoveries",
+      "objective": "I can practice with support and explain research with books, diverse perspectives, source choices, and sharing discoveries by completing a first-grade task and explaining one observation, choice, or strategy.",
+      "minutes": 30
+    },
+    {
+      "title": "Show what I know about research with books, diverse perspectives, source choices, and sharing discoveries",
+      "objective": "I can practice with support and explain research with books, diverse perspectives, source choices, and sharing discoveries by completing a first-grade task and explaining one observation, choice, or strategy.",
+      "minutes": 30
+    },
+    {
+      "title": "Explore research with books, diverse perspectives, source choices, and sharing discoveries",
+      "objective": "I can create, solve, move, or demonstrate research with books, diverse perspectives, source choices, and sharing discoveries by completing a first-grade task and explaining one observation, choice, or strategy.",
+      "minutes": 30
+    },
+    {
+      "title": "Practice research with books, diverse perspectives, source choices, and sharing discoveries",
+      "objective": "I can create, solve, move, or demonstrate research with books, diverse perspectives, source choices, and sharing discoveries by completing a first-grade task and explaining one observation, choice, or strategy.",
+      "minutes": 30
+    },
+    {
+      "title": "Show what I know about research with books, diverse perspectives, source choices, and sharing discoveries",
+      "objective": "I can create, solve, move, or demonstrate research with books, diverse perspectives, source choices, and sharing discoveries by completing a first-grade task and explaining one observation, choice, or strategy.",
+      "minutes": 30
+    },
+    {
+      "title": "Explore research with books, diverse perspectives, source choices, and sharing discoveries",
+      "objective": "I can present, reflect, and set a next step research with books, diverse perspectives, source choices, and sharing discoveries by completing a first-grade task and explaining one observation, choice, or strategy.",
+      "minutes": 30
+    },
+    {
+      "title": "Practice research with books, diverse perspectives, source choices, and sharing discoveries",
+      "objective": "I can present, reflect, and set a next step research with books, diverse perspectives, source choices, and sharing discoveries by completing a first-grade task and explaining one observation, choice, or strategy.",
+      "minutes": 30
+    },
+    {
+      "title": "Show what I know about research with books, diverse perspectives, source choices, and sharing discoveries",
+      "objective": "I can present, reflect, and set a next step research with books, diverse perspectives, source choices, and sharing discoveries by completing a first-grade task and explaining one observation, choice, or strategy.",
+      "minutes": 30
     }
   ],
-  "resources": [],
+  "resources": [
+    {
+      "title": "AASL National School Library Standards",
+      "url": "https://standards.aasl.org/",
+      "description": "Planning reference for this Grade 1 Living Library pathway."
+    }
+  ],
   "curriculum": {
     "gradeId": "grade-01",
     "subjectId": "living-library",
@@ -29,328 +91,386 @@
     "units": [
       {
         "id": "u01",
-        "title": "Launch: Semester 2",
-        "essentialQuestion": "How can Grade 1 learners use Living Library to notice, understand, and contribute?",
+        "title": "Investigate: research with books, diverse perspectives, source choices, and sharing discoveries",
+        "essentialQuestion": "What evidence can we gather about research with books, diverse perspectives, source choices, and sharing discoveries?",
         "outcomes": [
-          "Notice, name prior knowledge, and set a meaningful question."
+          "I can observe, discuss, and record research with books, diverse perspectives, source choices, and sharing discoveries.",
+          "I can use accurate words, pictures, numbers, models, writing, or movement to communicate my thinking."
         ],
         "standardIds": [
-          "TODO: Add state and national standard IDs."
+          "AASL: Inquire I.A.1"
         ],
         "lessons": [
           {
             "id": "u01-l01",
-            "title": "Notice, name prior knowledge, and set a meaningful question.",
-            "objective": "TODO: Write a measurable Living Library objective for this lesson.",
-            "estimatedMinutes": 45,
+            "title": "Explore research with books, diverse perspectives, source choices, and sharing discoveries",
+            "objective": "I can observe, discuss, and record research with books, diverse perspectives, source choices, and sharing discoveries by completing a first-grade task and explaining one observation, choice, or strategy.",
+            "estimatedMinutes": 30,
             "prerequisites": [],
             "activities": [
               {
                 "id": "u01-l01-a01",
-                "title": "Learner action",
-                "kind": "practice",
-                "learnerAction": "Notice, name prior knowledge, and set a meaningful question.",
+                "title": "Notice and investigate",
+                "kind": "learn",
+                "learnerAction": "The learner uses age-appropriate materials and first-grade vocabulary to observe, discuss, and record research with books, diverse perspectives, source choices, and sharing discoveries. Adult supervision is provided whenever the subject involves tools, heat, animals, water, traffic, or online media.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 22
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a first-grade task connected to research with books, diverse perspectives, source choices, and sharing discoveries.",
+              "The learner explains an observation, choice, or strategy with appropriate support.",
+              "The learner follows safety, care, and collaboration expectations."
             ]
           },
           {
             "id": "u01-l02",
-            "title": "Notice, name prior knowledge, and set a meaningful question.",
-            "objective": "TODO: Write a measurable Living Library objective for this lesson.",
-            "estimatedMinutes": 45,
+            "title": "Practice research with books, diverse perspectives, source choices, and sharing discoveries",
+            "objective": "I can observe, discuss, and record research with books, diverse perspectives, source choices, and sharing discoveries by completing a first-grade task and explaining one observation, choice, or strategy.",
+            "estimatedMinutes": 30,
             "prerequisites": [],
             "activities": [
               {
                 "id": "u01-l02-a01",
-                "title": "Learner action",
+                "title": "Guided skill practice",
                 "kind": "practice",
-                "learnerAction": "Notice, name prior knowledge, and set a meaningful question.",
+                "learnerAction": "The learner uses age-appropriate materials and first-grade vocabulary to observe, discuss, and record research with books, diverse perspectives, source choices, and sharing discoveries. Adult supervision is provided whenever the subject involves tools, heat, animals, water, traffic, or online media.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 22
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a first-grade task connected to research with books, diverse perspectives, source choices, and sharing discoveries.",
+              "The learner explains an observation, choice, or strategy with appropriate support.",
+              "The learner follows safety, care, and collaboration expectations."
             ]
           },
           {
             "id": "u01-l03",
-            "title": "Notice, name prior knowledge, and set a meaningful question.",
-            "objective": "TODO: Write a measurable Living Library objective for this lesson.",
-            "estimatedMinutes": 45,
+            "title": "Show what I know about research with books, diverse perspectives, source choices, and sharing discoveries",
+            "objective": "I can observe, discuss, and record research with books, diverse perspectives, source choices, and sharing discoveries by completing a first-grade task and explaining one observation, choice, or strategy.",
+            "estimatedMinutes": 30,
             "prerequisites": [],
             "activities": [
               {
                 "id": "u01-l03-a01",
-                "title": "Learner action",
+                "title": "Independent or collaborative application",
                 "kind": "create",
-                "learnerAction": "Notice, name prior knowledge, and set a meaningful question.",
+                "learnerAction": "The learner uses age-appropriate materials and first-grade vocabulary to observe, discuss, and record research with books, diverse perspectives, source choices, and sharing discoveries. Adult supervision is provided whenever the subject involves tools, heat, animals, water, traffic, or online media.",
                 "evidenceOptions": [
+                  "photo",
                   "written-response",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 22
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a first-grade task connected to research with books, diverse perspectives, source choices, and sharing discoveries.",
+              "The learner explains an observation, choice, or strategy with appropriate support.",
+              "The learner follows safety, care, and collaboration expectations."
             ]
           }
         ]
       },
       {
         "id": "u02",
-        "title": "Explore & practice",
-        "essentialQuestion": "How can Grade 1 learners use Living Library to notice, understand, and contribute?",
+        "title": "Build skill: research with books, diverse perspectives, source choices, and sharing discoveries",
+        "essentialQuestion": "How can we practice and explain research with books, diverse perspectives, source choices, and sharing discoveries?",
         "outcomes": [
-          "Learn through models, guided practice, and feedback."
+          "I can practice with support and explain research with books, diverse perspectives, source choices, and sharing discoveries.",
+          "I can use accurate words, pictures, numbers, models, writing, or movement to communicate my thinking."
         ],
         "standardIds": [
-          "TODO: Add state and national standard IDs."
+          "AASL: Inquire I.A.1"
         ],
         "lessons": [
           {
             "id": "u02-l01",
-            "title": "Learn through models, guided practice, and feedback.",
-            "objective": "TODO: Write a measurable Living Library objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Explore research with books, diverse perspectives, source choices, and sharing discoveries",
+            "objective": "I can practice with support and explain research with books, diverse perspectives, source choices, and sharing discoveries by completing a first-grade task and explaining one observation, choice, or strategy.",
+            "estimatedMinutes": 30,
+            "prerequisites": [
+              "u01-l03"
+            ],
             "activities": [
               {
                 "id": "u02-l01-a01",
-                "title": "Learner action",
-                "kind": "practice",
-                "learnerAction": "Learn through models, guided practice, and feedback.",
+                "title": "Notice and investigate",
+                "kind": "learn",
+                "learnerAction": "The learner uses age-appropriate materials and first-grade vocabulary to practice with support and explain research with books, diverse perspectives, source choices, and sharing discoveries. Adult supervision is provided whenever the subject involves tools, heat, animals, water, traffic, or online media.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 22
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a first-grade task connected to research with books, diverse perspectives, source choices, and sharing discoveries.",
+              "The learner explains an observation, choice, or strategy with appropriate support.",
+              "The learner follows safety, care, and collaboration expectations."
             ]
           },
           {
             "id": "u02-l02",
-            "title": "Learn through models, guided practice, and feedback.",
-            "objective": "TODO: Write a measurable Living Library objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Practice research with books, diverse perspectives, source choices, and sharing discoveries",
+            "objective": "I can practice with support and explain research with books, diverse perspectives, source choices, and sharing discoveries by completing a first-grade task and explaining one observation, choice, or strategy.",
+            "estimatedMinutes": 30,
+            "prerequisites": [
+              "u01-l03"
+            ],
             "activities": [
               {
                 "id": "u02-l02-a01",
-                "title": "Learner action",
+                "title": "Guided skill practice",
                 "kind": "practice",
-                "learnerAction": "Learn through models, guided practice, and feedback.",
+                "learnerAction": "The learner uses age-appropriate materials and first-grade vocabulary to practice with support and explain research with books, diverse perspectives, source choices, and sharing discoveries. Adult supervision is provided whenever the subject involves tools, heat, animals, water, traffic, or online media.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 22
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a first-grade task connected to research with books, diverse perspectives, source choices, and sharing discoveries.",
+              "The learner explains an observation, choice, or strategy with appropriate support.",
+              "The learner follows safety, care, and collaboration expectations."
             ]
           },
           {
             "id": "u02-l03",
-            "title": "Learn through models, guided practice, and feedback.",
-            "objective": "TODO: Write a measurable Living Library objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Show what I know about research with books, diverse perspectives, source choices, and sharing discoveries",
+            "objective": "I can practice with support and explain research with books, diverse perspectives, source choices, and sharing discoveries by completing a first-grade task and explaining one observation, choice, or strategy.",
+            "estimatedMinutes": 30,
+            "prerequisites": [
+              "u01-l03"
+            ],
             "activities": [
               {
                 "id": "u02-l03-a01",
-                "title": "Learner action",
+                "title": "Independent or collaborative application",
                 "kind": "create",
-                "learnerAction": "Learn through models, guided practice, and feedback.",
+                "learnerAction": "The learner uses age-appropriate materials and first-grade vocabulary to practice with support and explain research with books, diverse perspectives, source choices, and sharing discoveries. Adult supervision is provided whenever the subject involves tools, heat, animals, water, traffic, or online media.",
                 "evidenceOptions": [
+                  "photo",
                   "written-response",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 22
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a first-grade task connected to research with books, diverse perspectives, source choices, and sharing discoveries.",
+              "The learner explains an observation, choice, or strategy with appropriate support.",
+              "The learner follows safety, care, and collaboration expectations."
             ]
           }
         ]
       },
       {
         "id": "u03",
-        "title": "Create & apply",
-        "essentialQuestion": "How can Grade 1 learners use Living Library to notice, understand, and contribute?",
+        "title": "Apply learning: research with books, diverse perspectives, source choices, and sharing discoveries",
+        "essentialQuestion": "How can we apply research with books, diverse perspectives, source choices, and sharing discoveries to a meaningful task?",
         "outcomes": [
-          "Apply learning in a STEM, fine-art, or real-world creation."
+          "I can create, solve, move, or demonstrate research with books, diverse perspectives, source choices, and sharing discoveries.",
+          "I can use accurate words, pictures, numbers, models, writing, or movement to communicate my thinking."
         ],
         "standardIds": [
-          "TODO: Add state and national standard IDs."
+          "AASL: Inquire I.A.1"
         ],
         "lessons": [
           {
             "id": "u03-l01",
-            "title": "Apply learning in a STEM, fine-art, or real-world creation.",
-            "objective": "TODO: Write a measurable Living Library objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Explore research with books, diverse perspectives, source choices, and sharing discoveries",
+            "objective": "I can create, solve, move, or demonstrate research with books, diverse perspectives, source choices, and sharing discoveries by completing a first-grade task and explaining one observation, choice, or strategy.",
+            "estimatedMinutes": 30,
+            "prerequisites": [
+              "u02-l03"
+            ],
             "activities": [
               {
                 "id": "u03-l01-a01",
-                "title": "Learner action",
-                "kind": "practice",
-                "learnerAction": "Apply learning in a STEM, fine-art, or real-world creation.",
+                "title": "Notice and investigate",
+                "kind": "learn",
+                "learnerAction": "The learner uses age-appropriate materials and first-grade vocabulary to create, solve, move, or demonstrate research with books, diverse perspectives, source choices, and sharing discoveries. Adult supervision is provided whenever the subject involves tools, heat, animals, water, traffic, or online media.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 22
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a first-grade task connected to research with books, diverse perspectives, source choices, and sharing discoveries.",
+              "The learner explains an observation, choice, or strategy with appropriate support.",
+              "The learner follows safety, care, and collaboration expectations."
             ]
           },
           {
             "id": "u03-l02",
-            "title": "Apply learning in a STEM, fine-art, or real-world creation.",
-            "objective": "TODO: Write a measurable Living Library objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Practice research with books, diverse perspectives, source choices, and sharing discoveries",
+            "objective": "I can create, solve, move, or demonstrate research with books, diverse perspectives, source choices, and sharing discoveries by completing a first-grade task and explaining one observation, choice, or strategy.",
+            "estimatedMinutes": 30,
+            "prerequisites": [
+              "u02-l03"
+            ],
             "activities": [
               {
                 "id": "u03-l02-a01",
-                "title": "Learner action",
+                "title": "Guided skill practice",
                 "kind": "practice",
-                "learnerAction": "Apply learning in a STEM, fine-art, or real-world creation.",
+                "learnerAction": "The learner uses age-appropriate materials and first-grade vocabulary to create, solve, move, or demonstrate research with books, diverse perspectives, source choices, and sharing discoveries. Adult supervision is provided whenever the subject involves tools, heat, animals, water, traffic, or online media.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 22
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a first-grade task connected to research with books, diverse perspectives, source choices, and sharing discoveries.",
+              "The learner explains an observation, choice, or strategy with appropriate support.",
+              "The learner follows safety, care, and collaboration expectations."
             ]
           },
           {
             "id": "u03-l03",
-            "title": "Apply learning in a STEM, fine-art, or real-world creation.",
-            "objective": "TODO: Write a measurable Living Library objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Show what I know about research with books, diverse perspectives, source choices, and sharing discoveries",
+            "objective": "I can create, solve, move, or demonstrate research with books, diverse perspectives, source choices, and sharing discoveries by completing a first-grade task and explaining one observation, choice, or strategy.",
+            "estimatedMinutes": 30,
+            "prerequisites": [
+              "u02-l03"
+            ],
             "activities": [
               {
                 "id": "u03-l03-a01",
-                "title": "Learner action",
+                "title": "Independent or collaborative application",
                 "kind": "create",
-                "learnerAction": "Apply learning in a STEM, fine-art, or real-world creation.",
+                "learnerAction": "The learner uses age-appropriate materials and first-grade vocabulary to create, solve, move, or demonstrate research with books, diverse perspectives, source choices, and sharing discoveries. Adult supervision is provided whenever the subject involves tools, heat, animals, water, traffic, or online media.",
                 "evidenceOptions": [
+                  "photo",
                   "written-response",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 22
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a first-grade task connected to research with books, diverse perspectives, source choices, and sharing discoveries.",
+              "The learner explains an observation, choice, or strategy with appropriate support.",
+              "The learner follows safety, care, and collaboration expectations."
             ]
           }
         ]
       },
       {
         "id": "u04",
-        "title": "Reflect & share",
-        "essentialQuestion": "How can Grade 1 learners use Living Library to notice, understand, and contribute?",
+        "title": "Share growth: research with books, diverse perspectives, source choices, and sharing discoveries",
+        "essentialQuestion": "How can we share evidence of growth in research with books, diverse perspectives, source choices, and sharing discoveries?",
         "outcomes": [
-          "Share evidence, reflect, request help when needed, and set a next step."
+          "I can present, reflect, and set a next step research with books, diverse perspectives, source choices, and sharing discoveries.",
+          "I can use accurate words, pictures, numbers, models, writing, or movement to communicate my thinking."
         ],
         "standardIds": [
-          "TODO: Add state and national standard IDs."
+          "AASL: Inquire I.A.1"
         ],
         "lessons": [
           {
             "id": "u04-l01",
-            "title": "Share evidence, reflect, request help when needed, and set a next step.",
-            "objective": "TODO: Write a measurable Living Library objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Explore research with books, diverse perspectives, source choices, and sharing discoveries",
+            "objective": "I can present, reflect, and set a next step research with books, diverse perspectives, source choices, and sharing discoveries by completing a first-grade task and explaining one observation, choice, or strategy.",
+            "estimatedMinutes": 30,
+            "prerequisites": [
+              "u03-l03"
+            ],
             "activities": [
               {
                 "id": "u04-l01-a01",
-                "title": "Learner action",
-                "kind": "practice",
-                "learnerAction": "Share evidence, reflect, request help when needed, and set a next step.",
+                "title": "Notice and investigate",
+                "kind": "learn",
+                "learnerAction": "The learner uses age-appropriate materials and first-grade vocabulary to present, reflect, and set a next step research with books, diverse perspectives, source choices, and sharing discoveries. Adult supervision is provided whenever the subject involves tools, heat, animals, water, traffic, or online media.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 22
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a first-grade task connected to research with books, diverse perspectives, source choices, and sharing discoveries.",
+              "The learner explains an observation, choice, or strategy with appropriate support.",
+              "The learner follows safety, care, and collaboration expectations."
             ]
           },
           {
             "id": "u04-l02",
-            "title": "Share evidence, reflect, request help when needed, and set a next step.",
-            "objective": "TODO: Write a measurable Living Library objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Practice research with books, diverse perspectives, source choices, and sharing discoveries",
+            "objective": "I can present, reflect, and set a next step research with books, diverse perspectives, source choices, and sharing discoveries by completing a first-grade task and explaining one observation, choice, or strategy.",
+            "estimatedMinutes": 30,
+            "prerequisites": [
+              "u03-l03"
+            ],
             "activities": [
               {
                 "id": "u04-l02-a01",
-                "title": "Learner action",
+                "title": "Guided skill practice",
                 "kind": "practice",
-                "learnerAction": "Share evidence, reflect, request help when needed, and set a next step.",
+                "learnerAction": "The learner uses age-appropriate materials and first-grade vocabulary to present, reflect, and set a next step research with books, diverse perspectives, source choices, and sharing discoveries. Adult supervision is provided whenever the subject involves tools, heat, animals, water, traffic, or online media.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 22
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a first-grade task connected to research with books, diverse perspectives, source choices, and sharing discoveries.",
+              "The learner explains an observation, choice, or strategy with appropriate support.",
+              "The learner follows safety, care, and collaboration expectations."
             ]
           },
           {
             "id": "u04-l03",
-            "title": "Share evidence, reflect, request help when needed, and set a next step.",
-            "objective": "TODO: Write a measurable Living Library objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Show what I know about research with books, diverse perspectives, source choices, and sharing discoveries",
+            "objective": "I can present, reflect, and set a next step research with books, diverse perspectives, source choices, and sharing discoveries by completing a first-grade task and explaining one observation, choice, or strategy.",
+            "estimatedMinutes": 30,
+            "prerequisites": [
+              "u03-l03"
+            ],
             "activities": [
               {
                 "id": "u04-l03-a01",
-                "title": "Learner action",
+                "title": "Independent or collaborative application",
                 "kind": "create",
-                "learnerAction": "Share evidence, reflect, request help when needed, and set a next step.",
+                "learnerAction": "The learner uses age-appropriate materials and first-grade vocabulary to present, reflect, and set a next step research with books, diverse perspectives, source choices, and sharing discoveries. Adult supervision is provided whenever the subject involves tools, heat, animals, water, traffic, or online media.",
                 "evidenceOptions": [
+                  "photo",
                   "written-response",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 22
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a first-grade task connected to research with books, diverse perspectives, source choices, and sharing discoveries.",
+              "The learner explains an observation, choice, or strategy with appropriate support.",
+              "The learner follows safety, care, and collaboration expectations."
             ]
           }
         ]

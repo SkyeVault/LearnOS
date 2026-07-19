@@ -1,0 +1,484 @@
+{
+  "id": "grade-05-journalism-and-media-studies-semester-01",
+  "name": "Grade 5 Journalism & Media Studies — Semester 1",
+  "description": "An 18-week Grade 5 pathway for combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies. Learning advances through inquiry, practice, authentic application, revision, and communication.",
+  "version": "1.0.0",
+  "subjectNames": [
+    "Journalism & Media Studies"
+  ],
+  "learningGoals": [
+    "Develop grade 5 knowledge and transferable skills in combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies.",
+    "Use appropriate evidence, vocabulary, tools, and methods to explain reasoning.",
+    "Plan, revise, collaborate responsibly, and communicate a well-supported conclusion."
+  ],
+  "lessons": [
+    {
+      "title": "Launch inquiry: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+      "objective": "I can develop a focused question and gather relevant evidence about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Skill studio: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+      "objective": "I can develop a focused question and gather relevant evidence about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Application lab: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+      "objective": "I can develop a focused question and gather relevant evidence about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Launch inquiry: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+      "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Skill studio: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+      "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Application lab: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+      "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Launch inquiry: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+      "objective": "I can apply learning to a meaningful product, model, performance, or solution about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Skill studio: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+      "objective": "I can apply learning to a meaningful product, model, performance, or solution about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Application lab: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+      "objective": "I can apply learning to a meaningful product, model, performance, or solution about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Launch inquiry: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+      "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Skill studio: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+      "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    },
+    {
+      "title": "Application lab: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+      "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies and explain my reasoning with appropriate evidence.",
+      "minutes": 40
+    }
+  ],
+  "resources": [
+    {
+      "title": "Media-literacy and ELA pathway",
+      "url": "https://corestandards.org/ela-literacy/",
+      "description": "Planning reference for this Grade 5 Journalism & Media Studies pathway."
+    }
+  ],
+  "curriculum": {
+    "gradeId": "grade-05",
+    "subjectId": "journalism-and-media-studies",
+    "semester": 1,
+    "pacing": {
+      "intendedWeeks": 18,
+      "flexible": true
+    },
+    "units": [
+      {
+        "id": "u01",
+        "title": "Investigate: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+        "essentialQuestion": "What question and evidence can guide our study of combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies?",
+        "outcomes": [
+          "I can develop a focused question and gather relevant evidence about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies.",
+          "I can use appropriate disciplinary vocabulary, evidence, and tools to communicate my reasoning."
+        ],
+        "standardIds": [
+          "Grades 3-5 framework progression"
+        ],
+        "lessons": [
+          {
+            "id": "u01-l01",
+            "title": "Launch inquiry: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+            "objective": "I can develop a focused question and gather relevant evidence about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l01-a01",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "The learner develop a focused question and gather relevant evidence about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 28
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 5 task connected to combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          },
+          {
+            "id": "u01-l02",
+            "title": "Skill studio: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+            "objective": "I can develop a focused question and gather relevant evidence about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l02-a01",
+                "title": "Guided analysis and practice",
+                "kind": "practice",
+                "learnerAction": "The learner develop a focused question and gather relevant evidence about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 28
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 5 task connected to combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          },
+          {
+            "id": "u01-l03",
+            "title": "Application lab: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+            "objective": "I can develop a focused question and gather relevant evidence about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l03-a01",
+                "title": "Independent or collaborative application",
+                "kind": "create",
+                "learnerAction": "The learner develop a focused question and gather relevant evidence about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "project-link",
+                  "photo",
+                  "observation"
+                ],
+                "estimatedMinutes": 28
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 5 task connected to combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u02",
+        "title": "Practice and analyze: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+        "essentialQuestion": "How can we analyze and improve our understanding of combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies?",
+        "outcomes": [
+          "I can practice disciplinary skills and analyze patterns, sources, or feedback about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies.",
+          "I can use appropriate disciplinary vocabulary, evidence, and tools to communicate my reasoning."
+        ],
+        "standardIds": [
+          "Grades 3-5 framework progression"
+        ],
+        "lessons": [
+          {
+            "id": "u02-l01",
+            "title": "Launch inquiry: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+            "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l01-a01",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "The learner practice disciplinary skills and analyze patterns, sources, or feedback about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 28
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 5 task connected to combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          },
+          {
+            "id": "u02-l02",
+            "title": "Skill studio: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+            "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l02-a01",
+                "title": "Guided analysis and practice",
+                "kind": "practice",
+                "learnerAction": "The learner practice disciplinary skills and analyze patterns, sources, or feedback about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 28
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 5 task connected to combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          },
+          {
+            "id": "u02-l03",
+            "title": "Application lab: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+            "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l03-a01",
+                "title": "Independent or collaborative application",
+                "kind": "create",
+                "learnerAction": "The learner practice disciplinary skills and analyze patterns, sources, or feedback about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "project-link",
+                  "photo",
+                  "observation"
+                ],
+                "estimatedMinutes": 28
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 5 task connected to combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u03",
+        "title": "Apply and create: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+        "essentialQuestion": "How can we apply combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies to an authentic task?",
+        "outcomes": [
+          "I can apply learning to a meaningful product, model, performance, or solution about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies.",
+          "I can use appropriate disciplinary vocabulary, evidence, and tools to communicate my reasoning."
+        ],
+        "standardIds": [
+          "Grades 3-5 framework progression"
+        ],
+        "lessons": [
+          {
+            "id": "u03-l01",
+            "title": "Launch inquiry: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+            "objective": "I can apply learning to a meaningful product, model, performance, or solution about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l01-a01",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "The learner apply learning to a meaningful product, model, performance, or solution about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 28
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 5 task connected to combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          },
+          {
+            "id": "u03-l02",
+            "title": "Skill studio: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+            "objective": "I can apply learning to a meaningful product, model, performance, or solution about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l02-a01",
+                "title": "Guided analysis and practice",
+                "kind": "practice",
+                "learnerAction": "The learner apply learning to a meaningful product, model, performance, or solution about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 28
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 5 task connected to combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          },
+          {
+            "id": "u03-l03",
+            "title": "Application lab: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+            "objective": "I can apply learning to a meaningful product, model, performance, or solution about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l03-a01",
+                "title": "Independent or collaborative application",
+                "kind": "create",
+                "learnerAction": "The learner apply learning to a meaningful product, model, performance, or solution about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "project-link",
+                  "photo",
+                  "observation"
+                ],
+                "estimatedMinutes": 28
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 5 task connected to combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u04",
+        "title": "Reflect and communicate: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+        "essentialQuestion": "How can we justify, revise, and communicate what we learned about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies?",
+        "outcomes": [
+          "I can evaluate evidence, revise work, and communicate a justified conclusion about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies.",
+          "I can use appropriate disciplinary vocabulary, evidence, and tools to communicate my reasoning."
+        ],
+        "standardIds": [
+          "Grades 3-5 framework progression"
+        ],
+        "lessons": [
+          {
+            "id": "u04-l01",
+            "title": "Launch inquiry: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+            "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l01-a01",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "The learner evaluate evidence, revise work, and communicate a justified conclusion about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 28
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 5 task connected to combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          },
+          {
+            "id": "u04-l02",
+            "title": "Skill studio: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+            "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l02-a01",
+                "title": "Guided analysis and practice",
+                "kind": "practice",
+                "learnerAction": "The learner evaluate evidence, revise work, and communicate a justified conclusion about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 28
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 5 task connected to combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          },
+          {
+            "id": "u04-l03",
+            "title": "Application lab: combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies",
+            "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 40,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l03-a01",
+                "title": "Independent or collaborative application",
+                "kind": "create",
+                "learnerAction": "The learner evaluate evidence, revise work, and communicate a justified conclusion about combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "project-link",
+                  "photo",
+                  "observation"
+                ],
+                "estimatedMinutes": 28
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 5 task connected to combining ideas, revising work, and conducting guided inquiry through Journalism & Media Studies.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,23 +1,85 @@
 {
   "id": "kindergarten-homestead-lab-semester-01",
   "name": "Kindergarten Homestead Lab — Semester 1",
-  "description": "Planning template for Kindergarten Homestead Lab, Semester 1. Replace the placeholder goals and lessons before assigning this module.",
-  "version": "0.1.0",
+  "description": "An 18-week, play-based Kindergarten pathway for self-care, routines, sorting, and helping safely at home. Lessons are brief, hands-on, flexible, and designed for adult-guided learning.",
+  "version": "1.0.0",
   "subjectNames": [
     "Homestead Lab"
   ],
   "learningGoals": [
-    "TODO: Define the first Homestead Lab outcome for Kindergarten.",
-    "TODO: Define the evidence of learning for Semester 1."
+    "Build confidence and curiosity with self-care, routines, sorting, and helping safely at home.",
+    "Communicate learning through talk, drawing, movement, play, or a simple creation.",
+    "Practice safe, kind, and responsible participation."
   ],
   "lessons": [
     {
-      "title": "TODO: Name the opening lesson",
-      "objective": "TODO: Write a measurable Homestead Lab objective for grade K.",
-      "minutes": 45
+      "title": "Notice and talk: self-care, routines, sorting, and helping safely at home",
+      "objective": "I can notice details and share a question about self-care, routines, sorting, and helping safely at home through a close look at self-care, routines, sorting, and helping safely at home.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: self-care, routines, sorting, and helping safely at home",
+      "objective": "I can notice details and share a question about self-care, routines, sorting, and helping safely at home through a guided practice with self-care, routines, sorting, and helping safely at home.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: self-care, routines, sorting, and helping safely at home",
+      "objective": "I can notice details and share a question about self-care, routines, sorting, and helping safely at home through a small creation or demonstration about self-care, routines, sorting, and helping safely at home.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: self-care, routines, sorting, and helping safely at home",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about self-care, routines, sorting, and helping safely at home through a close look at self-care, routines, sorting, and helping safely at home.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: self-care, routines, sorting, and helping safely at home",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about self-care, routines, sorting, and helping safely at home through a guided practice with self-care, routines, sorting, and helping safely at home.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: self-care, routines, sorting, and helping safely at home",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about self-care, routines, sorting, and helping safely at home through a small creation or demonstration about self-care, routines, sorting, and helping safely at home.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: self-care, routines, sorting, and helping safely at home",
+      "objective": "I can use what I know to make, solve, move, or help with self-care, routines, sorting, and helping safely at home through a close look at self-care, routines, sorting, and helping safely at home.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: self-care, routines, sorting, and helping safely at home",
+      "objective": "I can use what I know to make, solve, move, or help with self-care, routines, sorting, and helping safely at home through a guided practice with self-care, routines, sorting, and helping safely at home.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: self-care, routines, sorting, and helping safely at home",
+      "objective": "I can use what I know to make, solve, move, or help with self-care, routines, sorting, and helping safely at home through a small creation or demonstration about self-care, routines, sorting, and helping safely at home.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: self-care, routines, sorting, and helping safely at home",
+      "objective": "I can show my learning, listen to feedback, and name a next step for self-care, routines, sorting, and helping safely at home through a close look at self-care, routines, sorting, and helping safely at home.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: self-care, routines, sorting, and helping safely at home",
+      "objective": "I can show my learning, listen to feedback, and name a next step for self-care, routines, sorting, and helping safely at home through a guided practice with self-care, routines, sorting, and helping safely at home.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: self-care, routines, sorting, and helping safely at home",
+      "objective": "I can show my learning, listen to feedback, and name a next step for self-care, routines, sorting, and helping safely at home through a small creation or demonstration about self-care, routines, sorting, and helping safely at home.",
+      "minutes": 25
     }
   ],
-  "resources": [],
+  "resources": [
+    {
+      "title": "Family and Consumer Sciences safety guidance",
+      "url": "https://www.nasafacs.org/national-standards-overview.html",
+      "description": "Planning reference for this Kindergarten Homestead Lab pathway."
+    }
+  ],
   "curriculum": {
     "gradeId": "kindergarten",
     "subjectId": "homestead-lab",
@@ -29,328 +91,366 @@
     "units": [
       {
         "id": "u01",
-        "title": "Launch: Semester 1",
-        "essentialQuestion": "How can Kindergarten learners use Homestead Lab to notice, understand, and contribute?",
+        "title": "Wonder and notice: self-care, routines, sorting, and helping safely at home",
+        "essentialQuestion": "What can we notice and wonder about self-care, routines, sorting, and helping safely at home?",
         "outcomes": [
-          "Notice, name prior knowledge, and set a meaningful question."
+          "I can notice details and share a question about self-care, routines, sorting, and helping safely at home.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
         ],
         "standardIds": [
-          "TODO: Add state and national standard IDs."
+          "Teacher-designed supervised pathway"
         ],
         "lessons": [
           {
             "id": "u01-l01",
-            "title": "Notice, name prior knowledge, and set a meaningful question.",
-            "objective": "TODO: Write a measurable Homestead Lab objective for this lesson.",
-            "estimatedMinutes": 45,
+            "title": "Notice and talk: self-care, routines, sorting, and helping safely at home",
+            "objective": "I can notice details and share a question about self-care, routines, sorting, and helping safely at home through a close look at self-care, routines, sorting, and helping safely at home.",
+            "estimatedMinutes": 25,
             "prerequisites": [],
             "activities": [
               {
                 "id": "u01-l01-a01",
-                "title": "Learner action",
-                "kind": "practice",
-                "learnerAction": "Notice, name prior knowledge, and set a meaningful question.",
+                "title": "A close look at self-care, routines, sorting, and helping safely at home",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at self-care, routines, sorting, and helping safely at home, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
                 "evidenceOptions": [
-                  "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 18
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner participates safely and respectfully in self-care, routines, sorting, and helping safely at home.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
             ]
           },
           {
             "id": "u01-l02",
-            "title": "Notice, name prior knowledge, and set a meaningful question.",
-            "objective": "TODO: Write a measurable Homestead Lab objective for this lesson.",
-            "estimatedMinutes": 45,
+            "title": "Try it together: self-care, routines, sorting, and helping safely at home",
+            "objective": "I can notice details and share a question about self-care, routines, sorting, and helping safely at home through a guided practice with self-care, routines, sorting, and helping safely at home.",
+            "estimatedMinutes": 25,
             "prerequisites": [],
             "activities": [
               {
                 "id": "u01-l02-a01",
-                "title": "Learner action",
+                "title": "A guided practice with self-care, routines, sorting, and helping safely at home",
                 "kind": "practice",
-                "learnerAction": "Notice, name prior knowledge, and set a meaningful question.",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with self-care, routines, sorting, and helping safely at home, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
                 "evidenceOptions": [
-                  "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 18
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner participates safely and respectfully in self-care, routines, sorting, and helping safely at home.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
             ]
           },
           {
             "id": "u01-l03",
-            "title": "Notice, name prior knowledge, and set a meaningful question.",
-            "objective": "TODO: Write a measurable Homestead Lab objective for this lesson.",
-            "estimatedMinutes": 45,
+            "title": "Make or show: self-care, routines, sorting, and helping safely at home",
+            "objective": "I can notice details and share a question about self-care, routines, sorting, and helping safely at home through a small creation or demonstration about self-care, routines, sorting, and helping safely at home.",
+            "estimatedMinutes": 25,
             "prerequisites": [],
             "activities": [
               {
                 "id": "u01-l03-a01",
-                "title": "Learner action",
+                "title": "A small creation or demonstration about self-care, routines, sorting, and helping safely at home",
                 "kind": "create",
-                "learnerAction": "Notice, name prior knowledge, and set a meaningful question.",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about self-care, routines, sorting, and helping safely at home, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
                 "evidenceOptions": [
-                  "written-response",
+                  "photo",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 18
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner participates safely and respectfully in self-care, routines, sorting, and helping safely at home.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
             ]
           }
         ]
       },
       {
         "id": "u02",
-        "title": "Explore & practice",
-        "essentialQuestion": "How can Kindergarten learners use Homestead Lab to notice, understand, and contribute?",
+        "title": "Explore and practice: self-care, routines, sorting, and helping safely at home",
+        "essentialQuestion": "How can we learn and practice self-care, routines, sorting, and helping safely at home safely?",
         "outcomes": [
-          "Learn through models, guided practice, and feedback."
+          "I can try a skill, use materials safely, and explain something I learned about self-care, routines, sorting, and helping safely at home.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
         ],
         "standardIds": [
-          "TODO: Add state and national standard IDs."
+          "Teacher-designed supervised pathway"
         ],
         "lessons": [
           {
             "id": "u02-l01",
-            "title": "Learn through models, guided practice, and feedback.",
-            "objective": "TODO: Write a measurable Homestead Lab objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Notice and talk: self-care, routines, sorting, and helping safely at home",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about self-care, routines, sorting, and helping safely at home through a close look at self-care, routines, sorting, and helping safely at home.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
             "activities": [
               {
                 "id": "u02-l01-a01",
-                "title": "Learner action",
-                "kind": "practice",
-                "learnerAction": "Learn through models, guided practice, and feedback.",
+                "title": "A close look at self-care, routines, sorting, and helping safely at home",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at self-care, routines, sorting, and helping safely at home, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
                 "evidenceOptions": [
-                  "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 18
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner participates safely and respectfully in self-care, routines, sorting, and helping safely at home.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
             ]
           },
           {
             "id": "u02-l02",
-            "title": "Learn through models, guided practice, and feedback.",
-            "objective": "TODO: Write a measurable Homestead Lab objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Try it together: self-care, routines, sorting, and helping safely at home",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about self-care, routines, sorting, and helping safely at home through a guided practice with self-care, routines, sorting, and helping safely at home.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
             "activities": [
               {
                 "id": "u02-l02-a01",
-                "title": "Learner action",
+                "title": "A guided practice with self-care, routines, sorting, and helping safely at home",
                 "kind": "practice",
-                "learnerAction": "Learn through models, guided practice, and feedback.",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with self-care, routines, sorting, and helping safely at home, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
                 "evidenceOptions": [
-                  "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 18
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner participates safely and respectfully in self-care, routines, sorting, and helping safely at home.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
             ]
           },
           {
             "id": "u02-l03",
-            "title": "Learn through models, guided practice, and feedback.",
-            "objective": "TODO: Write a measurable Homestead Lab objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Make or show: self-care, routines, sorting, and helping safely at home",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about self-care, routines, sorting, and helping safely at home through a small creation or demonstration about self-care, routines, sorting, and helping safely at home.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
             "activities": [
               {
                 "id": "u02-l03-a01",
-                "title": "Learner action",
+                "title": "A small creation or demonstration about self-care, routines, sorting, and helping safely at home",
                 "kind": "create",
-                "learnerAction": "Learn through models, guided practice, and feedback.",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about self-care, routines, sorting, and helping safely at home, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
                 "evidenceOptions": [
-                  "written-response",
+                  "photo",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 18
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner participates safely and respectfully in self-care, routines, sorting, and helping safely at home.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
             ]
           }
         ]
       },
       {
         "id": "u03",
-        "title": "Create & apply",
-        "essentialQuestion": "How can Kindergarten learners use Homestead Lab to notice, understand, and contribute?",
+        "title": "Make and apply: self-care, routines, sorting, and helping safely at home",
+        "essentialQuestion": "How can we use self-care, routines, sorting, and helping safely at home to make, solve, move, or help?",
         "outcomes": [
-          "Apply learning in a STEM, fine-art, or real-world creation."
+          "I can use what I know to make, solve, move, or help with self-care, routines, sorting, and helping safely at home.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
         ],
         "standardIds": [
-          "TODO: Add state and national standard IDs."
+          "Teacher-designed supervised pathway"
         ],
         "lessons": [
           {
             "id": "u03-l01",
-            "title": "Apply learning in a STEM, fine-art, or real-world creation.",
-            "objective": "TODO: Write a measurable Homestead Lab objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Notice and talk: self-care, routines, sorting, and helping safely at home",
+            "objective": "I can use what I know to make, solve, move, or help with self-care, routines, sorting, and helping safely at home through a close look at self-care, routines, sorting, and helping safely at home.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
             "activities": [
               {
                 "id": "u03-l01-a01",
-                "title": "Learner action",
-                "kind": "practice",
-                "learnerAction": "Apply learning in a STEM, fine-art, or real-world creation.",
+                "title": "A close look at self-care, routines, sorting, and helping safely at home",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at self-care, routines, sorting, and helping safely at home, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
                 "evidenceOptions": [
-                  "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 18
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner participates safely and respectfully in self-care, routines, sorting, and helping safely at home.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
             ]
           },
           {
             "id": "u03-l02",
-            "title": "Apply learning in a STEM, fine-art, or real-world creation.",
-            "objective": "TODO: Write a measurable Homestead Lab objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Try it together: self-care, routines, sorting, and helping safely at home",
+            "objective": "I can use what I know to make, solve, move, or help with self-care, routines, sorting, and helping safely at home through a guided practice with self-care, routines, sorting, and helping safely at home.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
             "activities": [
               {
                 "id": "u03-l02-a01",
-                "title": "Learner action",
+                "title": "A guided practice with self-care, routines, sorting, and helping safely at home",
                 "kind": "practice",
-                "learnerAction": "Apply learning in a STEM, fine-art, or real-world creation.",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with self-care, routines, sorting, and helping safely at home, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
                 "evidenceOptions": [
-                  "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 18
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner participates safely and respectfully in self-care, routines, sorting, and helping safely at home.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
             ]
           },
           {
             "id": "u03-l03",
-            "title": "Apply learning in a STEM, fine-art, or real-world creation.",
-            "objective": "TODO: Write a measurable Homestead Lab objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Make or show: self-care, routines, sorting, and helping safely at home",
+            "objective": "I can use what I know to make, solve, move, or help with self-care, routines, sorting, and helping safely at home through a small creation or demonstration about self-care, routines, sorting, and helping safely at home.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
             "activities": [
               {
                 "id": "u03-l03-a01",
-                "title": "Learner action",
+                "title": "A small creation or demonstration about self-care, routines, sorting, and helping safely at home",
                 "kind": "create",
-                "learnerAction": "Apply learning in a STEM, fine-art, or real-world creation.",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about self-care, routines, sorting, and helping safely at home, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
                 "evidenceOptions": [
-                  "written-response",
+                  "photo",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 18
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner participates safely and respectfully in self-care, routines, sorting, and helping safely at home.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
             ]
           }
         ]
       },
       {
         "id": "u04",
-        "title": "Reflect & share",
-        "essentialQuestion": "How can Kindergarten learners use Homestead Lab to notice, understand, and contribute?",
+        "title": "Reflect and share: self-care, routines, sorting, and helping safely at home",
+        "essentialQuestion": "How can we share what we learned about self-care, routines, sorting, and helping safely at home?",
         "outcomes": [
-          "Share evidence, reflect, request help when needed, and set a next step."
+          "I can show my learning, listen to feedback, and name a next step for self-care, routines, sorting, and helping safely at home.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
         ],
         "standardIds": [
-          "TODO: Add state and national standard IDs."
+          "Teacher-designed supervised pathway"
         ],
         "lessons": [
           {
             "id": "u04-l01",
-            "title": "Share evidence, reflect, request help when needed, and set a next step.",
-            "objective": "TODO: Write a measurable Homestead Lab objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Notice and talk: self-care, routines, sorting, and helping safely at home",
+            "objective": "I can show my learning, listen to feedback, and name a next step for self-care, routines, sorting, and helping safely at home through a close look at self-care, routines, sorting, and helping safely at home.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
             "activities": [
               {
                 "id": "u04-l01-a01",
-                "title": "Learner action",
-                "kind": "practice",
-                "learnerAction": "Share evidence, reflect, request help when needed, and set a next step.",
+                "title": "A close look at self-care, routines, sorting, and helping safely at home",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at self-care, routines, sorting, and helping safely at home, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
                 "evidenceOptions": [
-                  "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 18
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner participates safely and respectfully in self-care, routines, sorting, and helping safely at home.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
             ]
           },
           {
             "id": "u04-l02",
-            "title": "Share evidence, reflect, request help when needed, and set a next step.",
-            "objective": "TODO: Write a measurable Homestead Lab objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Try it together: self-care, routines, sorting, and helping safely at home",
+            "objective": "I can show my learning, listen to feedback, and name a next step for self-care, routines, sorting, and helping safely at home through a guided practice with self-care, routines, sorting, and helping safely at home.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
             "activities": [
               {
                 "id": "u04-l02-a01",
-                "title": "Learner action",
+                "title": "A guided practice with self-care, routines, sorting, and helping safely at home",
                 "kind": "practice",
-                "learnerAction": "Share evidence, reflect, request help when needed, and set a next step.",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with self-care, routines, sorting, and helping safely at home, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
                 "evidenceOptions": [
-                  "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 18
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner participates safely and respectfully in self-care, routines, sorting, and helping safely at home.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
             ]
           },
           {
             "id": "u04-l03",
-            "title": "Share evidence, reflect, request help when needed, and set a next step.",
-            "objective": "TODO: Write a measurable Homestead Lab objective for this lesson.",
-            "estimatedMinutes": 45,
-            "prerequisites": [],
+            "title": "Make or show: self-care, routines, sorting, and helping safely at home",
+            "objective": "I can show my learning, listen to feedback, and name a next step for self-care, routines, sorting, and helping safely at home through a small creation or demonstration about self-care, routines, sorting, and helping safely at home.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
             "activities": [
               {
                 "id": "u04-l03-a01",
-                "title": "Learner action",
+                "title": "A small creation or demonstration about self-care, routines, sorting, and helping safely at home",
                 "kind": "create",
-                "learnerAction": "Share evidence, reflect, request help when needed, and set a next step.",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about self-care, routines, sorting, and helping safely at home, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
                 "evidenceOptions": [
-                  "written-response",
+                  "photo",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 18
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner participates safely and respectfully in self-care, routines, sorting, and helping safely at home.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
             ]
           }
         ]

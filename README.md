@@ -4,7 +4,7 @@ LearnOS is a local-first learning operating system for families, small programs,
 
 > Prototype status: LearnOS is actively evolving. It is suitable for local evaluation and curriculum prototyping, but it is not yet a security-complete school information system.
 
-> **OpenAI Build Week status:** K–12 modules are actively being authored, reviewed, and released through the completion of this hackathon. This participant project is being built with Codex and GPT-5.6; modules marked as planning templates are not finished curriculum.
+> **OpenAI Build Week status:** The K–12 library includes completed, locally stored semester pathways across Kindergarten through Grade 12. Each pathway still requires local educator review, adaptation, and approved materials before assignment in a specific program.
 
 ## What is in LearnOS now
 
@@ -14,7 +14,7 @@ LearnOS is a local-first learning operating system for families, small programs,
 - **Family Hub** with a shared system calendar and individual personal calendars
 - **Creator Studio and Design Studio** for making lesson materials, slide decks, and visual teaching assets
 - **Module Library** for local, versioned learning packages assigned to learners
-- **K–12 module scaffold** with 468 semester manifests, four-unit / twelve-lesson blueprints, evidence and teacher-review paths, and a national-framework retrieval map
+- **K–12 curriculum library** with 1,638 semester manifests across 13 grades and 63 subjects; each module has four units, twelve lessons, evidence and teacher-review paths, grade-banded goals, and a national-framework retrieval map
 - **Built-in Pre-K Learning World** that remains available and can be assigned again at any time
 - **Living Library discovery tools** including K–12 pathways, unit roadmaps, searchable shelves, curated resources, and an optional state-resource reference lookup
 - **Admin Corner** for program planning, resource management, module authoring, software guidance, and full visibility into local records
@@ -105,6 +105,33 @@ npm run build     # production web build
 npm run test      # unit tests
 npm run tauri build # desktop installers
 ```
+
+## OpenAI Build Week submission notes
+
+**Track:** Education
+
+LearnOS is a local-first learning operating system that gives families, teachers, and learners one place to plan, assign, document, and review learning. Its completed K–12 curriculum library provides 1,638 locally stored semester pathways across Kindergarten through Grade 12, with learner evidence and teacher-review routes.
+
+### How Codex and GPT-5.6 were used
+
+This project was meaningfully extended during the Build Week submission period with Codex using GPT-5.6. The primary development workflow used Codex to:
+
+- inspect and map the existing module schema and curriculum directory structure;
+- design age- and grade-banded learning progressions across 63 subjects;
+- author and validate the 1,638 semester manifests, including four units and twelve lessons per module;
+- research and record official framework references for NGSS, C3, CSTA, National Core Arts, and SHAPE America; and
+- run structural audits, the test suite, and production builds while updating project documentation.
+
+GPT-5.6 accelerated the curriculum-authoring and engineering workflow rather than serving as an unreviewed learner-facing runtime authority. All module pathways remain locally stored planning content and require educator review, local standards alignment, accessibility adaptation, and safety review before assignment. The supporting source record is in [docs/K12_LIBRARY_CITATION_LOG.md](docs/K12_LIBRARY_CITATION_LOG.md).
+
+### Judge testing path
+
+1. Follow [Run locally](#run-locally), then run npm run dev from apps/homeschool-console.
+2. Sign in with the local Admin account below, or use the role flows to inspect learner and teacher areas.
+3. Open the Module Library / Living Library, select a grade and subject, and inspect a semester path with its units, lessons, evidence options, and review workflow.
+4. Run node scripts/scaffold-k12-modules.mjs --check, npm run test, and npm run build from apps/homeschool-console to verify library coverage and application integrity.
+
+For the Build Week submission, provide the /feedback Session ID generated in the primary Codex thread where this work was completed, together with a narrated public demo video of the working application.
 
 ## Current local accounts
 
@@ -198,6 +225,24 @@ MIT
 - Add edit, archive, duplicate, export, and restore flows for classes, lessons, resources, and modules.
 - Add integration coverage for Admin, Teacher, Parent, and Learner journeys, including Back navigation and empty states.
 - Improve the Design Studio handoff so created slides and materials can be attached to lessons and resource folders.
+
+
+### Future release: learner-owned Theme Page
+
+The Theme Page should help a learner feel ownership without turning personalization into exposure, distraction, or an access-control loophole. Build it as a preview-first, accessibility-aware workspace:
+
+1. **Live preview:** show changes on a small version of the learner’s actual home screen before saving.
+2. **Mood-first choices:** offer Calm, Focus, Bright, Cozy, Nature, Night, Creative, and Minimal starting points.
+3. **Accessibility in one place:** support text size, high contrast, reduced motion, dyslexia-friendly type, color-safe palettes, and a quiet layout.
+4. **Private identity:** allow a local avatar, preferred name styling, colors, and a private badge shelf; never make these public by default.
+5. **Subject visual worlds:** allow a learner to use appropriate visual treatments for reading, art, science, and other modules without changing the learning content.
+6. **Focus mode:** remove decorative motion, extra cards, and optional prompts when the learner wants to concentrate.
+7. **Personal routine layout:** let the learner choose whether today’s work, calendar, favorite modules, reading, projects, or progress appear first.
+8. **Achievement shelf:** pin a project, artwork, book, goal, or reflection as learner-owned evidence of growth rather than a public score display.
+9. **Encouragement preferences:** let the learner choose gentle reminders, celebrations, quiet check-ins, or no prompts.
+10. **Clear customization boundaries:** visibly explain what the learner can change freely and what requires adult approval.
+
+**Required guardrails:** Learners control appearance and routine preferences. Parents/guardians approve external links, profile sharing, sensitive display choices, and public-facing work. Teachers can recommend accessible classroom settings for assigned learners but cannot view or alter private creative content without a defined educational reason. Admin manages themes, role policy, and school-wide accessibility defaults. All preferences remain local-first and role-scoped until the secure service layer exists.
 
 ### Classroom pilot: secure local operation
 

@@ -1,0 +1,460 @@
+{
+  "id": "kindergarten-theater-and-improv-semester-02",
+  "name": "Kindergarten Theater & Improv — Semester 2",
+  "description": "An 18-week, play-based Kindergarten pathway for story sequence, simple scenes, collaboration, and performance reflection. Lessons are brief, hands-on, flexible, and designed for adult-guided learning.",
+  "version": "1.0.0",
+  "subjectNames": [
+    "Theater & Improv"
+  ],
+  "learningGoals": [
+    "Build confidence and curiosity with story sequence, simple scenes, collaboration, and performance reflection.",
+    "Communicate learning through talk, drawing, movement, play, or a simple creation.",
+    "Practice safe, kind, and responsible participation."
+  ],
+  "lessons": [
+    {
+      "title": "Notice and talk: story sequence, simple scenes, collaboration, and performance reflection",
+      "objective": "I can notice details and share a question about story sequence, simple scenes, collaboration, and performance reflection through a close look at story sequence, simple scenes, collaboration, and performance reflection.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: story sequence, simple scenes, collaboration, and performance reflection",
+      "objective": "I can notice details and share a question about story sequence, simple scenes, collaboration, and performance reflection through a guided practice with story sequence, simple scenes, collaboration, and performance reflection.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: story sequence, simple scenes, collaboration, and performance reflection",
+      "objective": "I can notice details and share a question about story sequence, simple scenes, collaboration, and performance reflection through a small creation or demonstration about story sequence, simple scenes, collaboration, and performance reflection.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: story sequence, simple scenes, collaboration, and performance reflection",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about story sequence, simple scenes, collaboration, and performance reflection through a close look at story sequence, simple scenes, collaboration, and performance reflection.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: story sequence, simple scenes, collaboration, and performance reflection",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about story sequence, simple scenes, collaboration, and performance reflection through a guided practice with story sequence, simple scenes, collaboration, and performance reflection.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: story sequence, simple scenes, collaboration, and performance reflection",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about story sequence, simple scenes, collaboration, and performance reflection through a small creation or demonstration about story sequence, simple scenes, collaboration, and performance reflection.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: story sequence, simple scenes, collaboration, and performance reflection",
+      "objective": "I can use what I know to make, solve, move, or help with story sequence, simple scenes, collaboration, and performance reflection through a close look at story sequence, simple scenes, collaboration, and performance reflection.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: story sequence, simple scenes, collaboration, and performance reflection",
+      "objective": "I can use what I know to make, solve, move, or help with story sequence, simple scenes, collaboration, and performance reflection through a guided practice with story sequence, simple scenes, collaboration, and performance reflection.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: story sequence, simple scenes, collaboration, and performance reflection",
+      "objective": "I can use what I know to make, solve, move, or help with story sequence, simple scenes, collaboration, and performance reflection through a small creation or demonstration about story sequence, simple scenes, collaboration, and performance reflection.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: story sequence, simple scenes, collaboration, and performance reflection",
+      "objective": "I can show my learning, listen to feedback, and name a next step for story sequence, simple scenes, collaboration, and performance reflection through a close look at story sequence, simple scenes, collaboration, and performance reflection.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: story sequence, simple scenes, collaboration, and performance reflection",
+      "objective": "I can show my learning, listen to feedback, and name a next step for story sequence, simple scenes, collaboration, and performance reflection through a guided practice with story sequence, simple scenes, collaboration, and performance reflection.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: story sequence, simple scenes, collaboration, and performance reflection",
+      "objective": "I can show my learning, listen to feedback, and name a next step for story sequence, simple scenes, collaboration, and performance reflection through a small creation or demonstration about story sequence, simple scenes, collaboration, and performance reflection.",
+      "minutes": 25
+    }
+  ],
+  "resources": [
+    {
+      "title": "National Core Arts Standards",
+      "url": "https://www.nationalartsstandards.org/",
+      "description": "Planning reference for this Kindergarten Theater & Improv pathway."
+    }
+  ],
+  "curriculum": {
+    "gradeId": "kindergarten",
+    "subjectId": "theater-and-improv",
+    "semester": 2,
+    "pacing": {
+      "intendedWeeks": 18,
+      "flexible": true
+    },
+    "units": [
+      {
+        "id": "u01",
+        "title": "Wonder and notice: story sequence, simple scenes, collaboration, and performance reflection",
+        "essentialQuestion": "What can we notice and wonder about story sequence, simple scenes, collaboration, and performance reflection?",
+        "outcomes": [
+          "I can notice details and share a question about story sequence, simple scenes, collaboration, and performance reflection.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "TH:Cr1.1.Ka"
+        ],
+        "lessons": [
+          {
+            "id": "u01-l01",
+            "title": "Notice and talk: story sequence, simple scenes, collaboration, and performance reflection",
+            "objective": "I can notice details and share a question about story sequence, simple scenes, collaboration, and performance reflection through a close look at story sequence, simple scenes, collaboration, and performance reflection.",
+            "estimatedMinutes": 25,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l01-a01",
+                "title": "A close look at story sequence, simple scenes, collaboration, and performance reflection",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at story sequence, simple scenes, collaboration, and performance reflection, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in story sequence, simple scenes, collaboration, and performance reflection.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u01-l02",
+            "title": "Try it together: story sequence, simple scenes, collaboration, and performance reflection",
+            "objective": "I can notice details and share a question about story sequence, simple scenes, collaboration, and performance reflection through a guided practice with story sequence, simple scenes, collaboration, and performance reflection.",
+            "estimatedMinutes": 25,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l02-a01",
+                "title": "A guided practice with story sequence, simple scenes, collaboration, and performance reflection",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with story sequence, simple scenes, collaboration, and performance reflection, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in story sequence, simple scenes, collaboration, and performance reflection.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u01-l03",
+            "title": "Make or show: story sequence, simple scenes, collaboration, and performance reflection",
+            "objective": "I can notice details and share a question about story sequence, simple scenes, collaboration, and performance reflection through a small creation or demonstration about story sequence, simple scenes, collaboration, and performance reflection.",
+            "estimatedMinutes": 25,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l03-a01",
+                "title": "A small creation or demonstration about story sequence, simple scenes, collaboration, and performance reflection",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about story sequence, simple scenes, collaboration, and performance reflection, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in story sequence, simple scenes, collaboration, and performance reflection.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u02",
+        "title": "Explore and practice: story sequence, simple scenes, collaboration, and performance reflection",
+        "essentialQuestion": "How can we learn and practice story sequence, simple scenes, collaboration, and performance reflection safely?",
+        "outcomes": [
+          "I can try a skill, use materials safely, and explain something I learned about story sequence, simple scenes, collaboration, and performance reflection.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "TH:Cr1.1.Ka"
+        ],
+        "lessons": [
+          {
+            "id": "u02-l01",
+            "title": "Notice and talk: story sequence, simple scenes, collaboration, and performance reflection",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about story sequence, simple scenes, collaboration, and performance reflection through a close look at story sequence, simple scenes, collaboration, and performance reflection.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l01-a01",
+                "title": "A close look at story sequence, simple scenes, collaboration, and performance reflection",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at story sequence, simple scenes, collaboration, and performance reflection, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in story sequence, simple scenes, collaboration, and performance reflection.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u02-l02",
+            "title": "Try it together: story sequence, simple scenes, collaboration, and performance reflection",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about story sequence, simple scenes, collaboration, and performance reflection through a guided practice with story sequence, simple scenes, collaboration, and performance reflection.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l02-a01",
+                "title": "A guided practice with story sequence, simple scenes, collaboration, and performance reflection",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with story sequence, simple scenes, collaboration, and performance reflection, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in story sequence, simple scenes, collaboration, and performance reflection.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u02-l03",
+            "title": "Make or show: story sequence, simple scenes, collaboration, and performance reflection",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about story sequence, simple scenes, collaboration, and performance reflection through a small creation or demonstration about story sequence, simple scenes, collaboration, and performance reflection.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l03-a01",
+                "title": "A small creation or demonstration about story sequence, simple scenes, collaboration, and performance reflection",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about story sequence, simple scenes, collaboration, and performance reflection, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in story sequence, simple scenes, collaboration, and performance reflection.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u03",
+        "title": "Make and apply: story sequence, simple scenes, collaboration, and performance reflection",
+        "essentialQuestion": "How can we use story sequence, simple scenes, collaboration, and performance reflection to make, solve, move, or help?",
+        "outcomes": [
+          "I can use what I know to make, solve, move, or help with story sequence, simple scenes, collaboration, and performance reflection.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "TH:Cr1.1.Ka"
+        ],
+        "lessons": [
+          {
+            "id": "u03-l01",
+            "title": "Notice and talk: story sequence, simple scenes, collaboration, and performance reflection",
+            "objective": "I can use what I know to make, solve, move, or help with story sequence, simple scenes, collaboration, and performance reflection through a close look at story sequence, simple scenes, collaboration, and performance reflection.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l01-a01",
+                "title": "A close look at story sequence, simple scenes, collaboration, and performance reflection",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at story sequence, simple scenes, collaboration, and performance reflection, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in story sequence, simple scenes, collaboration, and performance reflection.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u03-l02",
+            "title": "Try it together: story sequence, simple scenes, collaboration, and performance reflection",
+            "objective": "I can use what I know to make, solve, move, or help with story sequence, simple scenes, collaboration, and performance reflection through a guided practice with story sequence, simple scenes, collaboration, and performance reflection.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l02-a01",
+                "title": "A guided practice with story sequence, simple scenes, collaboration, and performance reflection",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with story sequence, simple scenes, collaboration, and performance reflection, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in story sequence, simple scenes, collaboration, and performance reflection.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u03-l03",
+            "title": "Make or show: story sequence, simple scenes, collaboration, and performance reflection",
+            "objective": "I can use what I know to make, solve, move, or help with story sequence, simple scenes, collaboration, and performance reflection through a small creation or demonstration about story sequence, simple scenes, collaboration, and performance reflection.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l03-a01",
+                "title": "A small creation or demonstration about story sequence, simple scenes, collaboration, and performance reflection",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about story sequence, simple scenes, collaboration, and performance reflection, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in story sequence, simple scenes, collaboration, and performance reflection.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u04",
+        "title": "Reflect and share: story sequence, simple scenes, collaboration, and performance reflection",
+        "essentialQuestion": "How can we share what we learned about story sequence, simple scenes, collaboration, and performance reflection?",
+        "outcomes": [
+          "I can show my learning, listen to feedback, and name a next step for story sequence, simple scenes, collaboration, and performance reflection.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "TH:Cr1.1.Ka"
+        ],
+        "lessons": [
+          {
+            "id": "u04-l01",
+            "title": "Notice and talk: story sequence, simple scenes, collaboration, and performance reflection",
+            "objective": "I can show my learning, listen to feedback, and name a next step for story sequence, simple scenes, collaboration, and performance reflection through a close look at story sequence, simple scenes, collaboration, and performance reflection.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l01-a01",
+                "title": "A close look at story sequence, simple scenes, collaboration, and performance reflection",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at story sequence, simple scenes, collaboration, and performance reflection, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in story sequence, simple scenes, collaboration, and performance reflection.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u04-l02",
+            "title": "Try it together: story sequence, simple scenes, collaboration, and performance reflection",
+            "objective": "I can show my learning, listen to feedback, and name a next step for story sequence, simple scenes, collaboration, and performance reflection through a guided practice with story sequence, simple scenes, collaboration, and performance reflection.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l02-a01",
+                "title": "A guided practice with story sequence, simple scenes, collaboration, and performance reflection",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with story sequence, simple scenes, collaboration, and performance reflection, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in story sequence, simple scenes, collaboration, and performance reflection.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u04-l03",
+            "title": "Make or show: story sequence, simple scenes, collaboration, and performance reflection",
+            "objective": "I can show my learning, listen to feedback, and name a next step for story sequence, simple scenes, collaboration, and performance reflection through a small creation or demonstration about story sequence, simple scenes, collaboration, and performance reflection.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l03-a01",
+                "title": "A small creation or demonstration about story sequence, simple scenes, collaboration, and performance reflection",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about story sequence, simple scenes, collaboration, and performance reflection, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in story sequence, simple scenes, collaboration, and performance reflection.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

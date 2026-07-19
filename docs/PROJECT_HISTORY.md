@@ -27,7 +27,7 @@ During the OpenAI Build Week hackathon, you and Codex began a K–12, two-semest
 
 The current scaffold contains planning manifests, not finished course material. Each module remains a draft until its standards alignment, unit outline, licensed/approved materials, accessibility and safety review, and learner-facing evidence are completed.
 
-The K–12 scaffold now creates 468 semester manifests: 13 grades, 18 subjects, and two semesters each. Every semester begins with a build-ready four-unit / twelve-lesson blueprint that includes activity, evidence, teacher-review, and raise-your-hand fields. The Living Library is the public-facing visual index for these pathways; it includes unit-roadmap disclosure, a built-in reassignable Pre-K Learning World entry, a searchable library header, curated reading and source shelves, and an optional local state-resource lookup.
+The K–12 library now contains 1,638 completed semester manifests: 13 grades, 63 subjects, and two semesters each. Every semester contains four units and twelve grade-banded lessons with activities, evidence, teacher-review, and raise-your-hand fields. The pathways progress from supported early inquiry to independent capstone-style inquiry and use official NGSS, C3, CSTA, National Core Arts, and SHAPE framework references documented in `docs/K12_LIBRARY_CITATION_LOG.md`. The Living Library is the public-facing visual index for these pathways; it includes unit-roadmap disclosure, a built-in reassignable Pre-K Learning World entry, a searchable library header, curated reading and source shelves, and an optional local state-resource lookup.
 
 The state lookup is a reference directory rather than a state-specific curriculum engine. It lets a parent, teacher, or admin save an official URL for a selected state, grade, and subject; the accompanying Living Library guide explains that there is no federal national curriculum registry and directs readers to official state education authorities and major state-by-state reference resources. The parent source policy continues to control external links. This is a participant project and not an official OpenAI product.
 
@@ -184,3 +184,7 @@ Update this file when changing:
 - known production risks.
 
 Keep implementation details in source comments and the in-app Software Guide. Keep the durable technical roadmap in the root README. Keep this document focused on why major changes were requested, what was decided, and what still needs to happen.
+
+### 10. Learner-owned theme roadmap
+
+A future Theme Page is planned as a student-centered, preview-first personalization space. It will include mood presets, live home-screen preview, accessibility controls, focus mode, subject visual worlds, personal routine layout, a private achievement shelf, and encouragement preferences. The governing principle is **freedom with guardrails**: learners control appearance and routine; parents/guardians approve external exposure and sensitive sharing; teachers support accessible settings for assigned learners; and Admin owns system-wide theme, role, and accessibility policy. These controls remain local-first and must become server-enforced before a managed school deployment.

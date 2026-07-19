@@ -1,23 +1,85 @@
 {
   "id": "grade-06-learning-commons-semester-01",
   "name": "Grade 6 Learning Commons — Semester 1",
-  "description": "Planning template for Grade 6 Learning Commons, Semester 1. Replace the placeholder goals and lessons before assigning this module.",
-  "version": "0.1.0",
+  "description": "An 18-week Grade 6 pathway for analyzing systems, using disciplinary tools, and supporting claims through Learning Commons. Learning advances through inquiry, practice, authentic application, revision, and communication.",
+  "version": "1.0.0",
   "subjectNames": [
     "Learning Commons"
   ],
   "learningGoals": [
-    "TODO: Define the first Learning Commons outcome for Grade 6.",
-    "TODO: Define the evidence of learning for Semester 1."
+    "Develop grade 6 knowledge and transferable skills in analyzing systems, using disciplinary tools, and supporting claims through Learning Commons.",
+    "Use appropriate evidence, vocabulary, tools, and methods to explain reasoning.",
+    "Plan, revise, collaborate responsibly, and communicate a well-supported conclusion."
   ],
   "lessons": [
     {
-      "title": "TODO: Name the opening lesson",
-      "objective": "TODO: Write a measurable Learning Commons objective for grade 6.",
+      "title": "Launch inquiry: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+      "objective": "I can develop a focused question and gather relevant evidence about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons and explain my reasoning with appropriate evidence.",
+      "minutes": 45
+    },
+    {
+      "title": "Skill studio: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+      "objective": "I can develop a focused question and gather relevant evidence about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons and explain my reasoning with appropriate evidence.",
+      "minutes": 45
+    },
+    {
+      "title": "Application lab: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+      "objective": "I can develop a focused question and gather relevant evidence about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons and explain my reasoning with appropriate evidence.",
+      "minutes": 45
+    },
+    {
+      "title": "Launch inquiry: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+      "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons and explain my reasoning with appropriate evidence.",
+      "minutes": 45
+    },
+    {
+      "title": "Skill studio: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+      "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons and explain my reasoning with appropriate evidence.",
+      "minutes": 45
+    },
+    {
+      "title": "Application lab: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+      "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons and explain my reasoning with appropriate evidence.",
+      "minutes": 45
+    },
+    {
+      "title": "Launch inquiry: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+      "objective": "I can apply learning to a meaningful product, model, performance, or solution about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons and explain my reasoning with appropriate evidence.",
+      "minutes": 45
+    },
+    {
+      "title": "Skill studio: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+      "objective": "I can apply learning to a meaningful product, model, performance, or solution about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons and explain my reasoning with appropriate evidence.",
+      "minutes": 45
+    },
+    {
+      "title": "Application lab: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+      "objective": "I can apply learning to a meaningful product, model, performance, or solution about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons and explain my reasoning with appropriate evidence.",
+      "minutes": 45
+    },
+    {
+      "title": "Launch inquiry: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+      "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons and explain my reasoning with appropriate evidence.",
+      "minutes": 45
+    },
+    {
+      "title": "Skill studio: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+      "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons and explain my reasoning with appropriate evidence.",
+      "minutes": 45
+    },
+    {
+      "title": "Application lab: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+      "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons and explain my reasoning with appropriate evidence.",
       "minutes": 45
     }
   ],
-  "resources": [],
+  "resources": [
+    {
+      "title": "AASL and ISTE student standards",
+      "url": "https://iste.org/standards/students",
+      "description": "Planning reference for this Grade 6 Learning Commons pathway."
+    }
+  ],
   "curriculum": {
     "gradeId": "grade-06",
     "subjectId": "learning-commons",
@@ -29,328 +91,390 @@
     "units": [
       {
         "id": "u01",
-        "title": "Launch: Semester 1",
-        "essentialQuestion": "How can Grade 6 learners use Learning Commons to notice, understand, and contribute?",
+        "title": "Investigate: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+        "essentialQuestion": "What question and evidence can guide our study of analyzing systems, using disciplinary tools, and supporting claims through Learning Commons?",
         "outcomes": [
-          "Notice, name prior knowledge, and set a meaningful question."
+          "I can develop a focused question and gather relevant evidence about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons.",
+          "I can use appropriate disciplinary vocabulary, evidence, and tools to communicate my reasoning."
         ],
         "standardIds": [
-          "TODO: Add state and national standard IDs."
+          "Middle school framework progression"
         ],
         "lessons": [
           {
             "id": "u01-l01",
-            "title": "Notice, name prior knowledge, and set a meaningful question.",
-            "objective": "TODO: Write a measurable Learning Commons objective for this lesson.",
+            "title": "Launch inquiry: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+            "objective": "I can develop a focused question and gather relevant evidence about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons and explain my reasoning with appropriate evidence.",
             "estimatedMinutes": 45,
             "prerequisites": [],
             "activities": [
               {
                 "id": "u01-l01-a01",
-                "title": "Learner action",
-                "kind": "practice",
-                "learnerAction": "Notice, name prior knowledge, and set a meaningful question.",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "The learner develop a focused question and gather relevant evidence about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 33
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 6 task connected to analyzing systems, using disciplinary tools, and supporting claims through Learning Commons.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           },
           {
             "id": "u01-l02",
-            "title": "Notice, name prior knowledge, and set a meaningful question.",
-            "objective": "TODO: Write a measurable Learning Commons objective for this lesson.",
+            "title": "Skill studio: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+            "objective": "I can develop a focused question and gather relevant evidence about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons and explain my reasoning with appropriate evidence.",
             "estimatedMinutes": 45,
             "prerequisites": [],
             "activities": [
               {
                 "id": "u01-l02-a01",
-                "title": "Learner action",
+                "title": "Guided analysis and practice",
                 "kind": "practice",
-                "learnerAction": "Notice, name prior knowledge, and set a meaningful question.",
+                "learnerAction": "The learner develop a focused question and gather relevant evidence about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 33
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 6 task connected to analyzing systems, using disciplinary tools, and supporting claims through Learning Commons.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           },
           {
             "id": "u01-l03",
-            "title": "Notice, name prior knowledge, and set a meaningful question.",
-            "objective": "TODO: Write a measurable Learning Commons objective for this lesson.",
+            "title": "Application lab: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+            "objective": "I can develop a focused question and gather relevant evidence about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons and explain my reasoning with appropriate evidence.",
             "estimatedMinutes": 45,
             "prerequisites": [],
             "activities": [
               {
                 "id": "u01-l03-a01",
-                "title": "Learner action",
+                "title": "Independent or collaborative application",
                 "kind": "create",
-                "learnerAction": "Notice, name prior knowledge, and set a meaningful question.",
+                "learnerAction": "The learner develop a focused question and gather relevant evidence about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "project-link",
+                  "photo",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 33
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 6 task connected to analyzing systems, using disciplinary tools, and supporting claims through Learning Commons.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           }
         ]
       },
       {
         "id": "u02",
-        "title": "Explore & practice",
-        "essentialQuestion": "How can Grade 6 learners use Learning Commons to notice, understand, and contribute?",
+        "title": "Practice and analyze: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+        "essentialQuestion": "How can we analyze and improve our understanding of analyzing systems, using disciplinary tools, and supporting claims through Learning Commons?",
         "outcomes": [
-          "Learn through models, guided practice, and feedback."
+          "I can practice disciplinary skills and analyze patterns, sources, or feedback about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons.",
+          "I can use appropriate disciplinary vocabulary, evidence, and tools to communicate my reasoning."
         ],
         "standardIds": [
-          "TODO: Add state and national standard IDs."
+          "Middle school framework progression"
         ],
         "lessons": [
           {
             "id": "u02-l01",
-            "title": "Learn through models, guided practice, and feedback.",
-            "objective": "TODO: Write a measurable Learning Commons objective for this lesson.",
+            "title": "Launch inquiry: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+            "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons and explain my reasoning with appropriate evidence.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u01-l03"
+            ],
             "activities": [
               {
                 "id": "u02-l01-a01",
-                "title": "Learner action",
-                "kind": "practice",
-                "learnerAction": "Learn through models, guided practice, and feedback.",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "The learner practice disciplinary skills and analyze patterns, sources, or feedback about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 33
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 6 task connected to analyzing systems, using disciplinary tools, and supporting claims through Learning Commons.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           },
           {
             "id": "u02-l02",
-            "title": "Learn through models, guided practice, and feedback.",
-            "objective": "TODO: Write a measurable Learning Commons objective for this lesson.",
+            "title": "Skill studio: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+            "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons and explain my reasoning with appropriate evidence.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u01-l03"
+            ],
             "activities": [
               {
                 "id": "u02-l02-a01",
-                "title": "Learner action",
+                "title": "Guided analysis and practice",
                 "kind": "practice",
-                "learnerAction": "Learn through models, guided practice, and feedback.",
+                "learnerAction": "The learner practice disciplinary skills and analyze patterns, sources, or feedback about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 33
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 6 task connected to analyzing systems, using disciplinary tools, and supporting claims through Learning Commons.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           },
           {
             "id": "u02-l03",
-            "title": "Learn through models, guided practice, and feedback.",
-            "objective": "TODO: Write a measurable Learning Commons objective for this lesson.",
+            "title": "Application lab: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+            "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons and explain my reasoning with appropriate evidence.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u01-l03"
+            ],
             "activities": [
               {
                 "id": "u02-l03-a01",
-                "title": "Learner action",
+                "title": "Independent or collaborative application",
                 "kind": "create",
-                "learnerAction": "Learn through models, guided practice, and feedback.",
+                "learnerAction": "The learner practice disciplinary skills and analyze patterns, sources, or feedback about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "project-link",
+                  "photo",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 33
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 6 task connected to analyzing systems, using disciplinary tools, and supporting claims through Learning Commons.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           }
         ]
       },
       {
         "id": "u03",
-        "title": "Create & apply",
-        "essentialQuestion": "How can Grade 6 learners use Learning Commons to notice, understand, and contribute?",
+        "title": "Apply and create: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+        "essentialQuestion": "How can we apply analyzing systems, using disciplinary tools, and supporting claims through Learning Commons to an authentic task?",
         "outcomes": [
-          "Apply learning in a STEM, fine-art, or real-world creation."
+          "I can apply learning to a meaningful product, model, performance, or solution about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons.",
+          "I can use appropriate disciplinary vocabulary, evidence, and tools to communicate my reasoning."
         ],
         "standardIds": [
-          "TODO: Add state and national standard IDs."
+          "Middle school framework progression"
         ],
         "lessons": [
           {
             "id": "u03-l01",
-            "title": "Apply learning in a STEM, fine-art, or real-world creation.",
-            "objective": "TODO: Write a measurable Learning Commons objective for this lesson.",
+            "title": "Launch inquiry: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+            "objective": "I can apply learning to a meaningful product, model, performance, or solution about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons and explain my reasoning with appropriate evidence.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u02-l03"
+            ],
             "activities": [
               {
                 "id": "u03-l01-a01",
-                "title": "Learner action",
-                "kind": "practice",
-                "learnerAction": "Apply learning in a STEM, fine-art, or real-world creation.",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "The learner apply learning to a meaningful product, model, performance, or solution about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 33
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 6 task connected to analyzing systems, using disciplinary tools, and supporting claims through Learning Commons.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           },
           {
             "id": "u03-l02",
-            "title": "Apply learning in a STEM, fine-art, or real-world creation.",
-            "objective": "TODO: Write a measurable Learning Commons objective for this lesson.",
+            "title": "Skill studio: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+            "objective": "I can apply learning to a meaningful product, model, performance, or solution about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons and explain my reasoning with appropriate evidence.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u02-l03"
+            ],
             "activities": [
               {
                 "id": "u03-l02-a01",
-                "title": "Learner action",
+                "title": "Guided analysis and practice",
                 "kind": "practice",
-                "learnerAction": "Apply learning in a STEM, fine-art, or real-world creation.",
+                "learnerAction": "The learner apply learning to a meaningful product, model, performance, or solution about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 33
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 6 task connected to analyzing systems, using disciplinary tools, and supporting claims through Learning Commons.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           },
           {
             "id": "u03-l03",
-            "title": "Apply learning in a STEM, fine-art, or real-world creation.",
-            "objective": "TODO: Write a measurable Learning Commons objective for this lesson.",
+            "title": "Application lab: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+            "objective": "I can apply learning to a meaningful product, model, performance, or solution about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons and explain my reasoning with appropriate evidence.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u02-l03"
+            ],
             "activities": [
               {
                 "id": "u03-l03-a01",
-                "title": "Learner action",
+                "title": "Independent or collaborative application",
                 "kind": "create",
-                "learnerAction": "Apply learning in a STEM, fine-art, or real-world creation.",
+                "learnerAction": "The learner apply learning to a meaningful product, model, performance, or solution about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "project-link",
+                  "photo",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 33
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 6 task connected to analyzing systems, using disciplinary tools, and supporting claims through Learning Commons.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           }
         ]
       },
       {
         "id": "u04",
-        "title": "Reflect & share",
-        "essentialQuestion": "How can Grade 6 learners use Learning Commons to notice, understand, and contribute?",
+        "title": "Reflect and communicate: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+        "essentialQuestion": "How can we justify, revise, and communicate what we learned about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons?",
         "outcomes": [
-          "Share evidence, reflect, request help when needed, and set a next step."
+          "I can evaluate evidence, revise work, and communicate a justified conclusion about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons.",
+          "I can use appropriate disciplinary vocabulary, evidence, and tools to communicate my reasoning."
         ],
         "standardIds": [
-          "TODO: Add state and national standard IDs."
+          "Middle school framework progression"
         ],
         "lessons": [
           {
             "id": "u04-l01",
-            "title": "Share evidence, reflect, request help when needed, and set a next step.",
-            "objective": "TODO: Write a measurable Learning Commons objective for this lesson.",
+            "title": "Launch inquiry: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+            "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons and explain my reasoning with appropriate evidence.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u03-l03"
+            ],
             "activities": [
               {
                 "id": "u04-l01-a01",
-                "title": "Learner action",
-                "kind": "practice",
-                "learnerAction": "Share evidence, reflect, request help when needed, and set a next step.",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "The learner evaluate evidence, revise work, and communicate a justified conclusion about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 33
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 6 task connected to analyzing systems, using disciplinary tools, and supporting claims through Learning Commons.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           },
           {
             "id": "u04-l02",
-            "title": "Share evidence, reflect, request help when needed, and set a next step.",
-            "objective": "TODO: Write a measurable Learning Commons objective for this lesson.",
+            "title": "Skill studio: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+            "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons and explain my reasoning with appropriate evidence.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u03-l03"
+            ],
             "activities": [
               {
                 "id": "u04-l02-a01",
-                "title": "Learner action",
+                "title": "Guided analysis and practice",
                 "kind": "practice",
-                "learnerAction": "Share evidence, reflect, request help when needed, and set a next step.",
+                "learnerAction": "The learner evaluate evidence, revise work, and communicate a justified conclusion about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "audio",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 33
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 6 task connected to analyzing systems, using disciplinary tools, and supporting claims through Learning Commons.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           },
           {
             "id": "u04-l03",
-            "title": "Share evidence, reflect, request help when needed, and set a next step.",
-            "objective": "TODO: Write a measurable Learning Commons objective for this lesson.",
+            "title": "Application lab: analyzing systems, using disciplinary tools, and supporting claims through Learning Commons",
+            "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons and explain my reasoning with appropriate evidence.",
             "estimatedMinutes": 45,
-            "prerequisites": [],
+            "prerequisites": [
+              "u03-l03"
+            ],
             "activities": [
               {
                 "id": "u04-l03-a01",
-                "title": "Learner action",
+                "title": "Independent or collaborative application",
                 "kind": "create",
-                "learnerAction": "Share evidence, reflect, request help when needed, and set a next step.",
+                "learnerAction": "The learner evaluate evidence, revise work, and communicate a justified conclusion about analyzing systems, using disciplinary tools, and supporting claims through Learning Commons, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
                 "evidenceOptions": [
                   "written-response",
+                  "project-link",
+                  "photo",
                   "observation"
                 ],
-                "estimatedMinutes": 30
+                "estimatedMinutes": 33
               }
             ],
             "successCriteria": [
-              "TODO: Describe what success looks like."
+              "The learner completes a grade 6 task connected to analyzing systems, using disciplinary tools, and supporting claims through Learning Commons.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
             ]
           }
         ]

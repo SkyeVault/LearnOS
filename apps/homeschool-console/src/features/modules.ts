@@ -1,4 +1,5 @@
 import { getLearners } from '../app/store'
+import { hobbyModuleSubjects, explorationModuleSubjects } from '../content/k12-module-library'
 import { parseSemesterCurriculum, type SemesterCurriculum } from './module-learning'
 
 export type ModuleLesson = { title: string; objective: string; minutes: number }
@@ -21,7 +22,7 @@ export interface LearningModule {
 const key = 'learning-world-os:modules:v1'
 const assignmentKey = 'learning-world-os:module-assignments:v1'
 const migrationKey = 'learning-world-os:module-migration:v1'
-const allowedSubjects = ['Early Learning', 'Music', 'Beginner Coding', 'Mathematics', 'Reading', 'Science', 'History', 'Geography', 'Language Arts', 'Art & Creativity', 'Physical Education', 'Engineering', 'Living Library', 'Homestead Lab', 'Learning Commons', 'Gardening', 'Mindful Movement', 'Spirit']
+const allowedSubjects = ['Early Learning', 'Music', 'Beginner Coding', 'Mathematics', 'Reading', 'Science', 'History', 'Geography', 'Language Arts', 'Art & Creativity', 'Physical Education', 'Engineering', 'Living Library', 'Homestead Lab', 'Learning Commons', 'Gardening', 'Mindful Movement', 'Spirit', ...hobbyModuleSubjects.map(subject => subject.name), ...explorationModuleSubjects.map(subject => subject.name)]
 
 export const coreModule: LearningModule = { id: 'early-learning', name: 'Early Learning', version: '1.0.0', description: 'The calm, play-based core for young learners.', subjectNames: ['Early Learning'], core: true }
 export const preKLearningWorld: LearningModule = { id: 'pre-k-learning-world', name: 'Pre-K Learning World', version: '1.0.0', description: 'The original play-based Early Learning software and maker spaces, retained as a built-in package that can be assigned again whenever a family returns to Pre-K. ', subjectNames: allowedSubjects, builtIn: true }

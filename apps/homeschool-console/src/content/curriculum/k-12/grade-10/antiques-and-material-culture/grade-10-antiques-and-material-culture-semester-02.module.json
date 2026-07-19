@@ -1,0 +1,484 @@
+{
+  "id": "grade-10-antiques-and-material-culture-semester-02",
+  "name": "Grade 10 Antiques & Material Culture — Semester 2",
+  "description": "An 18-week Grade 10 pathway for deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture. Learning advances through inquiry, practice, authentic application, revision, and communication.",
+  "version": "1.0.0",
+  "subjectNames": [
+    "Antiques & Material Culture"
+  ],
+  "learningGoals": [
+    "Develop grade 10 knowledge and transferable skills in deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture.",
+    "Use appropriate evidence, vocabulary, tools, and methods to explain reasoning.",
+    "Plan, revise, collaborate responsibly, and communicate a well-supported conclusion."
+  ],
+  "lessons": [
+    {
+      "title": "Launch inquiry: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+      "objective": "I can develop a focused question and gather relevant evidence about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture and explain my reasoning with appropriate evidence.",
+      "minutes": 50
+    },
+    {
+      "title": "Skill studio: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+      "objective": "I can develop a focused question and gather relevant evidence about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture and explain my reasoning with appropriate evidence.",
+      "minutes": 50
+    },
+    {
+      "title": "Application lab: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+      "objective": "I can develop a focused question and gather relevant evidence about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture and explain my reasoning with appropriate evidence.",
+      "minutes": 50
+    },
+    {
+      "title": "Launch inquiry: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+      "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture and explain my reasoning with appropriate evidence.",
+      "minutes": 50
+    },
+    {
+      "title": "Skill studio: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+      "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture and explain my reasoning with appropriate evidence.",
+      "minutes": 50
+    },
+    {
+      "title": "Application lab: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+      "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture and explain my reasoning with appropriate evidence.",
+      "minutes": 50
+    },
+    {
+      "title": "Launch inquiry: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+      "objective": "I can apply learning to a meaningful product, model, performance, or solution about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture and explain my reasoning with appropriate evidence.",
+      "minutes": 50
+    },
+    {
+      "title": "Skill studio: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+      "objective": "I can apply learning to a meaningful product, model, performance, or solution about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture and explain my reasoning with appropriate evidence.",
+      "minutes": 50
+    },
+    {
+      "title": "Application lab: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+      "objective": "I can apply learning to a meaningful product, model, performance, or solution about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture and explain my reasoning with appropriate evidence.",
+      "minutes": 50
+    },
+    {
+      "title": "Launch inquiry: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+      "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture and explain my reasoning with appropriate evidence.",
+      "minutes": 50
+    },
+    {
+      "title": "Skill studio: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+      "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture and explain my reasoning with appropriate evidence.",
+      "minutes": 50
+    },
+    {
+      "title": "Application lab: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+      "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture and explain my reasoning with appropriate evidence.",
+      "minutes": 50
+    }
+  ],
+  "resources": [
+    {
+      "title": "C3 historical inquiry pathway",
+      "url": "https://www.socialstudies.org/standards/c3",
+      "description": "Planning reference for this Grade 10 Antiques & Material Culture pathway."
+    }
+  ],
+  "curriculum": {
+    "gradeId": "grade-10",
+    "subjectId": "antiques-and-material-culture",
+    "semester": 2,
+    "pacing": {
+      "intendedWeeks": 18,
+      "flexible": true
+    },
+    "units": [
+      {
+        "id": "u01",
+        "title": "Investigate: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+        "essentialQuestion": "What question and evidence can guide our study of deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture?",
+        "outcomes": [
+          "I can develop a focused question and gather relevant evidence about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture.",
+          "I can use appropriate disciplinary vocabulary, evidence, and tools to communicate my reasoning."
+        ],
+        "standardIds": [
+          "High school framework progression"
+        ],
+        "lessons": [
+          {
+            "id": "u01-l01",
+            "title": "Launch inquiry: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+            "objective": "I can develop a focused question and gather relevant evidence about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 50,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l01-a01",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "The learner develop a focused question and gather relevant evidence about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 38
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 10 task connected to deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          },
+          {
+            "id": "u01-l02",
+            "title": "Skill studio: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+            "objective": "I can develop a focused question and gather relevant evidence about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 50,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l02-a01",
+                "title": "Guided analysis and practice",
+                "kind": "practice",
+                "learnerAction": "The learner develop a focused question and gather relevant evidence about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 38
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 10 task connected to deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          },
+          {
+            "id": "u01-l03",
+            "title": "Application lab: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+            "objective": "I can develop a focused question and gather relevant evidence about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 50,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l03-a01",
+                "title": "Independent or collaborative application",
+                "kind": "create",
+                "learnerAction": "The learner develop a focused question and gather relevant evidence about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "project-link",
+                  "photo",
+                  "observation"
+                ],
+                "estimatedMinutes": 38
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 10 task connected to deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u02",
+        "title": "Practice and analyze: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+        "essentialQuestion": "How can we analyze and improve our understanding of deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture?",
+        "outcomes": [
+          "I can practice disciplinary skills and analyze patterns, sources, or feedback about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture.",
+          "I can use appropriate disciplinary vocabulary, evidence, and tools to communicate my reasoning."
+        ],
+        "standardIds": [
+          "High school framework progression"
+        ],
+        "lessons": [
+          {
+            "id": "u02-l01",
+            "title": "Launch inquiry: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+            "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 50,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l01-a01",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "The learner practice disciplinary skills and analyze patterns, sources, or feedback about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 38
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 10 task connected to deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          },
+          {
+            "id": "u02-l02",
+            "title": "Skill studio: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+            "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 50,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l02-a01",
+                "title": "Guided analysis and practice",
+                "kind": "practice",
+                "learnerAction": "The learner practice disciplinary skills and analyze patterns, sources, or feedback about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 38
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 10 task connected to deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          },
+          {
+            "id": "u02-l03",
+            "title": "Application lab: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+            "objective": "I can practice disciplinary skills and analyze patterns, sources, or feedback about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 50,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l03-a01",
+                "title": "Independent or collaborative application",
+                "kind": "create",
+                "learnerAction": "The learner practice disciplinary skills and analyze patterns, sources, or feedback about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "project-link",
+                  "photo",
+                  "observation"
+                ],
+                "estimatedMinutes": 38
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 10 task connected to deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u03",
+        "title": "Apply and create: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+        "essentialQuestion": "How can we apply deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture to an authentic task?",
+        "outcomes": [
+          "I can apply learning to a meaningful product, model, performance, or solution about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture.",
+          "I can use appropriate disciplinary vocabulary, evidence, and tools to communicate my reasoning."
+        ],
+        "standardIds": [
+          "High school framework progression"
+        ],
+        "lessons": [
+          {
+            "id": "u03-l01",
+            "title": "Launch inquiry: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+            "objective": "I can apply learning to a meaningful product, model, performance, or solution about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 50,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l01-a01",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "The learner apply learning to a meaningful product, model, performance, or solution about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 38
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 10 task connected to deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          },
+          {
+            "id": "u03-l02",
+            "title": "Skill studio: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+            "objective": "I can apply learning to a meaningful product, model, performance, or solution about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 50,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l02-a01",
+                "title": "Guided analysis and practice",
+                "kind": "practice",
+                "learnerAction": "The learner apply learning to a meaningful product, model, performance, or solution about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 38
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 10 task connected to deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          },
+          {
+            "id": "u03-l03",
+            "title": "Application lab: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+            "objective": "I can apply learning to a meaningful product, model, performance, or solution about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 50,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l03-a01",
+                "title": "Independent or collaborative application",
+                "kind": "create",
+                "learnerAction": "The learner apply learning to a meaningful product, model, performance, or solution about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "project-link",
+                  "photo",
+                  "observation"
+                ],
+                "estimatedMinutes": 38
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 10 task connected to deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u04",
+        "title": "Reflect and communicate: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+        "essentialQuestion": "How can we justify, revise, and communicate what we learned about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture?",
+        "outcomes": [
+          "I can evaluate evidence, revise work, and communicate a justified conclusion about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture.",
+          "I can use appropriate disciplinary vocabulary, evidence, and tools to communicate my reasoning."
+        ],
+        "standardIds": [
+          "High school framework progression"
+        ],
+        "lessons": [
+          {
+            "id": "u04-l01",
+            "title": "Launch inquiry: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+            "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 50,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l01-a01",
+                "title": "Question and evidence",
+                "kind": "learn",
+                "learnerAction": "The learner evaluate evidence, revise work, and communicate a justified conclusion about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 38
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 10 task connected to deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          },
+          {
+            "id": "u04-l02",
+            "title": "Skill studio: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+            "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 50,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l02-a01",
+                "title": "Guided analysis and practice",
+                "kind": "practice",
+                "learnerAction": "The learner evaluate evidence, revise work, and communicate a justified conclusion about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 38
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 10 task connected to deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          },
+          {
+            "id": "u04-l03",
+            "title": "Application lab: deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture",
+            "objective": "I can evaluate evidence, revise work, and communicate a justified conclusion about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture and explain my reasoning with appropriate evidence.",
+            "estimatedMinutes": 50,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l03-a01",
+                "title": "Independent or collaborative application",
+                "kind": "create",
+                "learnerAction": "The learner evaluate evidence, revise work, and communicate a justified conclusion about deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture, documents evidence in an age-appropriate format, and follows applicable safety, ethics, and collaboration expectations.",
+                "evidenceOptions": [
+                  "written-response",
+                  "project-link",
+                  "photo",
+                  "observation"
+                ],
+                "estimatedMinutes": 38
+              }
+            ],
+            "successCriteria": [
+              "The learner completes a grade 10 task connected to deepening analysis, modeling complex ideas, and revising with evidence through Antiques & Material Culture.",
+              "The learner uses relevant evidence, vocabulary, or a model to explain reasoning.",
+              "The learner revises, seeks feedback, or identifies a specific next step."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

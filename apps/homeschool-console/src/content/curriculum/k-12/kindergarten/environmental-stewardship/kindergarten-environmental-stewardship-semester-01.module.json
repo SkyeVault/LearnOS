@@ -1,0 +1,460 @@
+{
+  "id": "kindergarten-environmental-stewardship-semester-01",
+  "name": "Kindergarten Environmental Stewardship — Semester 1",
+  "description": "An 18-week, play-based Kindergarten pathway for living things, litter, reuse, and caring for a shared place. Lessons are brief, hands-on, flexible, and designed for adult-guided learning.",
+  "version": "1.0.0",
+  "subjectNames": [
+    "Environmental Stewardship"
+  ],
+  "learningGoals": [
+    "Build confidence and curiosity with living things, litter, reuse, and caring for a shared place.",
+    "Communicate learning through talk, drawing, movement, play, or a simple creation.",
+    "Practice safe, kind, and responsible participation."
+  ],
+  "lessons": [
+    {
+      "title": "Notice and talk: living things, litter, reuse, and caring for a shared place",
+      "objective": "I can notice details and share a question about living things, litter, reuse, and caring for a shared place through a close look at living things, litter, reuse, and caring for a shared place.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: living things, litter, reuse, and caring for a shared place",
+      "objective": "I can notice details and share a question about living things, litter, reuse, and caring for a shared place through a guided practice with living things, litter, reuse, and caring for a shared place.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: living things, litter, reuse, and caring for a shared place",
+      "objective": "I can notice details and share a question about living things, litter, reuse, and caring for a shared place through a small creation or demonstration about living things, litter, reuse, and caring for a shared place.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: living things, litter, reuse, and caring for a shared place",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about living things, litter, reuse, and caring for a shared place through a close look at living things, litter, reuse, and caring for a shared place.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: living things, litter, reuse, and caring for a shared place",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about living things, litter, reuse, and caring for a shared place through a guided practice with living things, litter, reuse, and caring for a shared place.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: living things, litter, reuse, and caring for a shared place",
+      "objective": "I can try a skill, use materials safely, and explain something I learned about living things, litter, reuse, and caring for a shared place through a small creation or demonstration about living things, litter, reuse, and caring for a shared place.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: living things, litter, reuse, and caring for a shared place",
+      "objective": "I can use what I know to make, solve, move, or help with living things, litter, reuse, and caring for a shared place through a close look at living things, litter, reuse, and caring for a shared place.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: living things, litter, reuse, and caring for a shared place",
+      "objective": "I can use what I know to make, solve, move, or help with living things, litter, reuse, and caring for a shared place through a guided practice with living things, litter, reuse, and caring for a shared place.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: living things, litter, reuse, and caring for a shared place",
+      "objective": "I can use what I know to make, solve, move, or help with living things, litter, reuse, and caring for a shared place through a small creation or demonstration about living things, litter, reuse, and caring for a shared place.",
+      "minutes": 25
+    },
+    {
+      "title": "Notice and talk: living things, litter, reuse, and caring for a shared place",
+      "objective": "I can show my learning, listen to feedback, and name a next step for living things, litter, reuse, and caring for a shared place through a close look at living things, litter, reuse, and caring for a shared place.",
+      "minutes": 25
+    },
+    {
+      "title": "Try it together: living things, litter, reuse, and caring for a shared place",
+      "objective": "I can show my learning, listen to feedback, and name a next step for living things, litter, reuse, and caring for a shared place through a guided practice with living things, litter, reuse, and caring for a shared place.",
+      "minutes": 25
+    },
+    {
+      "title": "Make or show: living things, litter, reuse, and caring for a shared place",
+      "objective": "I can show my learning, listen to feedback, and name a next step for living things, litter, reuse, and caring for a shared place through a small creation or demonstration about living things, litter, reuse, and caring for a shared place.",
+      "minutes": 25
+    }
+  ],
+  "resources": [
+    {
+      "title": "NAAEE and NGSS",
+      "url": "https://naaee.org/eepro/resources/guidelines-excellence",
+      "description": "Planning reference for this Kindergarten Environmental Stewardship pathway."
+    }
+  ],
+  "curriculum": {
+    "gradeId": "kindergarten",
+    "subjectId": "environmental-stewardship",
+    "semester": 1,
+    "pacing": {
+      "intendedWeeks": 18,
+      "flexible": true
+    },
+    "units": [
+      {
+        "id": "u01",
+        "title": "Wonder and notice: living things, litter, reuse, and caring for a shared place",
+        "essentialQuestion": "What can we notice and wonder about living things, litter, reuse, and caring for a shared place?",
+        "outcomes": [
+          "I can notice details and share a question about living things, litter, reuse, and caring for a shared place.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "NGSS.K-ESS3-1"
+        ],
+        "lessons": [
+          {
+            "id": "u01-l01",
+            "title": "Notice and talk: living things, litter, reuse, and caring for a shared place",
+            "objective": "I can notice details and share a question about living things, litter, reuse, and caring for a shared place through a close look at living things, litter, reuse, and caring for a shared place.",
+            "estimatedMinutes": 25,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l01-a01",
+                "title": "A close look at living things, litter, reuse, and caring for a shared place",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at living things, litter, reuse, and caring for a shared place, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in living things, litter, reuse, and caring for a shared place.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u01-l02",
+            "title": "Try it together: living things, litter, reuse, and caring for a shared place",
+            "objective": "I can notice details and share a question about living things, litter, reuse, and caring for a shared place through a guided practice with living things, litter, reuse, and caring for a shared place.",
+            "estimatedMinutes": 25,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l02-a01",
+                "title": "A guided practice with living things, litter, reuse, and caring for a shared place",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with living things, litter, reuse, and caring for a shared place, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in living things, litter, reuse, and caring for a shared place.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u01-l03",
+            "title": "Make or show: living things, litter, reuse, and caring for a shared place",
+            "objective": "I can notice details and share a question about living things, litter, reuse, and caring for a shared place through a small creation or demonstration about living things, litter, reuse, and caring for a shared place.",
+            "estimatedMinutes": 25,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l03-a01",
+                "title": "A small creation or demonstration about living things, litter, reuse, and caring for a shared place",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about living things, litter, reuse, and caring for a shared place, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in living things, litter, reuse, and caring for a shared place.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u02",
+        "title": "Explore and practice: living things, litter, reuse, and caring for a shared place",
+        "essentialQuestion": "How can we learn and practice living things, litter, reuse, and caring for a shared place safely?",
+        "outcomes": [
+          "I can try a skill, use materials safely, and explain something I learned about living things, litter, reuse, and caring for a shared place.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "NGSS.K-ESS3-1"
+        ],
+        "lessons": [
+          {
+            "id": "u02-l01",
+            "title": "Notice and talk: living things, litter, reuse, and caring for a shared place",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about living things, litter, reuse, and caring for a shared place through a close look at living things, litter, reuse, and caring for a shared place.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l01-a01",
+                "title": "A close look at living things, litter, reuse, and caring for a shared place",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at living things, litter, reuse, and caring for a shared place, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in living things, litter, reuse, and caring for a shared place.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u02-l02",
+            "title": "Try it together: living things, litter, reuse, and caring for a shared place",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about living things, litter, reuse, and caring for a shared place through a guided practice with living things, litter, reuse, and caring for a shared place.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l02-a01",
+                "title": "A guided practice with living things, litter, reuse, and caring for a shared place",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with living things, litter, reuse, and caring for a shared place, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in living things, litter, reuse, and caring for a shared place.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u02-l03",
+            "title": "Make or show: living things, litter, reuse, and caring for a shared place",
+            "objective": "I can try a skill, use materials safely, and explain something I learned about living things, litter, reuse, and caring for a shared place through a small creation or demonstration about living things, litter, reuse, and caring for a shared place.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u01-l03"
+            ],
+            "activities": [
+              {
+                "id": "u02-l03-a01",
+                "title": "A small creation or demonstration about living things, litter, reuse, and caring for a shared place",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about living things, litter, reuse, and caring for a shared place, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in living things, litter, reuse, and caring for a shared place.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u03",
+        "title": "Make and apply: living things, litter, reuse, and caring for a shared place",
+        "essentialQuestion": "How can we use living things, litter, reuse, and caring for a shared place to make, solve, move, or help?",
+        "outcomes": [
+          "I can use what I know to make, solve, move, or help with living things, litter, reuse, and caring for a shared place.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "NGSS.K-ESS3-1"
+        ],
+        "lessons": [
+          {
+            "id": "u03-l01",
+            "title": "Notice and talk: living things, litter, reuse, and caring for a shared place",
+            "objective": "I can use what I know to make, solve, move, or help with living things, litter, reuse, and caring for a shared place through a close look at living things, litter, reuse, and caring for a shared place.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l01-a01",
+                "title": "A close look at living things, litter, reuse, and caring for a shared place",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at living things, litter, reuse, and caring for a shared place, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in living things, litter, reuse, and caring for a shared place.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u03-l02",
+            "title": "Try it together: living things, litter, reuse, and caring for a shared place",
+            "objective": "I can use what I know to make, solve, move, or help with living things, litter, reuse, and caring for a shared place through a guided practice with living things, litter, reuse, and caring for a shared place.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l02-a01",
+                "title": "A guided practice with living things, litter, reuse, and caring for a shared place",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with living things, litter, reuse, and caring for a shared place, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in living things, litter, reuse, and caring for a shared place.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u03-l03",
+            "title": "Make or show: living things, litter, reuse, and caring for a shared place",
+            "objective": "I can use what I know to make, solve, move, or help with living things, litter, reuse, and caring for a shared place through a small creation or demonstration about living things, litter, reuse, and caring for a shared place.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u02-l03"
+            ],
+            "activities": [
+              {
+                "id": "u03-l03-a01",
+                "title": "A small creation or demonstration about living things, litter, reuse, and caring for a shared place",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about living things, litter, reuse, and caring for a shared place, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in living things, litter, reuse, and caring for a shared place.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u04",
+        "title": "Reflect and share: living things, litter, reuse, and caring for a shared place",
+        "essentialQuestion": "How can we share what we learned about living things, litter, reuse, and caring for a shared place?",
+        "outcomes": [
+          "I can show my learning, listen to feedback, and name a next step for living things, litter, reuse, and caring for a shared place.",
+          "I can use words, pictures, movement, or materials to communicate my thinking."
+        ],
+        "standardIds": [
+          "NGSS.K-ESS3-1"
+        ],
+        "lessons": [
+          {
+            "id": "u04-l01",
+            "title": "Notice and talk: living things, litter, reuse, and caring for a shared place",
+            "objective": "I can show my learning, listen to feedback, and name a next step for living things, litter, reuse, and caring for a shared place through a close look at living things, litter, reuse, and caring for a shared place.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l01-a01",
+                "title": "A close look at living things, litter, reuse, and caring for a shared place",
+                "kind": "learn",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a close look at living things, litter, reuse, and caring for a shared place, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in living things, litter, reuse, and caring for a shared place.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u04-l02",
+            "title": "Try it together: living things, litter, reuse, and caring for a shared place",
+            "objective": "I can show my learning, listen to feedback, and name a next step for living things, litter, reuse, and caring for a shared place through a guided practice with living things, litter, reuse, and caring for a shared place.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l02-a01",
+                "title": "A guided practice with living things, litter, reuse, and caring for a shared place",
+                "kind": "practice",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a guided practice with living things, litter, reuse, and caring for a shared place, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in living things, litter, reuse, and caring for a shared place.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          },
+          {
+            "id": "u04-l03",
+            "title": "Make or show: living things, litter, reuse, and caring for a shared place",
+            "objective": "I can show my learning, listen to feedback, and name a next step for living things, litter, reuse, and caring for a shared place through a small creation or demonstration about living things, litter, reuse, and caring for a shared place.",
+            "estimatedMinutes": 25,
+            "prerequisites": [
+              "u03-l03"
+            ],
+            "activities": [
+              {
+                "id": "u04-l03-a01",
+                "title": "A small creation or demonstration about living things, litter, reuse, and caring for a shared place",
+                "kind": "create",
+                "learnerAction": "With an adult or teacher nearby when needed, the learner participates in a small creation or demonstration about living things, litter, reuse, and caring for a shared place, uses words, pictures, movement, or materials to communicate thinking, and cleans up safely.",
+                "evidenceOptions": [
+                  "photo",
+                  "audio",
+                  "observation"
+                ],
+                "estimatedMinutes": 18
+              }
+            ],
+            "successCriteria": [
+              "The learner participates safely and respectfully in living things, litter, reuse, and caring for a shared place.",
+              "The learner communicates one observation, choice, or question using speech, drawing, movement, or a supported response."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
