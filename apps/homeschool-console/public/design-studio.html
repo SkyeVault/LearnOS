@@ -295,15 +295,29 @@ body{background:var(--bg);color:var(--text);font-family:'Inter',sans-serif;
 .tt-select{height:28px;background:var(--s2);border:1px solid var(--border);color:var(--text);
   font-size:11px;padding:0 5px;border-radius:6px;cursor:pointer;flex-shrink:0}
 .tt-lbl{font-size:9.5px;color:var(--muted);flex-shrink:0}
+
+/* LearnOS Design Studio visual refresh — UI overhaul by Codex (GPT-5.6). */
+:root{--bg:#eaf6ed;--surface:#fbfffa;--s2:#f1faef;--s3:#e3f2e5;--border:#c8dfcb;--accent:#397a60;--a2:#f3a94e;--text:#19372a;--muted:#6b8978;--danger:#c84d5d;--ok:#287c5d}
+body{background:radial-gradient(circle at 10% 5%,#fff7cf 0,transparent 22rem),radial-gradient(circle at 90% 100%,#c8efd5 0,transparent 26rem),var(--bg);color:var(--text)}
+#topbar{height:62px;padding:0 16px;gap:8px;background:rgba(251,255,250,.94);border-bottom:1px solid var(--border);box-shadow:0 5px 20px #2861430d;backdrop-filter:blur(14px)}
+.logo{display:flex;align-items:center;gap:.45rem;color:#245e48;font-size:12px;letter-spacing:1.3px}.logo::first-letter{color:var(--a2);font-size:18px}.studio-credit{padding:.35rem .58rem;border:1px solid #d6e8cb;border-radius:999px;background:#f5fae9;color:#5c7f53;font-size:9px;font-weight:700;letter-spacing:.03em;white-space:nowrap}.tsep{height:28px;background:#dceadd}.tbtn{height:32px;padding:0 10px;border-color:#d6e5d8;border-radius:10px;background:#fff;color:#426655;font-weight:600;box-shadow:0 2px 0 #e2efe2;transition:transform .16s ease,box-shadow .16s ease,border-color .16s ease,color .16s ease}.tbtn:hover{transform:translateY(-1px);border-color:#89b998;color:#245e48;box-shadow:0 4px 10px #376e4817}.tbtn.on{border-color:#82b693;color:#245e48;background:#e9f7e8}.tbtn.pr{background:linear-gradient(135deg,#4c9b72,#2f7659);border-color:#2f7659;color:#fff;box-shadow:0 3px 0 #245b45}.tbtn.pr:hover{opacity:1;background:linear-gradient(135deg,#56aa7d,#286a50)}#zoom-disp{color:#64806e}
+#tools{width:68px;padding:10px 0;background:rgba(251,255,250,.86);border-right:1px solid var(--border);gap:4px}.tbut{width:49px;height:45px;border-radius:13px;color:#6f907b;font-size:17px}.tbut:hover{background:#edf8eb;color:#2d7054}.tbut.active{background:linear-gradient(145deg,#d8f2d9,#eaf8dc);color:#236247;box-shadow:inset 0 0 0 1px #afd6b5}.tbut .tl{color:inherit;font-size:6.5px;font-family:'Inter',sans-serif;font-weight:800;letter-spacing:.65px}.tsep2{width:38px;background:#d8e8d9}
+#layers,#props{background:rgba(251,255,250,.88);border-color:var(--border)}#layers{width:190px}#props{width:260px}.ps,#lay-hdr{border-color:#dbeadd}.pt,#lay-title{color:#698775}.lrow{border-color:#edf4ed}.lrow:hover{background:#eff9ee}.lrow.sel{border-left-color:#4d9b72;background:#e7f5e4}.lay-name{color:#264a39}.lay-eye.off,.lay-lock.on{color:#2f795a}.lay-del:hover{color:var(--danger)}
+#canvas-area{background-color:#dcecdf;background-image:radial-gradient(#bdcfbf 1px,transparent 1px),radial-gradient(#edf7ed 1px,transparent 1px);background-position:0 0,10px 10px;background-size:20px 20px}#design-canvas{box-shadow:0 0 0 1px #bfd7c3,0 24px 60px #225a3740}.design-el.sel{outline-color:#3c936a}.handle{border-color:#3c936a}.handle.rot{background:#f0a74d}.guide-h,.guide-v{background:rgba(242,166,70,.75)}
+.pi,.psel,.hex-inp,.hex-pick,.pb,.bgtab,.gen-area,.style-chip,.fpreset,.paint-mode-btn,.tt-font,.tt-sz,.tt-num,.tt-color,.tt-select{border-color:#cfe1d1;background:#f6fcf5;color:#315641}.pi:focus,.hex-inp:focus,.gen-area:focus,.tt-num:focus{border-color:#5da079;box-shadow:0 0 0 3px #bce7c62e}.pb:hover,.style-chip:hover,.fpreset:hover,.paint-mode-btn:hover{border-color:#72a986;color:#286849}.pb.active,.bgtab.active,.style-chip.on,.fpreset.on,.paint-mode-btn.active{border-color:#65a77d;background:#e3f4df;color:#276b4d}.gen-btn{background:linear-gradient(135deg,#f2b257,#dc8746);box-shadow:0 3px 0 #b86437}.gen-btn:hover{background:linear-gradient(135deg,#f7bd64,#df8d4c)}#sd-status{border-color:#cfe1d1;background:#f6fcf5}.i2i-zone{border-color:#bcd8bf;background:#f7fcf5}.i2i-zone:hover,.i2i-zone.drag{border-color:#5e9d74}.paint-palette .pswatch.active{box-shadow:0 0 0 2px #ecad55}.sw:hover{border-color:#79aa89}
+#tpl-modal,#save-modal,#settings-modal{background:rgba(31,65,43,.32);backdrop-filter:blur(7px)}.tpl-box,.sv-box,#text-toolbar{background:#fbfffa;border-color:#bcd7c1;box-shadow:0 18px 60px #1f54382e}.tpl-card{background:#f4fbf2;border-color:#d4e5d6}.tpl-card:hover{border-color:#72a886}.tpl-title,.tpl-name{color:#27513c}#sv-preview{background:repeating-conic-gradient(#e5f0e5 0% 25%,#f6fbf5 0% 50%) 0 0/16px 16px;border-color:#d2e4d3}#sv-path{color:#398261;background:#f2faf0;border-color:#d2e4d3}#sv-list{background:#f4faf3;border-color:#d2e4d3}.sv-row{color:#315642}.sv-row:hover{background:#e6f4e3}
+#toast{background:#fcfffa;border-color:#bcdac1;color:#2d6148;box-shadow:0 8px 25px #1d543025}.spin{border-color:#d5ead8;border-top-color:#4f9670}
+@media(max-width:860px){.studio-credit{display:none}#topbar{height:auto;min-height:58px;flex-wrap:wrap;padding:8px 10px}.tr{margin-left:0}.tsep{display:none}}
 </style>
 </head>
 <body>
 
 <!-- TOPBAR -->
 <div id="topbar">
-  <span class="logo">✦ Design Studio</span>
+  <span class="logo">✦ Design Studio</span><span class="studio-credit" title="Local design software imported into LearnOS · interface refresh by Codex using GPT-5.6">Local tool · UI refresh by Codex</span>
   <div class="tsep"></div>
   <button class="tbtn" onclick="App.openTpl()">☰ Templates</button>
+  <button class="tbtn" onclick="alert('Design Studio is the author’s local design software, imported into LearnOS as a tool set. The interface has been overhauled by Codex using GPT-5.6.')" title="Design Studio attribution">ⓘ About</button>
   <div class="tsep"></div>
   <button class="tbtn" onclick="App.undo()" title="Ctrl+Z">↩ Undo</button>
   <button class="tbtn" onclick="App.redo()" title="Ctrl+Y">↪ Redo</button>
@@ -359,7 +373,7 @@ body{background:var(--bg);color:var(--text);font-family:'Inter',sans-serif;
   <div id="canvas-area">
     <div id="canvas-vp">
       <div id="design-canvas"></div>
-      <canvas id="paint-canvas" style="position:absolute;top:0;left:0;pointer-events:none;z-index:9980;"></canvas>
+      <canvas id="paint-canvas" style="position:absolute;top:0;left:0;pointer-events:none;touch-action:none;z-index:9980;"></canvas>
       <div id="guides-overlay"></div>
     </div>
   </div>
@@ -855,7 +869,7 @@ const App = {
   _drag:null, _resize:null, _rotate:null,
   _drawing:false, _drawEl:null, _drawStart:null,
   _layerDrag:null, _userZoomed:false, _fitTries:0,
-  _histT:[], _futT:[],
+  _histT:[], _futT:[], _actionSeq:0,
   _saveURL:null, _saveExt:'png', _saveDirPath:null,
 
   SWATCHES:['#ffffff','#000000','#1a1a2e','#e63946','#f4a261','#2ec4b6',
@@ -1065,10 +1079,16 @@ const App = {
     const dc=document.getElementById('design-canvas');
     dc.style.width=w+'px'; dc.style.height=h+'px';
     const pc=document.getElementById('paint-canvas');
-    // setting canvas .width wipes the bitmap — only resize when dims actually change
+    // Preserve and scale paint when a template or custom canvas size changes.
     if(pc&&(pc.width!==w||pc.height!==h)){
-      pc.width=w;pc.height=h;pc.style.width=w+'px';pc.style.height=h+'px';
-      this._paintHist=[];this._paintFut=[];this._paintDataURL=null; // bitmap wiped by resize
+      const oldW=pc.width, oldH=pc.height;
+      const snapshot=(oldW&&oldH)?document.createElement("canvas"):null;
+      if(snapshot){ snapshot.width=oldW; snapshot.height=oldH; snapshot.getContext("2d").drawImage(pc,0,0); }
+      pc.width=w; pc.height=h; pc.style.width=w+"px"; pc.style.height=h+"px";
+      this._paintCtx=pc.getContext("2d");
+      if(snapshot) this._paintCtx.drawImage(snapshot,0,0,w,h);
+      this._paintHist=[]; this._paintFut=[];
+      try{this._paintDataURL=pc.toDataURL("image/png");}catch(e){this._paintDataURL=null;}
     }
     const bg=this.els.find(e=>e.isBackground);
     if(bg&&(bg.w!==w||bg.h!==h)){bg.w=w;bg.h=h;const n=document.getElementById('dom_'+bg.id);if(n){n.style.width=w+'px';n.style.height=h+'px';}}
@@ -1875,9 +1895,10 @@ const App = {
   // ── History ───────────────────────────────────────────────────
   // Element history (hist/fut) and paint history (_paintHist/_paintFut) are
   // separate stacks; undo/redo picks whichever holds the most recent action.
+  _stamp(){ this._actionSeq=Math.max(this._actionSeq+1,Date.now()); return this._actionSeq; },
   snap(){
     const state=JSON.stringify({els:this.els,design:this.design});
-    this.hist.push(state); this._histT.push(Date.now());
+    this.hist.push(state); this._histT.push(this._stamp());
     if(this.hist.length>60){this.hist.shift();this._histT.shift();}
     this.fut=[]; this._futT=[]; this._paintFut=[];
     this.persist();
@@ -1894,7 +1915,7 @@ const App = {
     const gT=this.hist.length>=2?this._histT[this._histT.length-1]:-1;
     if(pT>gT&&this.undoPaint()){this.toast('Paint stroke undone');return;}
     if(this.hist.length<2)return;
-    this.fut.push(this.hist.pop()); this._futT.push(Date.now()); this._histT.pop();
+    this.fut.push(this.hist.pop()); this._futT.push(this._stamp()); this._histT.pop();
     this.restore(JSON.parse(this.hist[this.hist.length-1]));
   },
   redo(){
@@ -1903,7 +1924,7 @@ const App = {
     if(pT>gT&&this.redoPaint()){this.toast('Paint stroke redone');return;}
     if(!this.fut.length)return;
     const s=this.fut.pop(); this._futT.pop();
-    this.hist.push(s); this._histT.push(Date.now());
+    this.hist.push(s); this._histT.push(this._stamp());
     this.restore(JSON.parse(s));
   },
   restore(state){
@@ -2427,10 +2448,11 @@ const App = {
         pc.style.width=this.design.w+'px'; pc.style.height=this.design.h+'px';
       }
       this._paintCtx=pc.getContext('2d');
-      pc.addEventListener('mousedown', e=>{ e.stopPropagation(); if(this.tool!=='draw') return; this._pDown(e); });
-      pc.addEventListener('mousemove', e=>{ if(this.tool!=='draw') return; this._pMove(e); });
-      pc.addEventListener('mouseup',   ()=>this._pUp());
-      pc.addEventListener('mouseleave',()=>this._pUp());
+      pc.addEventListener("pointerdown", e=>{ e.stopPropagation(); if(this.tool!=="draw") return; this._pDown(e); });
+      pc.addEventListener("pointermove", e=>{ if(this.tool!=="draw") return; this._pMove(e); });
+      pc.addEventListener("pointerup", e=>this._pUp(e));
+      pc.addEventListener("pointercancel", e=>this._pUp(e));
+      pc.addEventListener("lostpointercapture", e=>this._pUp(e));
       this._paintInited=true;
     }
     pc.style.pointerEvents='auto';
@@ -2441,12 +2463,17 @@ const App = {
   },
 
   _pPt(e) {
-    const pc=document.getElementById('paint-canvas');
-    const r=pc.getBoundingClientRect(), z=this.zoom||1;
-    return { x:(e.clientX-r.left)/z, y:(e.clientY-r.top)/z };
+    const pc=document.getElementById("paint-canvas");
+    const r=pc.getBoundingClientRect();
+    return { x:(e.clientX-r.left)*pc.width/r.width, y:(e.clientY-r.top)*pc.height/r.height };
   },
 
   _pDown(e) {
+    if(e.button!==undefined&&e.button!==0) return;
+    e.preventDefault();
+    this._paintPointerId=e.pointerId ?? null;
+    const pc=document.getElementById("paint-canvas");
+    if(e.pointerId!==undefined&&pc?.setPointerCapture) pc.setPointerCapture(e.pointerId);
     const p=this._pPt(e);
     if(this._paintTool==='eyedrop') { this._paintPick(p); return; }
     // a selected image layer receives all strokes directly; otherwise the
@@ -2490,6 +2517,7 @@ const App = {
     this._paintApply(p, p);
   },
   _pMove(e) {
+    if(this._paintPointerId!==null&&e.pointerId!==this._paintPointerId) return;
     const p=this._pPt(e);
     if((this._paintTool==='line'||this._paintTool==='prect')&&this._shapeStartPt) {
       if(this._strokeTarget){
@@ -2507,13 +2535,17 @@ const App = {
     this._paintApply(this._lastPt, p);
     this._lastPt=p;
   },
-  _pUp() {
+  _pUp(e) {
+    if(e&&this._paintPointerId!==null&&e.pointerId!==this._paintPointerId) return;
     if((this._paintTool==='line'||this._paintTool==='prect')&&this._shapeStartPt) {
       this._shapeStartPt=null; this._shapeSnap=null;
     }
     if(this._strokeTarget) this._finalizeLayerStroke();
     this._painting=false; this._lastPt=null;
     if(this._paintDirtyPending){this._paintDirtyPending=false;this._syncPaintStore();}
+    const pc=document.getElementById("paint-canvas");
+    if(e?.pointerId!==undefined&&pc?.hasPointerCapture?.(e.pointerId)) pc.releasePointerCapture(e.pointerId);
+    this._paintPointerId=null;
   },
 
   // ── Paint history (stroke undo/redo) ──────────────────────────
@@ -2521,7 +2553,7 @@ const App = {
     const ctx=this._paintCtx; if(!ctx) return;
     try {
       const w=this.design.w,h=this.design.h;
-      this._paintHist.push({img:ctx.getImageData(0,0,w,h),t:Date.now()});
+      this._paintHist.push({img:ctx.getImageData(0,0,w,h),t:this._stamp()});
       const cap=Math.max(4,Math.min(20,Math.floor(150e6/(w*h*4)))); // ~150MB snapshot budget
       while(this._paintHist.length>cap)this._paintHist.shift();
       this._paintFut=[]; this.fut=[]; this._futT=[];
@@ -2531,7 +2563,7 @@ const App = {
   undoPaint() {
     const ctx=this._paintCtx; if(!ctx||!this._paintHist.length) return false;
     const top=this._paintHist.pop();
-    try{this._paintFut.push({img:ctx.getImageData(0,0,this.design.w,this.design.h),t:Date.now()});}catch(e){}
+    try{this._paintFut.push({img:ctx.getImageData(0,0,this.design.w,this.design.h),t:this._stamp()});}catch(e){}
     ctx.putImageData(top.img,0,0);
     this._syncPaintStore();
     return true;
@@ -2539,7 +2571,7 @@ const App = {
   redoPaint() {
     const ctx=this._paintCtx; if(!ctx||!this._paintFut.length) return false;
     const top=this._paintFut.pop();
-    try{this._paintHist.push({img:ctx.getImageData(0,0,this.design.w,this.design.h),t:Date.now()});}catch(e){}
+    try{this._paintHist.push({img:ctx.getImageData(0,0,this.design.w,this.design.h),t:this._stamp()});}catch(e){}
     ctx.putImageData(top.img,0,0);
     this._syncPaintStore();
     return true;

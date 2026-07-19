@@ -28,16 +28,20 @@ function Calendar() {
   useEffect(() => {
     const target = containerRef.current
     if (!target) return
-    const timeout = window.setTimeout(() => {
-      let scrollable: HTMLElement | null = null
-      target.querySelectorAll<HTMLElement>('div').forEach(element => {
-        const style = window.getComputedStyle(element)
-        if (!scrollable && (style.overflowY === 'auto' || style.overflowY === 'scroll') && element.scrollHeight > element.clientHeight + 50) scrollable = element
-      })
-      const scrollTarget = scrollable as HTMLElement | null
-      if (scrollTarget) scrollTarget.scrollTop = scrollTarget.scrollHeight * (7 / 24)
-    }, 300)
-    return () => window.clearTimeout(timeout)
+    const scrollToSeven = () => {
+      const scrollTarget = target.querySelector<HTMLElement>(".MuiEventCalendar-dayTimeGridScrollableContent")
+      if (!scrollTarget) return
+      const hour = [...target.querySelectorAll<HTMLElement>(".MuiEventCalendar-dayTimeGridTimeAxisText")].find(item => { const text = item.textContent?.trim() ?? ""; return (text.startsWith("7") && /AM/i.test(text)) || text === "07:00" })
+      if (hour) {
+        const hourTop = hour.getBoundingClientRect().top - scrollTarget.getBoundingClientRect().top + scrollTarget.scrollTop
+        scrollTarget.scrollTop = Math.max(0, Math.round(hourTop))
+      } else {
+        scrollTarget.scrollTop = Math.round(scrollTarget.scrollHeight * (7 / 24))
+      }
+    }
+    const frames = [window.requestAnimationFrame(scrollToSeven), window.requestAnimationFrame(() => window.requestAnimationFrame(scrollToSeven))]
+    const timers = [window.setTimeout(scrollToSeven, 350), window.setTimeout(scrollToSeven, 1000)]
+    return () => { frames.forEach(window.cancelAnimationFrame); timers.forEach(window.clearTimeout) }
   }, [events.length])
 
   const handleEventsChange = useCallback((next: SchedulerEvent[]) => {
@@ -53,7 +57,7 @@ function Calendar() {
     writePlans([...changed, ...retained.filter(plan => !changed.some(item => item.id === plan.id))])
   }, [])
 
-  const calendar = useMemo(() => <EventCalendar events={events} onEventsChange={handleEventsChange} />, [events, handleEventsChange])
+  const calendar = useMemo(() => <EventCalendar events={events} onEventsChange={handleEventsChange} defaultView="day" views={["day", "week", "month", "agenda"]} />, [events, handleEventsChange])
   return <ThemeProvider theme={theme}><CssBaseline enableColorScheme={false} /><div ref={containerRef} className="mui-teacher-calendar">{calendar}</div></ThemeProvider>
 }
 
