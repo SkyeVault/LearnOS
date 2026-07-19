@@ -72,8 +72,9 @@ export function renderHome() {
     </div>`).join('')
 
   const homeStyle = getHomeStyle(learner?.id ?? 'default')
-  getApp().innerHTML = `<div class="page classic-learning-home" data-home-style="${homeStyle}"><div class="bg-shapes">${floatingShapes}</div><header class="header"><div class="home-tools"><button class="back-btn" id="switch-learner">Exit</button></div><div class="home-settings-tools"><button class="back-btn" id="open-design-center">Design Center</button><button class="back-btn" id="open-learner-settings">Theme & home</button></div><div class="title-name">${titleLetters}</div><div class="title-sub">0.26</div><div class="subtitle">What do you want to learn today?</div></header><div class="subjects-grid">${cardHtml}</div></div>`
+  getApp().innerHTML = `<div class="page classic-learning-home" data-home-style="${homeStyle}"><div class="bg-shapes">${floatingShapes}</div><header class="header"><div class="home-tools"><button class="back-btn" id="switch-learner">Exit</button></div><div class="home-settings-tools"><button class="back-btn" id="open-living-library">Living Library</button><button class="back-btn" id="open-design-center">Design Center</button><button class="back-btn" id="open-learner-settings">Theme & home</button></div><div class="title-name">${titleLetters}</div><div class="title-sub">0.26</div><div class="subtitle">What do you want to learn today?</div></header><div class="subjects-grid">${cardHtml}</div></div>`
   document.getElementById('switch-learner')!.addEventListener('click', () => { clearSignedInUser(); resetNavigation(renderProfilePicker) })
+  document.getElementById('open-living-library')!.addEventListener('click', () => navigate(renderCulturalLibrary))
   document.getElementById('open-design-center')!.addEventListener('click', () => navigate(renderCreatorStudio))
   document.getElementById('open-learner-settings')!.addEventListener('click', () => navigate(renderLearnerHomeSettings))
   document.querySelectorAll<HTMLDivElement>('.subject-card').forEach(card => card.addEventListener('click', () => subjects.find(subject => subject.name === card.dataset.subject)?.handler?.()))

@@ -21,6 +21,16 @@ The product direction is a role-based learning system with clear, connected resp
 
 The prototype currently expresses much of this model in local data and interface logic. Before sensitive records or multi-school use, permissions must be enforced at the storage/service layer as described in the [README roadmap](../README.md#security-and-scale-roadmap).
 
+## Build Week module-library release cycle
+
+During the OpenAI Build Week hackathon, you and Codex began a K–12, two-semester-per-subject module scaffold and a standards-first course-material retrieval system. The work is actively being authored, reviewed, and released through the completion of the hackathon using Codex and GPT-5.6.
+
+The current scaffold contains planning manifests, not finished course material. Each module remains a draft until its standards alignment, unit outline, licensed/approved materials, accessibility and safety review, and learner-facing evidence are completed.
+
+The K–12 scaffold now creates 468 semester manifests: 13 grades, 18 subjects, and two semesters each. Every semester begins with a build-ready four-unit / twelve-lesson blueprint that includes activity, evidence, teacher-review, and raise-your-hand fields. The Living Library is the public-facing visual index for these pathways; it includes unit-roadmap disclosure, a built-in reassignable Pre-K Learning World entry, a searchable library header, curated reading and source shelves, and an optional local state-resource lookup.
+
+The state lookup is a reference directory rather than a state-specific curriculum engine. It lets a parent, teacher, or admin save an official URL for a selected state, grade, and subject; the accompanying Living Library guide explains that there is no federal national curriculum registry and directs readers to official state education authorities and major state-by-state reference resources. The parent source policy continues to control external links. This is a participant project and not an official OpenAI product.
+
 ## Development timeline
 
 ### 1. People, access, and relationship management

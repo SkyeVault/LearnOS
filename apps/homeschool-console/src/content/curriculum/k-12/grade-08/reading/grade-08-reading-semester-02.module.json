@@ -1,0 +1,360 @@
+{
+  "id": "grade-08-reading-semester-02",
+  "name": "Grade 8 Reading — Semester 2",
+  "description": "Planning template for Grade 8 Reading, Semester 2. Replace the placeholder goals and lessons before assigning this module.",
+  "version": "0.1.0",
+  "subjectNames": [
+    "Reading"
+  ],
+  "learningGoals": [
+    "TODO: Define the first Reading outcome for Grade 8.",
+    "TODO: Define the evidence of learning for Semester 2."
+  ],
+  "lessons": [
+    {
+      "title": "TODO: Name the opening lesson",
+      "objective": "TODO: Write a measurable Reading objective for grade 8.",
+      "minutes": 45
+    }
+  ],
+  "resources": [],
+  "curriculum": {
+    "gradeId": "grade-08",
+    "subjectId": "reading",
+    "semester": 2,
+    "pacing": {
+      "intendedWeeks": 18,
+      "flexible": true
+    },
+    "units": [
+      {
+        "id": "u01",
+        "title": "Launch: Semester 2",
+        "essentialQuestion": "How can Grade 8 learners use Reading to notice, understand, and contribute?",
+        "outcomes": [
+          "Notice, name prior knowledge, and set a meaningful question."
+        ],
+        "standardIds": [
+          "TODO: Add state and national standard IDs."
+        ],
+        "lessons": [
+          {
+            "id": "u01-l01",
+            "title": "Notice, name prior knowledge, and set a meaningful question.",
+            "objective": "TODO: Write a measurable Reading objective for this lesson.",
+            "estimatedMinutes": 45,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l01-a01",
+                "title": "Learner action",
+                "kind": "practice",
+                "learnerAction": "Notice, name prior knowledge, and set a meaningful question.",
+                "evidenceOptions": [
+                  "written-response",
+                  "observation"
+                ],
+                "estimatedMinutes": 30
+              }
+            ],
+            "successCriteria": [
+              "TODO: Describe what success looks like."
+            ]
+          },
+          {
+            "id": "u01-l02",
+            "title": "Notice, name prior knowledge, and set a meaningful question.",
+            "objective": "TODO: Write a measurable Reading objective for this lesson.",
+            "estimatedMinutes": 45,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l02-a01",
+                "title": "Learner action",
+                "kind": "practice",
+                "learnerAction": "Notice, name prior knowledge, and set a meaningful question.",
+                "evidenceOptions": [
+                  "written-response",
+                  "observation"
+                ],
+                "estimatedMinutes": 30
+              }
+            ],
+            "successCriteria": [
+              "TODO: Describe what success looks like."
+            ]
+          },
+          {
+            "id": "u01-l03",
+            "title": "Notice, name prior knowledge, and set a meaningful question.",
+            "objective": "TODO: Write a measurable Reading objective for this lesson.",
+            "estimatedMinutes": 45,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u01-l03-a01",
+                "title": "Learner action",
+                "kind": "create",
+                "learnerAction": "Notice, name prior knowledge, and set a meaningful question.",
+                "evidenceOptions": [
+                  "written-response",
+                  "observation"
+                ],
+                "estimatedMinutes": 30
+              }
+            ],
+            "successCriteria": [
+              "TODO: Describe what success looks like."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u02",
+        "title": "Explore & practice",
+        "essentialQuestion": "How can Grade 8 learners use Reading to notice, understand, and contribute?",
+        "outcomes": [
+          "Learn through models, guided practice, and feedback."
+        ],
+        "standardIds": [
+          "TODO: Add state and national standard IDs."
+        ],
+        "lessons": [
+          {
+            "id": "u02-l01",
+            "title": "Learn through models, guided practice, and feedback.",
+            "objective": "TODO: Write a measurable Reading objective for this lesson.",
+            "estimatedMinutes": 45,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u02-l01-a01",
+                "title": "Learner action",
+                "kind": "practice",
+                "learnerAction": "Learn through models, guided practice, and feedback.",
+                "evidenceOptions": [
+                  "written-response",
+                  "observation"
+                ],
+                "estimatedMinutes": 30
+              }
+            ],
+            "successCriteria": [
+              "TODO: Describe what success looks like."
+            ]
+          },
+          {
+            "id": "u02-l02",
+            "title": "Learn through models, guided practice, and feedback.",
+            "objective": "TODO: Write a measurable Reading objective for this lesson.",
+            "estimatedMinutes": 45,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u02-l02-a01",
+                "title": "Learner action",
+                "kind": "practice",
+                "learnerAction": "Learn through models, guided practice, and feedback.",
+                "evidenceOptions": [
+                  "written-response",
+                  "observation"
+                ],
+                "estimatedMinutes": 30
+              }
+            ],
+            "successCriteria": [
+              "TODO: Describe what success looks like."
+            ]
+          },
+          {
+            "id": "u02-l03",
+            "title": "Learn through models, guided practice, and feedback.",
+            "objective": "TODO: Write a measurable Reading objective for this lesson.",
+            "estimatedMinutes": 45,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u02-l03-a01",
+                "title": "Learner action",
+                "kind": "create",
+                "learnerAction": "Learn through models, guided practice, and feedback.",
+                "evidenceOptions": [
+                  "written-response",
+                  "observation"
+                ],
+                "estimatedMinutes": 30
+              }
+            ],
+            "successCriteria": [
+              "TODO: Describe what success looks like."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u03",
+        "title": "Create & apply",
+        "essentialQuestion": "How can Grade 8 learners use Reading to notice, understand, and contribute?",
+        "outcomes": [
+          "Apply learning in a STEM, fine-art, or real-world creation."
+        ],
+        "standardIds": [
+          "TODO: Add state and national standard IDs."
+        ],
+        "lessons": [
+          {
+            "id": "u03-l01",
+            "title": "Apply learning in a STEM, fine-art, or real-world creation.",
+            "objective": "TODO: Write a measurable Reading objective for this lesson.",
+            "estimatedMinutes": 45,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u03-l01-a01",
+                "title": "Learner action",
+                "kind": "practice",
+                "learnerAction": "Apply learning in a STEM, fine-art, or real-world creation.",
+                "evidenceOptions": [
+                  "written-response",
+                  "observation"
+                ],
+                "estimatedMinutes": 30
+              }
+            ],
+            "successCriteria": [
+              "TODO: Describe what success looks like."
+            ]
+          },
+          {
+            "id": "u03-l02",
+            "title": "Apply learning in a STEM, fine-art, or real-world creation.",
+            "objective": "TODO: Write a measurable Reading objective for this lesson.",
+            "estimatedMinutes": 45,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u03-l02-a01",
+                "title": "Learner action",
+                "kind": "practice",
+                "learnerAction": "Apply learning in a STEM, fine-art, or real-world creation.",
+                "evidenceOptions": [
+                  "written-response",
+                  "observation"
+                ],
+                "estimatedMinutes": 30
+              }
+            ],
+            "successCriteria": [
+              "TODO: Describe what success looks like."
+            ]
+          },
+          {
+            "id": "u03-l03",
+            "title": "Apply learning in a STEM, fine-art, or real-world creation.",
+            "objective": "TODO: Write a measurable Reading objective for this lesson.",
+            "estimatedMinutes": 45,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u03-l03-a01",
+                "title": "Learner action",
+                "kind": "create",
+                "learnerAction": "Apply learning in a STEM, fine-art, or real-world creation.",
+                "evidenceOptions": [
+                  "written-response",
+                  "observation"
+                ],
+                "estimatedMinutes": 30
+              }
+            ],
+            "successCriteria": [
+              "TODO: Describe what success looks like."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "u04",
+        "title": "Reflect & share",
+        "essentialQuestion": "How can Grade 8 learners use Reading to notice, understand, and contribute?",
+        "outcomes": [
+          "Share evidence, reflect, request help when needed, and set a next step."
+        ],
+        "standardIds": [
+          "TODO: Add state and national standard IDs."
+        ],
+        "lessons": [
+          {
+            "id": "u04-l01",
+            "title": "Share evidence, reflect, request help when needed, and set a next step.",
+            "objective": "TODO: Write a measurable Reading objective for this lesson.",
+            "estimatedMinutes": 45,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u04-l01-a01",
+                "title": "Learner action",
+                "kind": "practice",
+                "learnerAction": "Share evidence, reflect, request help when needed, and set a next step.",
+                "evidenceOptions": [
+                  "written-response",
+                  "observation"
+                ],
+                "estimatedMinutes": 30
+              }
+            ],
+            "successCriteria": [
+              "TODO: Describe what success looks like."
+            ]
+          },
+          {
+            "id": "u04-l02",
+            "title": "Share evidence, reflect, request help when needed, and set a next step.",
+            "objective": "TODO: Write a measurable Reading objective for this lesson.",
+            "estimatedMinutes": 45,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u04-l02-a01",
+                "title": "Learner action",
+                "kind": "practice",
+                "learnerAction": "Share evidence, reflect, request help when needed, and set a next step.",
+                "evidenceOptions": [
+                  "written-response",
+                  "observation"
+                ],
+                "estimatedMinutes": 30
+              }
+            ],
+            "successCriteria": [
+              "TODO: Describe what success looks like."
+            ]
+          },
+          {
+            "id": "u04-l03",
+            "title": "Share evidence, reflect, request help when needed, and set a next step.",
+            "objective": "TODO: Write a measurable Reading objective for this lesson.",
+            "estimatedMinutes": 45,
+            "prerequisites": [],
+            "activities": [
+              {
+                "id": "u04-l03-a01",
+                "title": "Learner action",
+                "kind": "create",
+                "learnerAction": "Share evidence, reflect, request help when needed, and set a next step.",
+                "evidenceOptions": [
+                  "written-response",
+                  "observation"
+                ],
+                "estimatedMinutes": 30
+              }
+            ],
+            "successCriteria": [
+              "TODO: Describe what success looks like."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

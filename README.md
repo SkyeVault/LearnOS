@@ -4,6 +4,8 @@ LearnOS is a local-first learning operating system for families, small programs,
 
 > Prototype status: LearnOS is actively evolving. It is suitable for local evaluation and curriculum prototyping, but it is not yet a security-complete school information system.
 
+> **OpenAI Build Week status:** K–12 modules are actively being authored, reviewed, and released through the completion of this hackathon. This participant project is being built with Codex and GPT-5.6; modules marked as planning templates are not finished curriculum.
+
 ## What is in LearnOS now
 
 - **Role-based workspaces** for Admin, Teacher, Parent or Guardian, and Learner accounts
@@ -12,6 +14,9 @@ LearnOS is a local-first learning operating system for families, small programs,
 - **Family Hub** with a shared system calendar and individual personal calendars
 - **Creator Studio and Design Studio** for making lesson materials, slide decks, and visual teaching assets
 - **Module Library** for local, versioned learning packages assigned to learners
+- **K–12 module scaffold** with 468 semester manifests, four-unit / twelve-lesson blueprints, evidence and teacher-review paths, and a national-framework retrieval map
+- **Built-in Pre-K Learning World** that remains available and can be assigned again at any time
+- **Living Library discovery tools** including K–12 pathways, unit roadmaps, searchable shelves, curated resources, and an optional state-resource reference lookup
 - **Admin Corner** for program planning, resource management, module authoring, software guidance, and full visibility into local records
 - **Local resource shelves** for files, links, folders, class materials, and approved learning sources
 - **Learning records, assignments, evidence, and family-ready communication**
