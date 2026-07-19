@@ -1,6 +1,6 @@
 # LearnOS
 
-LearnOS is a local-first learning operating system for families, small programs, and classroom pilots. It brings learner activities, family participation, teaching tools, planning, records, modules, shared calendars, and a design workspace into one desktop application.
+LearnOS is a local-first learning operating system for families, small programs, and classroom pilots. It brings learner activities, family participation, teaching tools, planning, records, modules, shared calendars, and a design workspace into one desktop application. See the [Project History](https://github.com/SkyeVault/LearnOS/blob/main/docs/PROJECT_HISTORY.md) for the curated build record and known gaps.
 
 > Prototype status: LearnOS is actively evolving. It is suitable for local evaluation and curriculum prototyping, but it is not yet a security-complete school information system.
 
@@ -104,6 +104,67 @@ npm run tauri build # desktop installers
 ## Current local accounts
 
 The prototype includes local Admin, Teacher, Parent, and Learner flows. The initial local Admin account is `admin` with password `12341234`; change this immediately in any real local installation.
+
+
+## Open-source acknowledgements
+
+LearnOS is built with the following open-source projects. Exact JavaScript package versions and smaller transitive dependencies are recorded in `apps/homeschool-console/package-lock.json`; exact Rust crates are recorded in `apps/homeschool-console/src-tauri/Cargo.lock`.
+
+### Application and desktop runtime
+
+| Project | Used for | License |
+| --- | --- | --- |
+| [React / React DOM](https://github.com/react/react) | Component-based user interface | MIT |
+| [Material UI / MUI X](https://github.com/mui/material-ui) | Components, icons, scheduler, and tree view | MIT |
+| [Emotion](https://github.com/emotion-js/emotion) | CSS-in-JS styling used by MUI | MIT |
+| [Tauri](https://github.com/tauri-apps/tauri) | Desktop shell, native bridge, CLI, build tooling, and logging plugin | Apache-2.0 OR MIT |
+| [read-excel-file](https://github.com/catamphetamine/read-excel-file) | Reading `.xlsx` files | MIT |
+
+### Calendar, scheduling, and interface support
+
+| Project | Used for | License |
+| --- | --- | --- |
+| [date-fns](https://github.com/date-fns/date-fns) and `@date-fns/tz` | Date and time helpers | MIT |
+| [Atlassian Pragmatic Drag and Drop](https://github.com/atlassian/pragmatic-drag-and-drop) | Drag-and-drop support in the scheduling stack | Apache-2.0 |
+| [Floating UI](https://github.com/floating-ui/floating-ui) | Positioning menus, popovers, and floating controls | MIT |
+| [Popper Core](https://github.com/popperjs/popper-core) | Positioning engine | MIT |
+| [Base UI](https://github.com/mui/base-ui) | Accessible UI primitives | MIT |
+| [React Transition Group](https://github.com/reactjs/react-transition-group) | UI transitions | BSD-3-Clause |
+| [Reselect](https://github.com/reduxjs/reselect) | Memoized state selectors | MIT |
+| [Stylis](https://github.com/thysultan/stylis) | CSS preprocessing for Emotion | MIT |
+| [tabbable](https://github.com/focus-trap/tabbable) | Keyboard focus management | MIT |
+| [clsx](https://github.com/lukeed/clsx) | Conditional CSS class names | MIT |
+
+### Build, test, and type tooling
+
+| Project | Used for | License |
+| --- | --- | --- |
+| [TypeScript](https://github.com/microsoft/TypeScript) | Type checking and compilation | Apache-2.0 |
+| [Vite](https://github.com/vitejs/vite) | Development server and web builds | MIT |
+| [Vitest](https://github.com/vitest-dev/vitest) | Unit test runner | MIT |
+| [Rollup](https://github.com/rollup/rollup) | Production bundling through Vite | MIT |
+| [esbuild](https://github.com/evanw/esbuild) | Fast code transformation and bundling | MIT |
+| [Babel](https://github.com/babel/babel) | JavaScript parsing and transforms | MIT |
+| [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | React type definitions | MIT |
+| [Chai](https://github.com/chaijs/chai) | Test assertions | MIT |
+| [PostCSS](https://github.com/postcss/postcss) | CSS transformation tooling | MIT |
+| [Magic String](https://github.com/rich-harris/magic-string) | Source editing and source maps | MIT |
+| [Nano ID](https://github.com/ai/nanoid) | Identifier generation | MIT |
+| [YAML](https://github.com/eemeli/yaml) | YAML parsing used by tooling | ISC |
+
+### Rust crates used by the native layer
+
+| Project | Used for | License |
+| --- | --- | --- |
+| [Serde](https://github.com/serde-rs/serde) | Rust serialization and deserialization | MIT OR Apache-2.0 |
+| [serde_json](https://github.com/serde-rs/json) | Rust JSON support | MIT OR Apache-2.0 |
+| [Rust `log`](https://github.com/rust-lang/log) | Native logging facade | MIT OR Apache-2.0 |
+
+### Fonts and Design Studio provenance
+
+- [Inter](https://github.com/rsms/inter) and [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) are loaded in the standalone Design Studio through Google Fonts and are released under the SIL Open Font License.
+- Design Studio was copied from the project owner's local `aryn-design-studio` workspace and renamed. It is treated as internal project material, not as an independently verified third-party open-source dependency. Its original author and license should be confirmed before any separate redistribution.
+- The Google Fonts stylesheet is the one external runtime request currently made by the standalone Design Studio. Self-host the fonts before a fully offline classroom deployment.
 
 ## Security and scale roadmap
 
