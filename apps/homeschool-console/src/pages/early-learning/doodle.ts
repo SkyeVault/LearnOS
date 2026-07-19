@@ -1,146 +1,119 @@
-import { goBack, getApp } from '../../nav'
+import { goBack, getApp } from "../../nav"
 
-const PALETTE = [
-  '#FF4444','#FF8C00','#FFD700','#44BB44',
-  '#4488FF','#9944CC','#FF69B4','#000000',
-  '#FFFFFF','#00BFAE',
-]
+const PALETTE = ["#FF4444", "#FF8C00", "#FFD700", "#44BB44", "#4488FF", "#9944CC", "#FF69B4", "#000000", "#FFFFFF", "#00BFAE"]
 const SIZES = [8, 16, 28, 44]
 const BAR_H = 60
 const TOOL_H = 64
-const UI_H   = BAR_H + TOOL_H   // 124px total top UI
+const UI_H = BAR_H + TOOL_H
 
 export function renderDoodle() {
-  const swatches = PALETTE.map((c, i) => `
-    <button id="dswatch-${i}"
-      style="width:38px;height:38px;border-radius:50%;background:${c};
-             border:4px solid transparent;cursor:pointer;
-             box-shadow:0 2px 5px rgba(0,0,0,0.2);flex-shrink:0;"
-      data-color="${c}"></button>`
-  ).join('')
+  const swatches = PALETTE.map((color, index) => `<button id="dswatch-${index}" class="doodle-swatch" style="background:${color}" aria-label="Choose ${color}"></button>`).join("")
+  const sizeButtons = SIZES.map((size, index) => `<button id="dsize-${index}" class="doodle-size" style="--ds:${size}px" aria-label="Choose brush size ${size}">●</button>`).join("")
 
-  const sizeBtns = SIZES.map((s, i) => `
-    <button id="dsize-${i}"
-      style="border-radius:50%;border:3px solid #c0c0d0;background:#fff;
-             width:${s + 16}px;height:${s + 16}px;cursor:pointer;
-             display:flex;align-items:center;justify-content:center;
-             font-size:${s}px;color:#555;flex-shrink:0;"
-      data-size="${s}">●</button>`
-  ).join('')
+  getApp().innerHTML = `<div id="doodle-topbar" class="doodle-topbar"><button id="doodle-back" class="back-btn">← Back</button><div class="doodle-title">✏️ Doodle Pad</div><button id="doodle-clear" class="count-btn count-btn--clear">Clear</button></div><div id="doodle-toolbar" class="doodle-toolbar"><div class="doodle-swatches">${swatches}</div><div class="doodle-divider"></div><div class="doodle-sizes">${sizeButtons}</div></div><canvas id="doodle-canvas" class="fixed-canvas" aria-label="Doodle drawing area"></canvas>`
 
-  getApp().innerHTML = `
-    <div id="doodle-topbar"
-      style="position:fixed;top:0;left:0;right:0;height:${BAR_H}px;z-index:10;
-             display:flex;align-items:center;gap:12px;padding:0 16px;
-             background:#fff;border-bottom:3px solid #e0e0e8;
-             box-shadow:0 2px 6px rgba(0,0,0,0.06);">
-      <button id="doodle-back" class="back-btn">← Back</button>
-      <div style="flex:1;text-align:center;font-size:20px;font-weight:900;color:#4a3580;">✏️ Doodle Pad</div>
-      <button id="doodle-clear" class="count-btn count-btn--clear">Clear</button>
-    </div>
-    <div id="doodle-toolbar"
-      style="position:fixed;top:${BAR_H}px;left:0;right:0;height:${TOOL_H}px;z-index:10;
-             display:flex;align-items:center;gap:10px;padding:0 16px;
-             background:#fafafa;border-bottom:3px solid #e0e0e8;">
-      ${swatches}
-      <div style="width:2px;height:40px;background:#e0e0e0;flex-shrink:0;"></div>
-      ${sizeBtns}
-    </div>
-    <canvas id="doodle-canvas"
-      style="position:fixed;top:${UI_H}px;left:0;cursor:crosshair;z-index:1;display:block;"></canvas>`
-
-  const canvas = document.getElementById('doodle-canvas') as HTMLCanvasElement
-  const ctx    = canvas.getContext('2d')!
-
-  let initialized = false
+  const canvas = document.getElementById("doodle-canvas") as HTMLCanvasElement
+  const ctx = canvas.getContext("2d")!
   let drawing = false
-  let lastX = 0, lastY = 0
+  let activePointer: number | null = null
+  let lastX = 0
+  let lastY = 0
+  let color = PALETTE[0]!
+  let size = SIZES[1]!
+  let cssWidth = 0
+  let cssHeight = 0
+
+  function paintBackground() {
+    ctx.fillStyle = "#FAFAFA"
+    ctx.fillRect(0, 0, cssWidth, cssHeight)
+  }
 
   function resize() {
-    const snap = initialized ? ctx.getImageData(0, 0, canvas.width, canvas.height) : null
-    canvas.width  = window.innerWidth
-    canvas.height = window.innerHeight - UI_H
-    canvas.style.width  = window.innerWidth  + 'px'
-    canvas.style.height = (window.innerHeight - UI_H) + 'px'
-    ctx.fillStyle = '#FAFAFA'
-    ctx.fillRect(0, 0, canvas.width, canvas.height)
-    if (snap) ctx.putImageData(snap, 0, 0)
-    initialized = true
-  }
-  resize()
-  window.addEventListener('resize', resize)
-
-  // Toolbar state
-  let color = '#FF4444'
-  let size  = 16
-
-  function setActiveSwatch(idx: number) {
-    PALETTE.forEach((_, i) => {
-      const s = document.getElementById(`dswatch-${i}`) as HTMLButtonElement
-      if (s) s.style.border = i === idx ? '4px solid #333' : '4px solid transparent'
-    })
-  }
-  function setActiveSize(idx: number) {
-    SIZES.forEach((_, i) => {
-      const s = document.getElementById(`dsize-${i}`) as HTMLButtonElement
-      if (s) s.style.borderColor = i === idx ? '#4C6EF5' : '#c0c0d0'
-    })
-  }
-  setActiveSwatch(0)
-  setActiveSize(1)
-
-  PALETTE.forEach((c, i) => {
-    document.getElementById(`dswatch-${i}`)!.addEventListener('click', () => { color = c; setActiveSwatch(i) })
-  })
-  SIZES.forEach((s, i) => {
-    document.getElementById(`dsize-${i}`)!.addEventListener('click', () => { size = s; setActiveSize(i) })
-  })
-
-  document.getElementById('doodle-back')!.addEventListener('click', () => {
-    window.removeEventListener('resize', resize)
-    goBack()
-  })
-  document.getElementById('doodle-clear')!.addEventListener('click', () => {
-    ctx.fillStyle = '#FAFAFA'
-    ctx.fillRect(0, 0, canvas.width, canvas.height)
-  })
-
-  // Draw directly on canvas — canvas is top element in the paint area (below toolbars)
-  function getPos(e: MouseEvent | TouchEvent) {
-    const cx = e instanceof TouchEvent ? e.touches[0].clientX : (e as MouseEvent).clientX
-    const cy = e instanceof TouchEvent ? e.touches[0].clientY : (e as MouseEvent).clientY
-    return { x: cx, y: cy - UI_H }
+    const previous = canvas.width && canvas.height ? (() => {
+      const snapshot = document.createElement("canvas")
+      snapshot.width = canvas.width
+      snapshot.height = canvas.height
+      snapshot.getContext("2d")!.drawImage(canvas, 0, 0)
+      return snapshot
+    })() : null
+    const ratio = Math.max(window.devicePixelRatio || 1, 1)
+    cssWidth = window.innerWidth
+    cssHeight = Math.max(window.innerHeight - UI_H, 1)
+    canvas.width = Math.round(cssWidth * ratio)
+    canvas.height = Math.round(cssHeight * ratio)
+    canvas.style.top = `${UI_H}px`
+    canvas.style.width = `${cssWidth}px`
+    canvas.style.height = `${cssHeight}px`
+    ctx.setTransform(ratio, 0, 0, ratio, 0, 0)
+    paintBackground()
+    if (previous) ctx.drawImage(previous, 0, 0, cssWidth, cssHeight)
   }
 
-  function startDraw(e: MouseEvent | TouchEvent) {
-    drawing = true
-    const p = getPos(e)
-    lastX = p.x; lastY = p.y
+  function position(event: PointerEvent) {
+    const rect = canvas.getBoundingClientRect()
+    return { x: (event.clientX - rect.left) * (cssWidth / rect.width), y: (event.clientY - rect.top) * (cssHeight / rect.height) }
+  }
+
+  function dot(x: number, y: number) {
     ctx.beginPath()
-    ctx.arc(lastX, lastY, size / 2, 0, Math.PI * 2)
+    ctx.arc(x, y, size / 2, 0, Math.PI * 2)
     ctx.fillStyle = color
     ctx.fill()
   }
 
-  function draw(e: MouseEvent | TouchEvent) {
-    if (!drawing) return
-    const { x, y } = getPos(e)
-    ctx.beginPath()
-    ctx.moveTo(lastX, lastY)
-    ctx.lineTo(x, y)
-    ctx.strokeStyle = color
-    ctx.lineWidth   = size
-    ctx.lineCap     = 'round'
-    ctx.lineJoin    = 'round'
-    ctx.stroke()
-    lastX = x; lastY = y
+  function beginStroke(event: PointerEvent) {
+    if (event.pointerType === "mouse" && event.button !== 0) return
+    event.preventDefault()
+    const point = position(event)
+    drawing = true
+    activePointer = event.pointerId
+    canvas.setPointerCapture(event.pointerId)
+    lastX = point.x
+    lastY = point.y
+    dot(lastX, lastY)
   }
 
-  canvas.addEventListener('mousedown',  e => startDraw(e))
-  canvas.addEventListener('mousemove',  e => draw(e))
-  canvas.addEventListener('mouseup',    () => { drawing = false })
-  canvas.addEventListener('mouseleave', () => { drawing = false })
-  canvas.addEventListener('touchstart', e => { e.preventDefault(); startDraw(e) }, { passive: false })
-  canvas.addEventListener('touchmove',  e => { e.preventDefault(); draw(e) },      { passive: false })
-  canvas.addEventListener('touchend',   () => { drawing = false })
+  function extendStroke(event: PointerEvent) {
+    if (!drawing || activePointer !== event.pointerId) return
+    event.preventDefault()
+    const point = position(event)
+    ctx.beginPath()
+    ctx.moveTo(lastX, lastY)
+    ctx.lineTo(point.x, point.y)
+    ctx.strokeStyle = color
+    ctx.lineWidth = size
+    ctx.lineCap = "round"
+    ctx.lineJoin = "round"
+    ctx.stroke()
+    lastX = point.x
+    lastY = point.y
+  }
+
+  function endStroke(event: PointerEvent) {
+    if (activePointer !== event.pointerId) return
+    drawing = false
+    activePointer = null
+    if (canvas.hasPointerCapture(event.pointerId)) canvas.releasePointerCapture(event.pointerId)
+  }
+
+  function setActiveSwatch(index: number) {
+    PALETTE.forEach((_, itemIndex) => document.getElementById(`dswatch-${itemIndex}`)?.classList.toggle("doodle-swatch--active", itemIndex === index))
+  }
+  function setActiveSize(index: number) {
+    SIZES.forEach((_, itemIndex) => document.getElementById(`dsize-${itemIndex}`)?.classList.toggle("doodle-size--active", itemIndex === index))
+  }
+
+  resize()
+  setActiveSwatch(0)
+  setActiveSize(1)
+  window.addEventListener("resize", resize)
+  PALETTE.forEach((item, index) => document.getElementById(`dswatch-${index}`)!.addEventListener("click", () => { color = item; setActiveSwatch(index) }))
+  SIZES.forEach((item, index) => document.getElementById(`dsize-${index}`)!.addEventListener("click", () => { size = item; setActiveSize(index) }))
+  document.getElementById("doodle-clear")!.addEventListener("click", paintBackground)
+  document.getElementById("doodle-back")!.addEventListener("click", () => { window.removeEventListener("resize", resize); goBack() })
+  canvas.addEventListener("pointerdown", beginStroke)
+  canvas.addEventListener("pointermove", extendStroke)
+  canvas.addEventListener("pointerup", endStroke)
+  canvas.addEventListener("pointercancel", endStroke)
+  canvas.addEventListener("lostpointercapture", () => { drawing = false; activePointer = null })
 }

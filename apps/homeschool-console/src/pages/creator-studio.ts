@@ -1,0 +1,7 @@
+import { getApp, goBack } from '../nav'
+import { localClipArtBank, localTeachingLibrary } from '../content/local-teaching-library'
+
+export function renderCreatorStudio() {
+  getApp().innerHTML = `<main class="creator-studio"><header><button class="back-btn" id="studio-back">← Admin Corner</button><div><p class="os-kicker">100% LOCAL CREATOR STUDIO</p><h1>Build a lesson from what you already have</h1><p>Original lesson seeds and local visual tokens—no browser required.</p></div></header><section class="studio-section"><h2>Local lesson library <small>${localTeachingLibrary.length} lesson seeds</small></h2><div class="lesson-grid">${localTeachingLibrary.map(lesson => `<article><span>${lesson.subject} · ${lesson.ages}</span><h3>${lesson.title}</h3><p>${lesson.objective}</p><details><summary>Lesson steps</summary><ol>${lesson.steps.map(step => `<li>${step}</li>`).join('')}</ol><strong>Extension:</strong> ${lesson.extension}</details></article>`).join('')}</div></section><section class="studio-section"><h2>Local clip-art drawer <small>${localClipArtBank.length} reusable visual tokens</small></h2><p>These are built into Learning World and are safe for local worksheets, cards, and lesson prompts.</p><div class="clip-grid">${localClipArtBank.map(asset => `<button title="${asset.label}" style="--clip-color:${asset.color}"><span>${asset.glyph}</span><small>${asset.category}</small></button>`).join('')}</div></section></main>`
+  document.getElementById('studio-back')!.addEventListener('click', goBack)
+}

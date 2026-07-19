@@ -1,0 +1,14 @@
+#learning-world-print-root { display: none; }
+@media print {
+  body.learning-world-printing #app { display: none !important; }
+  body.learning-world-printing #learning-world-print-root { display: block !important; color: #111827; font-family: Arial, sans-serif; padding: 18mm; }
+  #learning-world-print-root header { border-bottom: 2px solid #312e81; margin-bottom: 16px; padding-bottom: 10px; }
+  #learning-world-print-root header p { margin: 3px 0; color: #475569; font-size: 11pt; }
+  #learning-world-print-root h1 { margin: 4px 0; color: #312e81; font-size: 23pt; }
+  #learning-world-print-root h2 { color: #1e3a8a; }
+  #learning-world-print-root h3 { color: #334155; }
+  #learning-world-print-root p, #learning-world-print-root li { font-size: 12pt; line-height: 1.45; }
+  #learning-world-print-root article, #learning-world-print-root div { break-inside: avoid; }
+  #learning-world-print-root details { display: block; }
+  #learning-world-print-root summary { font-weight: 700; }
+}

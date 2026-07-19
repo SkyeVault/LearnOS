@@ -2,9 +2,9 @@
   "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
   "productName": "learning-world",
   "version": "0.1.0",
-  "identifier": "com.learningworld.app",
+  "identifier": "com.learningworld.learnos",
   "build": {
-    "devUrl": "http://localhost:5173",
+    "devUrl": "http://localhost:1420",
     "frontendDist": "../dist",
     "beforeDevCommand": "npm run dev",
     "beforeBuildCommand": "npm run build"
@@ -12,15 +12,18 @@
   "app": {
     "windows": [
       {
-        "title": "Learning World",
-        "width": 800,
-        "height": 600,
+        "title": "LearnOS-26",
+        "width": 1280,
+        "height": 800,
+        "minWidth": 960,
+        "minHeight": 640,
         "resizable": true,
+        "maximized": true,
         "fullscreen": false
       }
     ],
     "security": {
-      "csp": null
+      "csp": "default-src 'self'; img-src 'self' data: blob:; style-src 'self' 'unsafe-inline'; script-src 'self'; connect-src 'self' http://127.0.0.1:* http://localhost:*; media-src 'self' data: blob:;"
     }
   },
   "bundle": {

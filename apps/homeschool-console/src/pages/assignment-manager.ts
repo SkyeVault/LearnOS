@@ -1,0 +1,14 @@
+import { getApp, goBack } from '../nav'
+import { getLearners } from '../app/store'
+import { assignmentsFor, createAssignment } from '../features/assignments-store'
+import './assignments.css'
+
+export function renderAssignmentManager(selectedLearnerId?: string) {
+  const learners = getLearners()
+  const learner = learners.find(item => item.id === selectedLearnerId) ?? learners[0]
+  const list = learner ? assignmentsFor(learner.id) : []
+  getApp().innerHTML = `<main class="assignment-manager"><header class="manager-header"><button class="back-btn" id="manager-back">← Admin Corner</button><div><p class="os-kicker">PARENT ASSIGNMENT DESK</p><h1>Give goals meaning</h1><p>Assign achievable missions that invite effort, reflection, and a clear reward.</p></div></header><section class="manager-grid"><form class="manager-form" id="assignment-form"><h2>New assignment</h2><label>Learner<select id="assignment-learner">${learners.map(item => `<option value="${item.id}" ${item.id === learner?.id ? 'selected' : ''}>${item.avatar} ${item.name}</option>`).join('')}</select></label><label>Mission title<input id="assignment-title" required maxlength="90" placeholder="Build a rainwater model"></label><label>What does success look like?<textarea id="assignment-description" required maxlength="700" placeholder="Use recycled materials, explain your design, and save one reflection."></textarea></label><label>Reward points<input id="assignment-points" required type="number" min="1" max="100" value="10"></label><button class="os-primary">Assign mission ✦</button></form><section class="manager-list"><h2>Assignments for ${learner ? `${learner.avatar} ${learner.name}` : 'this home'}</h2>${list.length ? list.map(item => `<article class="${item.completedAt ? 'done' : ''}"><span class="point-badge">${item.points} points</span><h3>${item.title}</h3><p>${item.description}</p><small>${item.completedAt ? 'Completed' : 'Assigned'}</small></article>`).join('') : '<p>No assignments yet. Start with one small, meaningful mission.</p>'}</section></section></main>`
+  document.getElementById('manager-back')!.addEventListener('click', goBack)
+  document.getElementById('assignment-learner')!.addEventListener('change', event => renderAssignmentManager((event.target as HTMLSelectElement).value))
+  document.getElementById('assignment-form')!.addEventListener('submit', event => { event.preventDefault(); const learnerId = (document.getElementById('assignment-learner') as HTMLSelectElement).value; createAssignment({ learnerId, title: (document.getElementById('assignment-title') as HTMLInputElement).value.trim(), description: (document.getElementById('assignment-description') as HTMLTextAreaElement).value.trim(), points: Number((document.getElementById('assignment-points') as HTMLInputElement).value) }); renderAssignmentManager(learnerId) })
+}
