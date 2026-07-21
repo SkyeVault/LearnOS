@@ -22,7 +22,7 @@ export function renderSetup() {
           <form id="setup-form" class="os-form setup-form">
             <label><span>Home name</span><input required maxlength="40" id="home-name" placeholder="Our learning home"></label>
             <label><span>First learner’s name</span><input required maxlength="30" id="learner-name" placeholder="Learner name"></label>
-            <aside class="setup-note"><span aria-hidden="true">✦</span><div><strong>Ready for a quick tour?</strong><p>Starter accounts for admin, student, teacher, and parent use <code>12341234</code>.</p></div></aside>
+            <aside class="setup-note"><span aria-hidden="true">✦</span><div><strong>After setup, sign in as <code>admin</code></strong><p>Password: <code>12341234</code>. From Admin Corner, you can manage the other local accounts.</p></div></aside>
             <button class="os-primary" type="submit">Create learning home <span aria-hidden="true">→</span></button>
           </form>
         </div>
