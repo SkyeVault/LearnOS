@@ -6,6 +6,37 @@ LearnOS is a local-first learning operating system for families, small programs,
 
 > **OpenAI Build Week status:** The K–12 library includes completed, locally stored semester pathways across Kindergarten through Grade 12. Each pathway still requires local educator review, adaptation, and approved materials before assignment in a specific program.
 
+## Use LearnOS
+
+### Try the web demo
+
+Open [LearnOS on GitHub Pages](https://skyevault.github.io/LearnOS/) for a browser-based evaluation. Create a learning home, then sign in with:
+
+```text
+Username: admin
+Password: 12341234
+```
+
+The web demo keeps its records in that browser on that device. It does not sync accounts, learner data, or progress with other devices. Clearing the site data resets the local demo.
+
+### Download LearnOS 0.26
+
+[Download the v0.26.0 release](https://github.com/SkyeVault/LearnOS/releases/tag/v0.26.0) for GitHub source archives and Linux x86_64 installers.
+
+- **Debian or Ubuntu:** download `LearnOS_0.26.0_amd64.deb`, then run `sudo apt install ./LearnOS_0.26.0_amd64.deb`.
+- **Fedora, RHEL, or openSUSE:** download `LearnOS-0.26.0-1.x86_64.rpm`, then install it with your distribution package manager.
+
+The desktop build is also local-first: records stay on the device unless a future sync service is introduced. Windows and macOS installers are not included in this release.
+
+### First steps inside the app
+
+1. Create the household and first learner on the welcome screen.
+2. Sign in as `admin` with password `12341234`.
+3. In **Admin Corner**, add people, manage classes, assign learning modules, and approve sources.
+4. Use **Module Creator** to create a local module from a template, or import a reviewed JSON manifest. Modules contain declarative goals, lessons, evidence, and resources; they never run downloaded code.
+5. Use **Teacher Desk** to save lesson plans, slide outlines, and teaching records for assigned classes.
+
+
 ## What is in LearnOS now
 
 - **Role-based workspaces** for Admin, Teacher, Parent or Guardian, and Learner accounts
