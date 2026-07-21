@@ -7,18 +7,25 @@ const prototypePassword = "12341234"
 
 export function renderSetup() {
   getApp().innerHTML = `
-    <main class="os-shell os-setup">
-      <div class="os-brand"><span class="setup-brand-mark"></span><span>LearnOS</span><small>0.26</small></div>
-      <section class="os-card">
-        <p class="os-kicker">WELCOME, GROWN-UPS</p>
-        <h1>Set up your learning home</h1>
-        <p>This prototype creates four starter accounts and keeps everything on this device.</p>
-        <form id="setup-form" class="os-form">
-          <label>Home name<input required maxlength="40" id="home-name" placeholder="The Rivera Learning Home"></label>
-          <label>First learner’s name<input required maxlength="30" id="learner-name" placeholder="Avery"></label>
-          <p class="setup-note"><strong>Prototype sign-ins:</strong> admin, student, teacher, and parent. Password for each: <code>12341234</code>.</p>
-          <button class="os-primary" type="submit">Create learning home →</button>
-        </form>
+    <main class="os-shell os-setup setup-screen">
+      <span class="setup-orbit setup-orbit-one" aria-hidden="true">✦</span>
+      <span class="setup-orbit setup-orbit-two" aria-hidden="true">●</span>
+      <section class="os-card setup-card">
+        <header class="setup-card-header">
+          <div class="os-brand"><span class="setup-brand-mark"></span><span>LearnOS</span></div>
+          <span class="setup-local-badge">Local-first</span>
+        </header>
+        <div class="setup-card-body">
+          <p class="os-kicker">WELCOME, GROWN-UPS</p>
+          <h1>Set up your learning home</h1>
+          <p class="setup-intro">A private, calm place to plan, learn, and keep the moments that matter. Everything begins on this device.</p>
+          <form id="setup-form" class="os-form setup-form">
+            <label><span>Home name</span><input required maxlength="40" id="home-name" placeholder="Our learning home"></label>
+            <label><span>First learner’s name</span><input required maxlength="30" id="learner-name" placeholder="Learner name"></label>
+            <aside class="setup-note"><span aria-hidden="true">✦</span><div><strong>Ready for a quick tour?</strong><p>Starter accounts for admin, student, teacher, and parent use <code>12341234</code>.</p></div></aside>
+            <button class="os-primary" type="submit">Create learning home <span aria-hidden="true">→</span></button>
+          </form>
+        </div>
       </section>
     </main>`
 
