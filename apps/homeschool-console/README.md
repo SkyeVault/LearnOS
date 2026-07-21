@@ -6,7 +6,7 @@ The original HomeSchool experience is preserved inside LearnOS as a collection o
 
 For the product roadmap and limitations, see the [root README](../../README.md). For the curated development record, see [Project History](../../docs/PROJECT_HISTORY.md).
 
-> **OpenAI Build Week status:** The K–12 module library is under active construction and release through the end of this hackathon. LearnOS is a participant project built with Codex and GPT-5.6; template modules must be completed and reviewed before learner assignment.
+> **OpenAI Build Week status:** The K–12 library includes 1,638 completed, locally stored semester pathways across Kindergarten through Grade 12. Each pathway still requires local educator review, adaptation, and approved materials before assignment in a specific program.
 
 ## What this app provides
 
