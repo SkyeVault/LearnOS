@@ -1,7 +1,7 @@
 {
   "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
-  "productName": "learning-world",
-  "version": "0.1.0",
+  "productName": "LearnOS",
+  "version": "0.26.0",
   "identifier": "com.learningworld.learnos",
   "build": {
     "devUrl": "http://localhost:1420",

@@ -1,10 +1,10 @@
 [package]
-name = "app"
-version = "0.1.0"
-description = "A Tauri App"
-authors = ["you"]
-license = ""
-repository = ""
+name = "learnos"
+version = "0.26.0"
+description = "LearnOS local-first learning operating system"
+authors = ["Lorelei Noble"]
+license = "MIT"
+repository = "https://github.com/SkyeVault/LearnOS"
 edition = "2021"
 rust-version = "1.77.2"
 
